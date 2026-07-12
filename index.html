@@ -176,6 +176,9 @@
   tr.me:hover{background:rgba(0,230,118,.09)}
   .me .pil b{color:var(--acc)}.me .pil .av{background:rgba(0,230,118,.14);border-color:rgba(0,230,118,.4);color:var(--acc)}
   .tag-me{font-size:10px;font-weight:800;background:var(--acc);color:#04120a;padding:2px 7px;border-radius:6px;letter-spacing:.03em}
+  .kchip{display:inline-flex;align-items:center;gap:3px;font-family:var(--fd);font-size:10.5px;font-weight:700;color:var(--mut);
+    background:var(--panel3);border:1px solid var(--bd);border-radius:6px;padding:1px 6px;vertical-align:middle;flex:none;white-space:nowrap}
+  .kchip b{color:var(--acc);font-weight:700}
   .t{font-family:var(--fm);font-weight:700;color:var(--acc);font-size:15px}
   .tsm{color:var(--mut);font-size:12.5px}
   .tcol{text-align:right;white-space:nowrap}
@@ -357,7 +360,7 @@ function render(){
       <div class="av">${av(p.nome)}<span class="medal">${medal}</span></div>
       <div class="nm">${p.nome}${isMe(p.nome)?'<span class="youtag">VOCÊ</span>':''}</div>
       <div class="tm mono">${p.melhor_geral}</div>
-      <div class="gap">${idx===0?'—':fmtGap(gap)}</div>
+      <div class="gap">${(idx===0?'líder':fmtGap(gap))+(p.kart?'  ·  🏎'+p.kart:'')}</div>
       <div class="base"><div class="rankn">${idx+1}</div></div></div>`;}).join("");
   document.querySelectorAll(".pod[data-p]").forEach(el=>el.onclick=()=>openPilot(decodeURIComponent(el.dataset.p)));
 
@@ -378,8 +381,8 @@ function render(){
 }
 
 function ranking(){
-  if(curTrack==="__geral__") return D.pilotos.map(p=>({nome:p.nome,tracado:p.melhor_geral_tracado,tempo:p.melhor_geral,seg:p.melhor_geral_seg}));
-  return (D.leaderboard_por_tracado[curTrack]||[]).map(e=>({nome:e.piloto,tracado:e.tracado,tempo:e.tempo,seg:e.seg}));
+  if(curTrack==="__geral__") return D.pilotos.map(p=>({nome:p.nome,kart:p.kart,tracado:p.melhor_geral_tracado,tempo:p.melhor_geral,seg:p.melhor_geral_seg}));
+  return (D.leaderboard_por_tracado[curTrack]||[]).map(e=>({nome:e.piloto,kart:e.kart,tracado:e.tracado,tempo:e.tempo,seg:e.seg}));
 }
 function renderRows(){
   const q=(document.getElementById("q").value||"").toLowerCase().trim();
@@ -391,7 +394,7 @@ function renderRows(){
   if(!list.length){tb.innerHTML='<tr><td colspan=5><div class=load>nenhum piloto encontrado</div></td></tr>';return;}
   tb.innerHTML=list.map(r=>`<tr data-top="${r.rank}" class="${isMe(r.nome)?'me':''}" data-p="${encodeURIComponent(r.nome)}">
     <td class="pos"><span class="rankbadge">${r.rank}</span></td>
-    <td><div class="pil"><div class="av">${av(r.nome)}</div><b>${r.nome}</b>${isMe(r.nome)?' <span class="tag-me">VOCÊ</span>':''}</div></td>
+    <td><div class="pil"><div class="av">${av(r.nome)}</div><b>${r.nome}</b>${isMe(r.nome)?' <span class="tag-me">VOCÊ</span>':''}${r.kart?` <span class="kchip">🏎<b>${r.kart}</b></span>`:''}</div></td>
     <td class="hidesm"><span class="tsm">${r.tracado}</span></td>
     <td class="gapcell hidesm"><div class="gapbar"><i data-w="${r.gap<=0?100:Math.max(6,100-(r.gap/maxGap)*100)}"></i></div><span class="gaptxt">${fmtGap(r.gap)}</span></td>
     <td class="tcol"><span class="t">${r.tempo}</span></td></tr>`).join("");
@@ -409,11 +412,11 @@ function openPilot(nome){
     return `<div class="pbrow ${best?'best':''}">
       <div class="top"><div class="tr">${trk}</div><div class="tm mono">${v.tempo}</div></div>
       <div class="pbbar"><i data-w="${pct}"></i></div>
-      <div class="sub"><span>${v.data}</span><span>${gap<=0?'RECORDE DO TRAÇADO 🏆':'+'+gap.toFixed(3)+'s do recorde'}</span></div></div>`;}).join("");
+      <div class="sub"><span>${v.kart?'🏎 '+v.kart+' · ':''}${v.data}</span><span>${gap<=0?'RECORDE DO TRAÇADO 🏆':'+'+gap.toFixed(3)+'s do recorde'}</span></div></div>`;}).join("");
   document.getElementById("sheet").innerHTML=`<button class="x" onclick="closeM()">×</button>
     <div class="bighead"><div class="av">${av(nome)}</div>
       <div><h3 style="${isMe(nome)?'color:var(--acc)':''}">${nome}</h3>
-        <div class="rk"><b>#${p.rank_geral}</b> no ranking geral · ${p.aparicoes} ${p.aparicoes===1?'participação':'participações'} · melhor volta <b>${p.melhor_geral}</b></div></div></div>
+        <div class="rk"><b>#${p.rank_geral}</b> no ranking geral${p.kart?' · kart <b>'+p.kart+'</b>':''} · melhor volta <b>${p.melhor_geral}</b></div></div></div>
     ${rows}`;
   const md=document.getElementById("modal");md.classList.add("on");
   requestAnimationFrame(()=>md.querySelectorAll(".pbbar i").forEach(i=>i.style.width=i.dataset.w+"%"));
@@ -431,8 +434,8 @@ function renderSessions(){
       <td class="hidesm tsm">#${p.kart}</td><td class="tcol"><span class="t">${p.melhor_volta}</span></td></tr>`).join("");
     return `<details class="sess"${i===0?' open':''}><summary>
         <div class="sn">${String(D.sessoes.length-i).padStart(2,'0')}</div>
-        <div><div class="dt">${s.data} <span class="pill">Grupo ${s.grupo}</span> <span class="pill">${s.sessao}</span></div>
-          <div class="meta">${s.tracado}${s.hora?' · '+s.hora:''} — ${res.length} pilotos</div></div>
+        <div><div class="dt">${s.data} ${s.evento?`<span class="pill">${s.evento}</span>`:''} ${s.bateria?`<span class="pill">${s.bateria}</span>`:''} ${s.tipo?`<span class="pill">${s.tipo}</span>`:''}</div>
+          <div class="meta">${s.tracado} — ${res.length} pilotos</div></div>
         <svg class="chev" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="m6 9 6 6 6-6"/></svg>
       </summary><div class="sbody"><div class="tablewrap"><table>
         <thead><tr><th class="pos">#</th><th>Piloto</th><th class="hidesm">Kart</th><th class="tcol">Melhor volta</th></tr></thead>
