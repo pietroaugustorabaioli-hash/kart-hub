@@ -1,0 +1,451 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kart Hub — O banco de dados da pista · Competikar Uberlândia</title>
+<meta name="description" content="O banco de dados definitivo de tempos de volta: recorde da pista, pódio dos mais rápidos, ranking por traçado e histórico completo das sessões. Competikar Uberlândia.">
+<meta name="theme-color" content="#06070a">
+<meta property="og:title" content="Kart Hub — O banco de dados da pista">
+<meta property="og:description" content="Recorde da pista, pódio, ranking por traçado e histórico das sessões. Competikar Uberlândia.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&family=JetBrains+Mono:wght@500;700;800&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2306070a'/%3E%3Cg fill='%2300e676'%3E%3Crect x='6' y='6' width='5' height='5'/%3E%3Crect x='16' y='6' width='5' height='5'/%3E%3Crect x='11' y='11' width='5' height='5'/%3E%3Crect x='21' y='11' width='5' height='5'/%3E%3Crect x='6' y='16' width='5' height='5'/%3E%3Crect x='16' y='16' width='5' height='5'/%3E%3Crect x='11' y='21' width='5' height='5'/%3E%3Crect x='21' y='21' width='5' height='5'/%3E%3C/g%3E%3C/svg%3E">
+<style>
+  :root{
+    --bg:#06070a; --bg2:#0a0c11;
+    --panel:rgba(255,255,255,.026); --panel2:#0f121b; --panel3:#151926;
+    --bd:rgba(255,255,255,.08); --bd2:rgba(255,255,255,.13);
+    --txt:#f1f3f9; --mut:#9aa3b6; --mut2:#606981;
+    --acc:#00e676; --acc2:#26f0a4; --accd:#00a854; --glow:rgba(0,230,118,.45);
+    --gold:#ffd35c; --silver:#d6dce8; --bronze:#e59a5c; --hot:#ff5468;
+    --r:18px; --pad:clamp(16px,4.2vw,30px); --maxw:1200px;
+    --ff:'Inter',system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    --fd:'Space Grotesk',var(--ff); --fm:'JetBrains Mono',ui-monospace,monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+  body{background:var(--bg);color:var(--txt);font-family:var(--ff);font-size:16px;line-height:1.55;
+    -webkit-font-smoothing:antialiased;overflow-x:hidden;position:relative}
+  body::before{content:"";position:fixed;inset:0;z-index:-2;pointer-events:none;
+    background:
+      radial-gradient(900px 520px at 78% -8%, rgba(0,230,118,.16), transparent 60%),
+      radial-gradient(760px 480px at 8% 8%, rgba(0,120,255,.10), transparent 58%),
+      radial-gradient(1000px 700px at 50% 118%, rgba(0,230,118,.07), transparent 60%),
+      var(--bg)}
+  body::after{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;opacity:.5;mix-blend-mode:overlay;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.5'/%3E%3C/svg%3E")}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 var(--pad)}
+  .mono{font-family:var(--fm);font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+  .reveal{opacity:0;transform:translateY(22px);transition:opacity .7s cubic-bezier(.2,.7,.2,1),transform .7s cubic-bezier(.2,.7,.2,1)}
+  .reveal.in{opacity:1;transform:none}
+  @media(prefers-reduced-motion:reduce){.reveal{opacity:1!important;transform:none!important;transition:none}html{scroll-behavior:auto}}
+
+  header{position:sticky;top:0;z-index:60;background:rgba(6,7,10,.72);backdrop-filter:blur(16px) saturate(1.4);
+    border-bottom:1px solid var(--bd)}
+  .nav{display:flex;align-items:center;gap:16px;height:62px}
+  .logo{display:flex;align-items:center;gap:11px;font-family:var(--fd);font-weight:700;font-size:19px;letter-spacing:-.02em}
+  .logo .flag{width:28px;height:28px;border-radius:8px;background:
+    repeating-conic-gradient(#eef1f7 0 25%, #0a0a0a 0 50%) 0/13px 13px;box-shadow:0 0 0 1px var(--bd2),0 4px 16px rgba(0,0,0,.5)}
+  .logo b{color:var(--acc)}
+  .live{margin-left:2px;display:inline-flex;align-items:center;gap:6px;font-family:var(--ff);font-size:11px;font-weight:700;
+    color:var(--acc);letter-spacing:.05em;padding:4px 9px;border:1px solid rgba(0,230,118,.28);border-radius:20px;
+    background:rgba(0,230,118,.07)}
+  .live i{width:6px;height:6px;border-radius:50%;background:var(--acc);box-shadow:0 0 8px var(--acc);animation:blink 2s infinite}
+  @keyframes blink{50%{opacity:.35}}
+  .nav nav{margin-left:auto;display:flex;gap:2px}
+  .nav nav a{padding:8px 13px;border-radius:10px;color:var(--mut);font-size:14px;font-weight:600;transition:.15s}
+  .nav nav a:hover{color:var(--txt);background:var(--panel)}
+  @media(max-width:640px){.live{display:none}.nav nav a{padding:8px 9px;font-size:13px}.logo span.dot{display:none}}
+  @media(max-width:420px){.nav nav a[data-opt]{display:none}}
+
+  .hero{position:relative;padding:clamp(40px,9vw,92px) 0 clamp(30px,5vw,50px)}
+  .speedlines{position:absolute;inset:0;z-index:-1;overflow:hidden;opacity:.5;pointer-events:none;-webkit-mask:linear-gradient(90deg,transparent,#000 30%,#000 70%,transparent)}
+  .speedlines span{position:absolute;height:1px;left:-30%;width:60%;background:linear-gradient(90deg,transparent,rgba(0,230,118,.6),transparent);
+    animation:zip var(--d,7s) linear infinite;animation-delay:var(--dl,0s)}
+  @keyframes zip{0%{transform:translateX(-40vw)}100%{transform:translateX(180vw)}}
+  @media(prefers-reduced-motion:reduce){.speedlines{display:none}}
+  .kicker{display:inline-flex;align-items:center;gap:9px;font-family:var(--fd);color:var(--acc);font-weight:600;font-size:13px;
+    letter-spacing:.14em;text-transform:uppercase;margin-bottom:18px}
+  .kicker::before{content:"";width:26px;height:2px;background:linear-gradient(90deg,var(--acc),transparent);border-radius:2px}
+  h1.title{font-family:var(--fd);font-size:clamp(38px,8.4vw,82px);line-height:.98;letter-spacing:-.035em;font-weight:700;max-width:15ch}
+  h1.title em{font-style:normal;background:linear-gradient(120deg,var(--acc),var(--acc2) 60%,#bff6dd);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .lede{color:var(--mut);max-width:56ch;margin-top:20px;font-size:clamp(15px,2.3vw,19px)}
+
+  .herogrid{display:grid;grid-template-columns:1.2fr .9fr;gap:clamp(20px,3vw,40px);align-items:end;margin-top:clamp(30px,5vw,54px)}
+  @media(max-width:860px){.herogrid{grid-template-columns:1fr}}
+  .trackrec{position:relative;border-radius:24px;padding:28px;overflow:hidden;
+    background:linear-gradient(160deg,rgba(0,230,118,.14),rgba(255,255,255,.02) 42%),var(--panel2);
+    border:1px solid rgba(0,230,118,.24);box-shadow:0 30px 80px -30px rgba(0,230,118,.35),inset 0 1px 0 rgba(255,255,255,.05)}
+  .trackrec::after{content:"";position:absolute;top:-60%;right:-30%;width:70%;height:200%;
+    background:radial-gradient(closest-side,var(--glow),transparent);opacity:.5;filter:blur(10px)}
+  .trackrec .lbl{position:relative;display:inline-flex;align-items:center;gap:8px;font-family:var(--fd);font-weight:600;font-size:12px;
+    letter-spacing:.12em;text-transform:uppercase;color:var(--acc)}
+  .trackrec .big{position:relative;font-family:var(--fm);font-weight:800;font-size:clamp(56px,13vw,104px);line-height:.9;
+    letter-spacing:-.04em;margin:10px 0 2px;color:#fff;text-shadow:0 0 34px var(--glow)}
+  .trackrec .big s{font-size:.34em;text-decoration:none;color:var(--acc);font-weight:700;margin-left:4px}
+  .trackrec .holder{position:relative;display:flex;align-items:center;gap:13px;margin-top:16px}
+  .trackrec .holder .av{width:44px;height:44px;border-radius:12px;display:grid;place-items:center;font-family:var(--fd);font-weight:700;
+    font-size:16px;color:#04120a;background:linear-gradient(150deg,var(--acc),var(--accd));box-shadow:0 6px 18px -4px var(--glow)}
+  .trackrec .holder b{font-family:var(--fd);font-weight:600;font-size:17px}
+  .trackrec .holder span{color:var(--mut);font-size:13px;display:block}
+
+  .stats{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .stat{background:var(--panel);border:1px solid var(--bd);border-radius:16px;padding:18px 18px 15px;position:relative;overflow:hidden}
+  .stat::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:linear-gradient(var(--acc),transparent)}
+  .stat .n{font-family:var(--fd);font-size:clamp(30px,6vw,42px);font-weight:700;letter-spacing:-.03em;line-height:1}
+  .stat .l{color:var(--mut);font-size:12.5px;margin-top:6px;text-transform:uppercase;letter-spacing:.05em;font-weight:600}
+
+  section{padding:clamp(46px,8vw,86px) 0;position:relative}
+  .shead{margin-bottom:clamp(24px,4vw,38px)}
+  .shead .tag{font-family:var(--fd);color:var(--acc);font-weight:600;font-size:12.5px;letter-spacing:.13em;text-transform:uppercase}
+  .shead h2{font-family:var(--fd);font-size:clamp(26px,5vw,42px);letter-spacing:-.03em;font-weight:700;margin-top:8px}
+  .shead p{color:var(--mut);font-size:clamp(14px,2vw,16px);margin-top:8px;max-width:60ch}
+
+  .podium{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(10px,2vw,20px);align-items:end;max-width:820px;margin:0 auto}
+  .pod{position:relative;min-width:0;border-radius:18px 18px 0 0;padding:20px 14px 22px;text-align:center;
+    background:linear-gradient(180deg,var(--panel3),var(--panel2));border:1px solid var(--bd);border-bottom:0;cursor:pointer;transition:transform .2s}
+  .pod .nm,.pod .tm,.pod .gap{max-width:100%;overflow:hidden;text-overflow:ellipsis}
+  .pod:hover{transform:translateY(-4px)}
+  .pod .av{width:clamp(52px,11vw,72px);height:clamp(52px,11vw,72px);border-radius:50%;margin:0 auto 12px;display:grid;place-items:center;
+    font-family:var(--fd);font-weight:700;font-size:clamp(19px,4vw,26px);color:#06070a;position:relative}
+  .pod .medal{position:absolute;bottom:-4px;right:-4px;width:26px;height:26px;border-radius:50%;display:grid;place-items:center;
+    font-size:13px;background:#0a0c11;border:2px solid #0a0c11}
+  .pod .nm{font-family:var(--fd);font-weight:600;font-size:clamp(14px,2.4vw,17px);line-height:1.2;min-height:2.2em;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px}
+  .pod .tm{font-family:var(--fm);font-weight:800;font-size:clamp(17px,3.4vw,23px);margin-top:8px;color:var(--acc)}
+  .pod .gap{font-size:11.5px;color:var(--mut2);margin-top:3px;font-family:var(--fm)}
+  .pod .base{height:var(--h);margin-top:14px;position:relative;
+    background:linear-gradient(180deg,rgba(255,255,255,.05),rgba(255,255,255,0));border-top:2px solid var(--c)}
+  .pod .rankn{font-family:var(--fd);font-weight:700;font-size:clamp(34px,8vw,60px);color:var(--c);opacity:.85;line-height:1;padding-top:10px}
+  .pod.p1{--c:var(--gold)} .pod.p1 .av{background:linear-gradient(150deg,#ffe08a,var(--gold));box-shadow:0 10px 30px -8px rgba(255,211,92,.5)}
+  .pod.p1 .base{--h:clamp(64px,13vw,104px)} .pod.p1{transform:translateY(-8px)} .pod.p1:hover{transform:translateY(-12px)}
+  .pod.p2{--c:var(--silver)} .pod.p2 .av{background:linear-gradient(150deg,#eef2f8,var(--silver))}
+  .pod.p2 .base{--h:clamp(44px,9vw,72px)}
+  .pod.p3{--c:var(--bronze)} .pod.p3 .av{background:linear-gradient(150deg,#f2b483,var(--bronze))}
+  .pod.p3 .base{--h:clamp(30px,7vw,52px)}
+  .pod.me{border-color:rgba(0,230,118,.4);box-shadow:0 0 0 1px rgba(0,230,118,.25),0 20px 50px -25px var(--glow)}
+  .pod.me .nm{color:var(--acc)}
+  .pod .youtag{display:inline-block;font-size:10px;font-weight:800;letter-spacing:.04em;color:#04120a;background:var(--acc);padding:2px 8px;border-radius:6px}
+
+  .recs{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
+  .rec{position:relative;background:var(--panel2);border:1px solid var(--bd);border-radius:var(--r);padding:24px;overflow:hidden;transition:transform .25s,border-color .25s}
+  .rec:hover{transform:translateY(-4px);border-color:var(--bd2)}
+  .rec::before{content:"";position:absolute;inset:0 auto 0 0;width:4px;background:linear-gradient(var(--acc),var(--accd))}
+  .rec .tr{font-family:var(--fd);color:var(--mut);font-size:13px;font-weight:600;text-transform:uppercase;letter-spacing:.06em}
+  .rec .time{font-family:var(--fm);font-size:clamp(40px,8vw,56px);font-weight:800;letter-spacing:-.04em;margin:10px 0 0;color:#fff}
+  .rec .time s{font-size:.36em;text-decoration:none;color:var(--acc);font-weight:700}
+  .rec .who{display:flex;align-items:center;gap:11px;margin-top:16px}
+  .rec .who .av{width:38px;height:38px;border-radius:11px;background:var(--panel3);display:grid;place-items:center;font-family:var(--fd);font-weight:700;color:var(--acc);border:1px solid var(--bd)}
+  .rec .who b{font-weight:600}.rec .who span{color:var(--mut);font-size:12.5px;display:block}
+  .rec .trophy{position:absolute;top:18px;right:20px;font-size:24px;filter:drop-shadow(0 4px 10px rgba(0,0,0,.5))}
+
+  .ctrls{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:18px}
+  .tabs{display:flex;gap:7px;flex-wrap:wrap}
+  .tab{font-family:var(--fd);padding:10px 15px;border-radius:11px;border:1px solid var(--bd);background:var(--panel);color:var(--mut);
+    font-weight:600;font-size:13.5px;cursor:pointer;transition:.16s}
+  .tab:hover{color:var(--txt);border-color:var(--bd2)}
+  .tab.on{background:linear-gradient(150deg,var(--acc),var(--accd));color:#04120a;border-color:transparent;box-shadow:0 8px 22px -8px var(--glow)}
+  .search{margin-left:auto;position:relative}
+  .search input{background:var(--panel2);border:1px solid var(--bd);border-radius:12px;color:var(--txt);
+    padding:11px 15px 11px 38px;font-size:14.5px;width:min(250px,54vw);outline:none;font-family:var(--ff);transition:.16s}
+  .search input:focus{border-color:var(--acc);box-shadow:0 0 0 3px rgba(0,230,118,.12)}
+  .search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);opacity:.5}
+  @media(max-width:560px){.search{margin-left:0;width:100%}.search input{width:100%}}
+
+  .tablewrap{border:1px solid var(--bd);border-radius:var(--r);overflow:hidden;background:var(--panel2)}
+  table{width:100%;border-collapse:collapse}
+  thead th{background:rgba(255,255,255,.02);color:var(--mut2);font-size:11px;text-transform:uppercase;letter-spacing:.08em;
+    text-align:left;padding:13px 18px;font-weight:700;font-family:var(--fd)}
+  tbody tr{border-top:1px solid var(--bd);cursor:pointer;transition:background .13s}
+  tbody tr:hover{background:rgba(255,255,255,.025)}
+  td{padding:13px 18px;font-size:14.5px;vertical-align:middle}
+  td.pos{width:52px}
+  .rankbadge{display:inline-grid;place-items:center;width:30px;height:30px;border-radius:9px;font-family:var(--fd);font-weight:700;font-size:13px;
+    background:var(--panel3);color:var(--mut);border:1px solid var(--bd)}
+  tr[data-top="1"] .rankbadge{background:linear-gradient(150deg,#4a3c12,#2a2208);color:var(--gold);border-color:#5c4a1a}
+  tr[data-top="2"] .rankbadge{background:linear-gradient(150deg,#2a2f3d,#1c2029);color:var(--silver);border-color:#39404f}
+  tr[data-top="3"] .rankbadge{background:linear-gradient(150deg,#3a2818,#241610);color:var(--bronze);border-color:#4a3320}
+  .pil{display:flex;align-items:center;gap:12px}
+  .pil .av{width:34px;height:34px;border-radius:10px;display:grid;place-items:center;font-family:var(--fd);font-weight:700;font-size:13px;
+    background:var(--panel3);border:1px solid var(--bd);color:var(--mut);flex:none}
+  .pil b{font-weight:500}
+  tr.me{background:rgba(0,230,118,.05)}
+  tr.me:hover{background:rgba(0,230,118,.09)}
+  .me .pil b{color:var(--acc)}.me .pil .av{background:rgba(0,230,118,.14);border-color:rgba(0,230,118,.4);color:var(--acc)}
+  .tag-me{font-size:10px;font-weight:800;background:var(--acc);color:#04120a;padding:2px 7px;border-radius:6px;letter-spacing:.03em}
+  .t{font-family:var(--fm);font-weight:700;color:var(--acc);font-size:15px}
+  .tsm{color:var(--mut);font-size:12.5px}
+  .tcol{text-align:right;white-space:nowrap}
+  .gapcell{width:150px}
+  .gapbar{position:relative;height:7px;border-radius:6px;background:rgba(255,255,255,.06);overflow:hidden}
+  .gapbar i{position:absolute;inset:0 auto 0 0;border-radius:6px;width:0;background:linear-gradient(90deg,var(--acc),var(--acc2));transition:width 1s cubic-bezier(.2,.7,.2,1)}
+  tr[data-top="1"] .gapbar i{background:linear-gradient(90deg,var(--gold),#fff0c0)}
+  .gaptxt{font-family:var(--fm);font-size:11.5px;color:var(--mut2);margin-top:4px;display:block}
+  @media(max-width:720px){
+    .hidesm{display:none}
+    table{table-layout:fixed;width:100%}
+    thead th,td{padding:12px 11px}
+    td.pos,.pos{width:38px} .tcol{width:74px}
+    .pil{gap:10px;min-width:0;overflow:hidden} .pil .av{display:none}
+    .pil b{min-width:0;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    .tag-me{flex:none}
+    .t{font-size:13.5px}
+    thead th.tcol{white-space:normal;line-height:1.2}
+    .tablewrap{overflow-x:hidden}
+  }
+  @media(max-width:480px){
+    .podium{gap:7px}
+    .pod{padding:14px 7px 18px}
+    .pod .av{width:46px;height:46px;font-size:17px}
+    .pod .nm{font-size:12.5px;min-height:2.8em}
+    .pod .tm{font-size:16px}
+    .pod .gap{font-size:10px}
+    .pod .rankn{font-size:34px}
+    .pod .medal{width:22px;height:22px;font-size:11px}
+  }
+
+  .sess{border:1px solid var(--bd);border-radius:15px;background:var(--panel2);margin-bottom:12px;overflow:hidden;transition:border-color .2s}
+  .sess[open]{border-color:var(--bd2)}
+  .sess summary{list-style:none;cursor:pointer;padding:17px 20px;display:flex;align-items:center;gap:15px}
+  .sess summary::-webkit-details-marker{display:none}
+  .sess .sn{width:40px;height:40px;border-radius:11px;display:grid;place-items:center;font-family:var(--fd);font-weight:700;font-size:12px;
+    background:var(--panel3);border:1px solid var(--bd);color:var(--acc);flex:none;text-align:center;line-height:1.1}
+  .sess .chev{margin-left:auto;color:var(--mut2);transition:.25s;flex:none}
+  .sess[open] .chev{transform:rotate(180deg)}
+  .sess .dt{font-family:var(--fd);font-weight:600;font-size:15.5px}
+  .sess .meta{color:var(--mut);font-size:13px;margin-top:2px}
+  .sess .pill{font-family:var(--fd);font-size:10.5px;font-weight:600;padding:3px 9px;border-radius:20px;background:var(--panel3);border:1px solid var(--bd);color:var(--mut);vertical-align:middle}
+  .sbody{padding:2px 20px 16px}
+  .sbody .tablewrap{border:0;background:transparent}
+  .sbody thead th{background:transparent;padding:8px 12px}
+  .sbody td{padding:9px 12px;font-size:13.5px}
+  .sbody tbody tr{cursor:default}
+
+  .modal{position:fixed;inset:0;z-index:100;display:none;place-items:center;padding:18px;
+    background:rgba(3,4,7,.74);backdrop-filter:blur(8px)}
+  .modal.on{display:grid}
+  .sheet{background:linear-gradient(165deg,var(--panel3),var(--panel2));border:1px solid var(--bd2);border-radius:24px;max-width:480px;width:100%;
+    padding:30px;max-height:88vh;overflow:auto;animation:pop .22s cubic-bezier(.2,.9,.3,1);box-shadow:0 40px 100px -30px rgba(0,0,0,.8)}
+  @keyframes pop{from{transform:translateY(16px) scale(.97);opacity:0}to{transform:none;opacity:1}}
+  .sheet .x{float:right;color:var(--mut);font-size:26px;cursor:pointer;line-height:1;border:0;background:none;padding:0;transition:.15s}
+  .sheet .x:hover{color:var(--txt)}
+  .sheet .bighead{display:flex;align-items:center;gap:16px;margin-bottom:22px}
+  .sheet .bighead .av{width:60px;height:60px;border-radius:16px;display:grid;place-items:center;font-family:var(--fd);font-weight:700;font-size:23px;
+    background:linear-gradient(150deg,var(--acc),var(--accd));color:#04120a;flex:none;box-shadow:0 10px 26px -8px var(--glow)}
+  .sheet h3{font-family:var(--fd);font-size:24px;letter-spacing:-.02em;font-weight:600}
+  .sheet .rk{color:var(--mut);font-size:13.5px;margin-top:3px}
+  .sheet .rk b{color:var(--acc);font-family:var(--fm);font-weight:700}
+  .pbrow{padding:15px 0;border-top:1px solid var(--bd)}
+  .pbrow .top{display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+  .pbrow .tr{font-family:var(--fd);font-weight:500;font-size:14px}
+  .pbrow .tm{font-family:var(--fm);font-weight:800;color:var(--acc);font-size:19px}
+  .pbrow .sub{display:flex;justify-content:space-between;color:var(--mut2);font-size:11.5px;margin-top:7px;font-family:var(--fm)}
+  .pbrow.best .tr::after{content:"PB GERAL";font-family:var(--fd);font-size:9.5px;font-weight:700;color:#04120a;background:var(--acc);padding:2px 6px;border-radius:5px;margin-left:8px;letter-spacing:.03em;vertical-align:middle}
+  .pbbar{height:6px;border-radius:5px;background:rgba(255,255,255,.06);margin-top:8px;overflow:hidden}
+  .pbbar i{display:block;height:100%;border-radius:5px;background:linear-gradient(90deg,var(--acc),var(--acc2));width:0;transition:width .8s cubic-bezier(.2,.7,.2,1)}
+
+  footer{border-top:1px solid var(--bd);padding:36px 0;color:var(--mut2);font-size:13px}
+  footer b{color:var(--mut);font-family:var(--fd);font-weight:600}
+  footer .fl{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;align-items:center}
+  .load{padding:70px 0;text-align:center;color:var(--mut)}
+</style>
+</head>
+<body>
+<header><div class="wrap nav">
+  <a class="logo" href="#top"><span class="flag"></span> KART<b>HUB</b> <span class="dot" style="color:var(--mut2);font-weight:500;font-size:13px;font-family:var(--ff)">Competikar</span></a>
+  <span class="live"><i></i>DADOS OFICIAIS</span>
+  <nav>
+    <a href="#podio">Pódio</a>
+    <a href="#recordes">Recordes</a>
+    <a href="#ranking">Ranking</a>
+    <a href="#sessoes" data-opt>Sessões</a>
+  </nav>
+</div></header>
+
+<main id="top">
+  <section class="hero"><div class="wrap">
+    <div class="speedlines" id="sl"></div>
+    <span class="kicker">Competikar · Uberlândia — MG</span>
+    <h1 class="title">O banco de dados<br>definitivo da <em>pista</em>.</h1>
+    <p class="lede">Cada volta, cada piloto, cada recorde — a cronometragem oficial transformada em ranking. Quem é o mais rápido, em qual traçado, e a que distância do recorde.</p>
+    <div class="herogrid">
+      <div class="trackrec reveal" id="trackrec"></div>
+      <div class="stats reveal" id="stats"></div>
+    </div>
+  </div></section>
+
+  <section id="podio"><div class="wrap">
+    <div class="shead reveal"><div class="tag">🏆 Os mais rápidos</div><h2>O pódio da pista</h2>
+      <p>Os três pilotos com a melhor volta absoluta já registrada, entre todos os traçados.</p></div>
+    <div class="podium reveal" id="podium"></div>
+  </div></section>
+
+  <section id="recordes" style="background:linear-gradient(180deg,transparent,rgba(255,255,255,.015),transparent)"><div class="wrap">
+    <div class="shead reveal"><div class="tag">🏁 Recordes</div><h2>A volta mais rápida de cada traçado</h2>
+      <p>O tempo a ser batido em cada configuração da pista.</p></div>
+    <div class="recs reveal" id="recs"></div>
+  </div></section>
+
+  <section id="ranking"><div class="wrap">
+    <div class="shead reveal"><div class="tag">⚡ Ranking</div><h2>Todos os pilotos, ordenados</h2>
+      <p>Melhor volta de cada piloto e a distância pro líder. Filtre por traçado, busque um nome, clique num piloto pra ver os tempos completos.</p></div>
+    <div class="ctrls reveal">
+      <div class="tabs" id="tabs"></div>
+      <div class="search"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4-4"/></svg><input id="q" placeholder="Buscar piloto…" autocomplete="off"></div>
+    </div>
+    <div class="tablewrap reveal"><table>
+      <thead><tr><th class="pos">#</th><th>Piloto</th><th class="hidesm">Traçado</th><th class="gapcell hidesm">Gap p/ líder</th><th class="tcol">Melhor volta</th></tr></thead>
+      <tbody id="rows"><tr><td colspan="5"><div class="load">carregando dados…</div></td></tr></tbody>
+    </table></div>
+  </div></section>
+
+  <section id="sessoes" style="background:linear-gradient(180deg,transparent,rgba(255,255,255,.015),transparent)"><div class="wrap">
+    <div class="shead reveal"><div class="tag">📅 Histórico</div><h2>Sessão por sessão</h2>
+      <p>O resultado completo de cada bateria e tomada de tempo. Clique pra expandir.</p></div>
+    <div id="sess" class="reveal"></div>
+  </div></section>
+</main>
+
+<footer><div class="wrap fl">
+  <div><b>Kart Hub</b> · <span id="fmeta"></span></div>
+  <div>Cronometragem oficial Competikar (LapTime) · montado pelo Jarvis · <span id="gen"></span></div>
+</div></footer>
+
+<div class="modal" id="modal"><div class="sheet" id="sheet"></div></div>
+
+<script>
+const av = n => (n||"?").trim().split(/\s+/).map(w=>w[0]).slice(0,2).join("").toUpperCase();
+const isMe = n => /^pietro/i.test((n||"").trim());
+const fmtGap = g => g<=0 ? "líder" : "+"+g.toFixed(3);
+let D=null, curTrack="__geral__", ranked=[];
+
+fetch("data.json").then(r=>r.json()).then(d=>{D=d;render();}).catch(()=>{
+  document.getElementById("rows").innerHTML='<tr><td colspan=5><div class=load>erro ao carregar dados</div></td></tr>';
+});
+
+(()=>{const sl=document.getElementById("sl");if(!sl)return;let h="";
+  for(let i=0;i<7;i++){const top=8+i*13,d=(5+i%4)+"s",dl=(-i*1.4)+"s";
+    h+=`<span style="top:${top}%;--d:${d};--dl:${dl};opacity:${.3+(i%3)*.2}"></span>`;}
+  sl.innerHTML=h;})();
+
+function countUp(el,to){const dur=1100,t0=performance.now();
+  (function step(t){const p=Math.min(1,(t-t0)/dur),e=1-Math.pow(1-p,3);
+    el.textContent=Math.round(e*to);if(p<1)requestAnimationFrame(step);})(t0);}
+
+function render(){
+  const m=D.meta;
+  const tr=D.recordes_por_tracado[0];
+  document.getElementById("trackrec").innerHTML=`
+    <span class="lbl">◈ Recorde absoluto da pista</span>
+    <div class="big mono">${tr.tempo}<s>s</s></div>
+    <div class="holder"><div class="av">${av(tr.piloto)}</div>
+      <div><b style="${isMe(tr.piloto)?'color:var(--acc)':''}">${tr.piloto}</b>
+        <span>${tr.tracado} · kart #${tr.kart} · ${tr.data}</span></div></div>`;
+  const S=[["pilotos",m.total_pilotos],["sessões",m.total_sessoes],["tempos cronometrados",m.total_resultados],["traçados",m.tracados.length]];
+  document.getElementById("stats").innerHTML=S.map(([l,n])=>`<div class="stat"><div class="n" data-c="${n}">0</div><div class="l">${l}</div></div>`).join("");
+  document.getElementById("fmeta").textContent=`${m.total_resultados} tempos · ${m.total_pilotos} pilotos · ${m.total_sessoes} sessões · ${m.tracados.length} traçados`;
+  document.getElementById("gen").textContent="atualizado "+D.gerado_em;
+
+  const order=[1,0,2];
+  const lead=D.pilotos[0].melhor_geral_seg;
+  document.getElementById("podium").innerHTML=order.map(idx=>{
+    const p=D.pilotos[idx];if(!p)return"";const cls="p"+(idx+1),medal=["🥇","🥈","🥉"][idx],gap=p.melhor_geral_seg-lead;
+    return `<div class="pod ${cls} ${isMe(p.nome)?'me':''}" data-p="${encodeURIComponent(p.nome)}">
+      <div class="av">${av(p.nome)}<span class="medal">${medal}</span></div>
+      <div class="nm">${p.nome}${isMe(p.nome)?'<span class="youtag">VOCÊ</span>':''}</div>
+      <div class="tm mono">${p.melhor_geral}</div>
+      <div class="gap">${idx===0?'—':fmtGap(gap)}</div>
+      <div class="base"><div class="rankn">${idx+1}</div></div></div>`;}).join("");
+  document.querySelectorAll(".pod[data-p]").forEach(el=>el.onclick=()=>openPilot(decodeURIComponent(el.dataset.p)));
+
+  document.getElementById("recs").innerHTML=D.recordes_por_tracado.map((r,i)=>`
+    <div class="rec">${i===0?'<div class="trophy">🏆</div>':''}
+      <div class="tr">${r.tracado}</div>
+      <div class="time mono">${r.tempo}<s>s</s></div>
+      <div class="who"><div class="av">${av(r.piloto)}</div>
+        <div><b style="${isMe(r.piloto)?'color:var(--acc)':''}">${r.piloto}</b><span>kart #${r.kart} · ${r.data}</span></div></div>
+    </div>`).join("");
+
+  const tabs=[["__geral__","Geral"],...m.tracados.map(t=>[t,t])];
+  document.getElementById("tabs").innerHTML=tabs.map(([v,l])=>`<button class="tab${v===curTrack?' on':''}" data-t="${v}">${l}</button>`).join("");
+  document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{curTrack=b.dataset.t;
+    document.querySelectorAll(".tab").forEach(x=>x.classList.toggle("on",x===b));renderRows();});
+
+  renderRows(); renderSessions(); observe();
+}
+
+function ranking(){
+  if(curTrack==="__geral__") return D.pilotos.map(p=>({nome:p.nome,tracado:p.melhor_geral_tracado,tempo:p.melhor_geral,seg:p.melhor_geral_seg}));
+  return (D.leaderboard_por_tracado[curTrack]||[]).map(e=>({nome:e.piloto,tracado:e.tracado,tempo:e.tempo,seg:e.seg}));
+}
+function renderRows(){
+  const q=(document.getElementById("q").value||"").toLowerCase().trim();
+  ranked=ranking();
+  const lead=ranked.length?ranked[0].seg:0;
+  const maxGap=ranked.length?Math.max(...ranked.map(r=>r.seg-lead),.001):1;
+  let list=ranked.map((r,i)=>({...r,rank:i+1,gap:r.seg-lead})).filter(r=>r.nome.toLowerCase().includes(q));
+  const tb=document.getElementById("rows");
+  if(!list.length){tb.innerHTML='<tr><td colspan=5><div class=load>nenhum piloto encontrado</div></td></tr>';return;}
+  tb.innerHTML=list.map(r=>`<tr data-top="${r.rank}" class="${isMe(r.nome)?'me':''}" data-p="${encodeURIComponent(r.nome)}">
+    <td class="pos"><span class="rankbadge">${r.rank}</span></td>
+    <td><div class="pil"><div class="av">${av(r.nome)}</div><b>${r.nome}</b>${isMe(r.nome)?' <span class="tag-me">VOCÊ</span>':''}</div></td>
+    <td class="hidesm"><span class="tsm">${r.tracado}</span></td>
+    <td class="gapcell hidesm"><div class="gapbar"><i data-w="${r.gap<=0?100:Math.max(6,100-(r.gap/maxGap)*100)}"></i></div><span class="gaptxt">${fmtGap(r.gap)}</span></td>
+    <td class="tcol"><span class="t">${r.tempo}</span></td></tr>`).join("");
+  tb.querySelectorAll("tr[data-p]").forEach(tr=>tr.onclick=()=>openPilot(decodeURIComponent(tr.dataset.p)));
+  requestAnimationFrame(()=>tb.querySelectorAll(".gapbar i").forEach(i=>i.style.width=i.dataset.w+"%"));
+}
+
+function openPilot(nome){
+  const p=D.pilotos.find(x=>x.nome===nome);if(!p)return;
+  const entries=Object.entries(p.por_tracado).sort((a,b)=>a[1].seg-b[1].seg);
+  const rows=entries.map(([trk,v])=>{
+    const rec=D.recordes_por_tracado.find(r=>r.tracado===trk);
+    const gap=rec?v.seg-rec.seg:0,best=trk===p.melhor_geral_tracado;
+    const pct=rec?Math.max(8,100-Math.min(100,gap*22)):100;
+    return `<div class="pbrow ${best?'best':''}">
+      <div class="top"><div class="tr">${trk}</div><div class="tm mono">${v.tempo}</div></div>
+      <div class="pbbar"><i data-w="${pct}"></i></div>
+      <div class="sub"><span>${v.data}</span><span>${gap<=0?'RECORDE DO TRAÇADO 🏆':'+'+gap.toFixed(3)+'s do recorde'}</span></div></div>`;}).join("");
+  document.getElementById("sheet").innerHTML=`<button class="x" onclick="closeM()">×</button>
+    <div class="bighead"><div class="av">${av(nome)}</div>
+      <div><h3 style="${isMe(nome)?'color:var(--acc)':''}">${nome}</h3>
+        <div class="rk"><b>#${p.rank_geral}</b> no ranking geral · ${p.aparicoes} ${p.aparicoes===1?'participação':'participações'} · melhor volta <b>${p.melhor_geral}</b></div></div></div>
+    ${rows}`;
+  const md=document.getElementById("modal");md.classList.add("on");
+  requestAnimationFrame(()=>md.querySelectorAll(".pbbar i").forEach(i=>i.style.width=i.dataset.w+"%"));
+}
+function closeM(){document.getElementById("modal").classList.remove("on");}
+document.getElementById("modal").onclick=e=>{if(e.target.id==="modal")closeM();};
+document.addEventListener("keydown",e=>{if(e.key==="Escape")closeM();});
+document.getElementById("q").addEventListener("input",renderRows);
+
+function renderSessions(){
+  document.getElementById("sess").innerHTML=D.sessoes.map((s,i)=>{
+    const res=(s.resultados||[]);
+    const body=res.map(p=>`<tr><td class="pos"><span class="rankbadge">${p.pos}</span></td>
+      <td><div class="pil ${isMe(p.nome)?'me':''}"><div class="av">${av(p.nome)}</div><b style="${isMe(p.nome)?'color:var(--acc)':''}">${p.nome}</b></div></td>
+      <td class="hidesm tsm">#${p.kart}</td><td class="tcol"><span class="t">${p.melhor_volta}</span></td></tr>`).join("");
+    return `<details class="sess"${i===0?' open':''}><summary>
+        <div class="sn">${String(D.sessoes.length-i).padStart(2,'0')}</div>
+        <div><div class="dt">${s.data} <span class="pill">Grupo ${s.grupo}</span> <span class="pill">${s.sessao}</span></div>
+          <div class="meta">${s.tracado}${s.hora?' · '+s.hora:''} — ${res.length} pilotos</div></div>
+        <svg class="chev" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="m6 9 6 6 6-6"/></svg>
+      </summary><div class="sbody"><div class="tablewrap"><table>
+        <thead><tr><th class="pos">#</th><th>Piloto</th><th class="hidesm">Kart</th><th class="tcol">Melhor volta</th></tr></thead>
+        <tbody>${body}</tbody></table></div></div></details>`;}).join("");
+}
+
+function observe(){
+  const io=new IntersectionObserver((es)=>es.forEach(e=>{if(e.isIntersecting){
+    e.target.classList.add("in");
+    e.target.querySelectorAll&&e.target.querySelectorAll("[data-c]").forEach(el=>countUp(el,+el.dataset.c));
+    io.unobserve(e.target);}}),{threshold:.14,rootMargin:"0px 0px -8% 0px"});
+  document.querySelectorAll(".reveal").forEach(el=>io.observe(el));
+}
+</script>
+</body>
+</html>
