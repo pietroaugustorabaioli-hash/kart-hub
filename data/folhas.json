@@ -1,0 +1,159 @@
+[
+ {
+  "tracado": "Traçado 9 — Anti-Horário (900m)",
+  "evento": "Indoor Sem O Bronze",
+  "bateria": "Bateria 04",
+  "tipo": "Corrida",
+  "data": "08/07/2026",
+  "resultados": [
+   {
+    "pos": "1",
+    "kart": "23",
+    "nome": "Pietro",
+    "melhor_volta": "54.147"
+   },
+   {
+    "pos": "2",
+    "kart": "20",
+    "nome": "Candelore",
+    "melhor_volta": "54.244"
+   },
+   {
+    "pos": "3",
+    "kart": "13",
+    "nome": "Rogerio",
+    "melhor_volta": "54.343"
+   },
+   {
+    "pos": "4",
+    "kart": "28",
+    "nome": "Lira",
+    "melhor_volta": "54.310"
+   },
+   {
+    "pos": "5",
+    "kart": "11",
+    "nome": "Ltm",
+    "melhor_volta": "54.795"
+   },
+   {
+    "pos": "6",
+    "kart": "06",
+    "nome": "Gustavo",
+    "melhor_volta": "55.813"
+   },
+   {
+    "pos": "NC",
+    "kart": "27",
+    "nome": "Caim",
+    "melhor_volta": "55.507"
+   },
+   {
+    "pos": "NC",
+    "kart": "14",
+    "nome": "Torsian",
+    "melhor_volta": "55.244"
+   },
+   {
+    "pos": "NC",
+    "kart": "21",
+    "nome": "Torsian",
+    "melhor_volta": "56.450"
+   },
+   {
+    "pos": "NC",
+    "kart": "24",
+    "nome": "Caim",
+    "melhor_volta": "1:19.130"
+   }
+  ]
+ },
+ {
+  "tracado": "Traçado 9 — Anti-Horário (900m)",
+  "evento": "Indoor Sem O Bronze",
+  "bateria": "Bateria 03",
+  "tipo": "Corrida",
+  "data": "16/07/2026",
+  "etapa": "10ª Etapa",
+  "resultados": [
+   {
+    "pos": "1",
+    "kart": "11",
+    "nome": "Candelore",
+    "melhor_volta": "53.598"
+   },
+   {
+    "pos": "2",
+    "kart": "06",
+    "nome": "Magrao",
+    "melhor_volta": "54.034"
+   },
+   {
+    "pos": "3",
+    "kart": "22",
+    "nome": "Paulo Braga",
+    "melhor_volta": "54.083"
+   },
+   {
+    "pos": "4",
+    "kart": "18",
+    "nome": "Rogerio",
+    "melhor_volta": "54.608"
+   },
+   {
+    "pos": "5",
+    "kart": "8",
+    "nome": "Pietro",
+    "melhor_volta": "54.443"
+   },
+   {
+    "pos": "6",
+    "kart": "29",
+    "nome": "Lira",
+    "melhor_volta": "54.771"
+   },
+   {
+    "pos": "7",
+    "kart": "14",
+    "nome": "Luiz Felipe",
+    "melhor_volta": "54.533"
+   },
+   {
+    "pos": "8",
+    "kart": "28",
+    "nome": "Ltm",
+    "melhor_volta": "54.746"
+   },
+   {
+    "pos": "9",
+    "kart": "13",
+    "nome": "Carlos Magno",
+    "melhor_volta": "55.716"
+   },
+   {
+    "pos": "NC",
+    "kart": "25",
+    "nome": "Caim",
+    "melhor_volta": "55.834"
+   },
+   {
+    "pos": "NC",
+    "kart": "30",
+    "nome": "Enezio",
+    "melhor_volta": "55.994"
+   },
+   {
+    "pos": "NC",
+    "kart": "16",
+    "nome": "Caim",
+    "melhor_volta": "55.430"
+   },
+   {
+    "pos": "NC",
+    "kart": "24",
+    "nome": "Enezio",
+    "melhor_volta": "1:01.516"
+   }
+  ]
+ }
+]

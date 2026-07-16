@@ -1,1 +1,552 @@
-{"gerado_em": "2026-07-12", "fonte": "Folhas oficiais Competikar/LapTime confirmadas pelo Pietro", "meta": {"total_sessoes": 1, "total_pilotos": 8, "total_resultados": 10, "tracados": ["Traçado 9 — Anti-Horário (900m)"]}, "recordes_por_tracado": [{"tracado": "Traçado 9 — Anti-Horário (900m)", "tempo": "54.147", "seg": 54.147, "piloto": "Pietro", "kart": "23", "data": "08/07/2026", "evento": "Indoor Sem O Bronze"}], "leaderboard_por_tracado": {"Traçado 9 — Anti-Horário (900m)": [{"piloto": "Pietro", "tracado": "Traçado 9 — Anti-Horário (900m)", "tempo": "54.147", "seg": 54.147, "kart": "23", "data": "08/07/2026", "evento": "Indoor Sem O Bronze", "rank": 1}, {"piloto": "Candelore", "tracado": "Traçado 9 — Anti-Horário (900m)", "tempo": "54.244", "seg": 54.244, "kart": "20", "data": "08/07/2026", "evento": "Indoor Sem O Bronze", "rank": 2}, {"piloto": "Lira", "tracado": "Traçado 9 — Anti-Horário (900m)", "tempo": "54.310", "seg": 54.31, "kart": "28", "data": "08/07/2026", "evento": "Indoor Sem O Bronze", "rank": 3}, {"piloto": "Rogerio", "tracado": "Traçado 9 — Anti-Horário (900m)", "tempo": "54.343", "seg": 54.343, "kart": "13", "data": "08/07/2026", "evento": "Indoor Sem O Bronze", "rank": 4}, {"piloto": "Ltm", "tracado": "Traçado 9 — Anti-Horário (900m)", "tempo": "54.795", "seg": 54.795, "kart": "11", "data": "08/07/2026", "evento": "Indoor Sem O Bronze", "rank": 5}, {"piloto": "Torsian", "tracado": "Traçado 9 — Anti-Horário (900m)", "tempo": "55.244", "seg": 55.244, "kart": "14", "data": "08/07/2026", "evento": "Indoor Sem O Bronze", "rank": 6}, {"piloto": "Caim", "tracado": "Traçado 9 — Anti-Horário (900m)", "tempo": "55.507", "seg": 55.507, "kart": "27", "data": "08/07/2026", "evento": "Indoor Sem O Bronze", "rank": 7}, {"piloto": "Gustavo", "tracado": "Traçado 9 — Anti-Horário (900m)", "tempo": "55.813", "seg": 55.813, "kart": "06", "data": "08/07/2026", "evento": "Indoor Sem O Bronze", "rank": 8}]}, "pilotos": [{"nome": "Pietro", "kart": "23", "por_tracado": {"Traçado 9 — Anti-Horário (900m)": {"tempo": "54.147", "seg": 54.147, "data": "08/07/2026", "kart": "23", "evento": "Indoor Sem O Bronze"}}, "aparicoes": 1, "melhor_geral": "54.147", "melhor_geral_seg": 54.147, "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)", "rank_geral": 1}, {"nome": "Candelore", "kart": "20", "por_tracado": {"Traçado 9 — Anti-Horário (900m)": {"tempo": "54.244", "seg": 54.244, "data": "08/07/2026", "kart": "20", "evento": "Indoor Sem O Bronze"}}, "aparicoes": 1, "melhor_geral": "54.244", "melhor_geral_seg": 54.244, "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)", "rank_geral": 2}, {"nome": "Lira", "kart": "28", "por_tracado": {"Traçado 9 — Anti-Horário (900m)": {"tempo": "54.310", "seg": 54.31, "data": "08/07/2026", "kart": "28", "evento": "Indoor Sem O Bronze"}}, "aparicoes": 1, "melhor_geral": "54.310", "melhor_geral_seg": 54.31, "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)", "rank_geral": 3}, {"nome": "Rogerio", "kart": "13", "por_tracado": {"Traçado 9 — Anti-Horário (900m)": {"tempo": "54.343", "seg": 54.343, "data": "08/07/2026", "kart": "13", "evento": "Indoor Sem O Bronze"}}, "aparicoes": 1, "melhor_geral": "54.343", "melhor_geral_seg": 54.343, "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)", "rank_geral": 4}, {"nome": "Ltm", "kart": "11", "por_tracado": {"Traçado 9 — Anti-Horário (900m)": {"tempo": "54.795", "seg": 54.795, "data": "08/07/2026", "kart": "11", "evento": "Indoor Sem O Bronze"}}, "aparicoes": 1, "melhor_geral": "54.795", "melhor_geral_seg": 54.795, "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)", "rank_geral": 5}, {"nome": "Torsian", "kart": "14", "por_tracado": {"Traçado 9 — Anti-Horário (900m)": {"tempo": "55.244", "seg": 55.244, "data": "08/07/2026", "kart": "14", "evento": "Indoor Sem O Bronze"}}, "aparicoes": 1, "melhor_geral": "55.244", "melhor_geral_seg": 55.244, "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)", "rank_geral": 6}, {"nome": "Caim", "kart": "27", "por_tracado": {"Traçado 9 — Anti-Horário (900m)": {"tempo": "55.507", "seg": 55.507, "data": "08/07/2026", "kart": "27", "evento": "Indoor Sem O Bronze"}}, "aparicoes": 1, "melhor_geral": "55.507", "melhor_geral_seg": 55.507, "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)", "rank_geral": 7}, {"nome": "Gustavo", "kart": "06", "por_tracado": {"Traçado 9 — Anti-Horário (900m)": {"tempo": "55.813", "seg": 55.813, "data": "08/07/2026", "kart": "06", "evento": "Indoor Sem O Bronze"}}, "aparicoes": 1, "melhor_geral": "55.813", "melhor_geral_seg": 55.813, "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)", "rank_geral": 8}], "sessoes": [{"tracado": "Traçado 9 — Anti-Horário (900m)", "evento": "Indoor Sem O Bronze", "bateria": "Bateria 04", "tipo": "Corrida", "data": "08/07/2026", "resultados": [{"pos": "1", "kart": "23", "nome": "Pietro", "melhor_volta": "54.147"}, {"pos": "2", "kart": "20", "nome": "Candelore", "melhor_volta": "54.244"}, {"pos": "3", "kart": "13", "nome": "Rogerio", "melhor_volta": "54.343"}, {"pos": "4", "kart": "28", "nome": "Lira", "melhor_volta": "54.310"}, {"pos": "5", "kart": "11", "nome": "Ltm", "melhor_volta": "54.795"}, {"pos": "6", "kart": "06", "nome": "Gustavo", "melhor_volta": "55.813"}, {"pos": "NC", "kart": "27", "nome": "Caim", "melhor_volta": "55.507"}, {"pos": "NC", "kart": "14", "nome": "Torsian", "melhor_volta": "55.244"}, {"pos": "NC", "kart": "21", "nome": "Torsian", "melhor_volta": "56.450"}, {"pos": "NC", "kart": "24", "nome": "Caim", "melhor_volta": "1:19.130"}]}]}
+{
+ "gerado_em": "2026-07-16",
+ "fonte": "Folhas oficiais Competikar/LapTime confirmadas pelo Pietro",
+ "meta": {
+  "total_sessoes": 2,
+  "total_pilotos": 13,
+  "total_resultados": 23,
+  "tracados": [
+   "Traçado 9 — Anti-Horário (900m)"
+  ]
+ },
+ "recordes_por_tracado": [
+  {
+   "tracado": "Traçado 9 — Anti-Horário (900m)",
+   "tempo": "53.598",
+   "seg": 53.598,
+   "piloto": "Candelore",
+   "kart": "11",
+   "data": "16/07/2026",
+   "evento": "Indoor Sem O Bronze"
+  }
+ ],
+ "leaderboard_por_tracado": {
+  "Traçado 9 — Anti-Horário (900m)": [
+   {
+    "piloto": "Candelore",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "53.598",
+    "seg": 53.598,
+    "kart": "11",
+    "data": "16/07/2026",
+    "evento": "Indoor Sem O Bronze",
+    "rank": 1
+   },
+   {
+    "piloto": "Magrao",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "54.034",
+    "seg": 54.034,
+    "kart": "06",
+    "data": "16/07/2026",
+    "evento": "Indoor Sem O Bronze",
+    "rank": 2
+   },
+   {
+    "piloto": "Paulo Braga",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "54.083",
+    "seg": 54.083,
+    "kart": "22",
+    "data": "16/07/2026",
+    "evento": "Indoor Sem O Bronze",
+    "rank": 3
+   },
+   {
+    "piloto": "Pietro",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "54.147",
+    "seg": 54.147,
+    "kart": "23",
+    "data": "08/07/2026",
+    "evento": "Indoor Sem O Bronze",
+    "rank": 4
+   },
+   {
+    "piloto": "Lira",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "54.310",
+    "seg": 54.31,
+    "kart": "28",
+    "data": "08/07/2026",
+    "evento": "Indoor Sem O Bronze",
+    "rank": 5
+   },
+   {
+    "piloto": "Rogerio",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "54.343",
+    "seg": 54.343,
+    "kart": "13",
+    "data": "08/07/2026",
+    "evento": "Indoor Sem O Bronze",
+    "rank": 6
+   },
+   {
+    "piloto": "Luiz Felipe",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "54.533",
+    "seg": 54.533,
+    "kart": "14",
+    "data": "16/07/2026",
+    "evento": "Indoor Sem O Bronze",
+    "rank": 7
+   },
+   {
+    "piloto": "Ltm",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "54.746",
+    "seg": 54.746,
+    "kart": "28",
+    "data": "16/07/2026",
+    "evento": "Indoor Sem O Bronze",
+    "rank": 8
+   },
+   {
+    "piloto": "Torsian",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "55.244",
+    "seg": 55.244,
+    "kart": "14",
+    "data": "08/07/2026",
+    "evento": "Indoor Sem O Bronze",
+    "rank": 9
+   },
+   {
+    "piloto": "Caim",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "55.430",
+    "seg": 55.43,
+    "kart": "16",
+    "data": "16/07/2026",
+    "evento": "Indoor Sem O Bronze",
+    "rank": 10
+   },
+   {
+    "piloto": "Carlos Magno",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "55.716",
+    "seg": 55.716,
+    "kart": "13",
+    "data": "16/07/2026",
+    "evento": "Indoor Sem O Bronze",
+    "rank": 11
+   },
+   {
+    "piloto": "Gustavo",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "55.813",
+    "seg": 55.813,
+    "kart": "06",
+    "data": "08/07/2026",
+    "evento": "Indoor Sem O Bronze",
+    "rank": 12
+   },
+   {
+    "piloto": "Enezio",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "55.994",
+    "seg": 55.994,
+    "kart": "30",
+    "data": "16/07/2026",
+    "evento": "Indoor Sem O Bronze",
+    "rank": 13
+   }
+  ]
+ },
+ "pilotos": [
+  {
+   "nome": "Candelore",
+   "kart": "11",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "53.598",
+     "seg": 53.598,
+     "data": "16/07/2026",
+     "kart": "11",
+     "evento": "Indoor Sem O Bronze"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "53.598",
+   "melhor_geral_seg": 53.598,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 1
+  },
+  {
+   "nome": "Magrao",
+   "kart": "06",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.034",
+     "seg": 54.034,
+     "data": "16/07/2026",
+     "kart": "06",
+     "evento": "Indoor Sem O Bronze"
+    }
+   },
+   "aparicoes": 1,
+   "melhor_geral": "54.034",
+   "melhor_geral_seg": 54.034,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 2
+  },
+  {
+   "nome": "Paulo Braga",
+   "kart": "22",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.083",
+     "seg": 54.083,
+     "data": "16/07/2026",
+     "kart": "22",
+     "evento": "Indoor Sem O Bronze"
+    }
+   },
+   "aparicoes": 1,
+   "melhor_geral": "54.083",
+   "melhor_geral_seg": 54.083,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 3
+  },
+  {
+   "nome": "Pietro",
+   "kart": "23",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.147",
+     "seg": 54.147,
+     "data": "08/07/2026",
+     "kart": "23",
+     "evento": "Indoor Sem O Bronze"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "54.147",
+   "melhor_geral_seg": 54.147,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 4
+  },
+  {
+   "nome": "Lira",
+   "kart": "28",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.310",
+     "seg": 54.31,
+     "data": "08/07/2026",
+     "kart": "28",
+     "evento": "Indoor Sem O Bronze"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "54.310",
+   "melhor_geral_seg": 54.31,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 5
+  },
+  {
+   "nome": "Rogerio",
+   "kart": "13",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.343",
+     "seg": 54.343,
+     "data": "08/07/2026",
+     "kart": "13",
+     "evento": "Indoor Sem O Bronze"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "54.343",
+   "melhor_geral_seg": 54.343,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 6
+  },
+  {
+   "nome": "Luiz Felipe",
+   "kart": "14",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.533",
+     "seg": 54.533,
+     "data": "16/07/2026",
+     "kart": "14",
+     "evento": "Indoor Sem O Bronze"
+    }
+   },
+   "aparicoes": 1,
+   "melhor_geral": "54.533",
+   "melhor_geral_seg": 54.533,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 7
+  },
+  {
+   "nome": "Ltm",
+   "kart": "28",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.746",
+     "seg": 54.746,
+     "data": "16/07/2026",
+     "kart": "28",
+     "evento": "Indoor Sem O Bronze"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "54.746",
+   "melhor_geral_seg": 54.746,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 8
+  },
+  {
+   "nome": "Torsian",
+   "kart": "14",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "55.244",
+     "seg": 55.244,
+     "data": "08/07/2026",
+     "kart": "14",
+     "evento": "Indoor Sem O Bronze"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "55.244",
+   "melhor_geral_seg": 55.244,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 9
+  },
+  {
+   "nome": "Caim",
+   "kart": "16",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "55.430",
+     "seg": 55.43,
+     "data": "16/07/2026",
+     "kart": "16",
+     "evento": "Indoor Sem O Bronze"
+    }
+   },
+   "aparicoes": 4,
+   "melhor_geral": "55.430",
+   "melhor_geral_seg": 55.43,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 10
+  },
+  {
+   "nome": "Carlos Magno",
+   "kart": "13",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "55.716",
+     "seg": 55.716,
+     "data": "16/07/2026",
+     "kart": "13",
+     "evento": "Indoor Sem O Bronze"
+    }
+   },
+   "aparicoes": 1,
+   "melhor_geral": "55.716",
+   "melhor_geral_seg": 55.716,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 11
+  },
+  {
+   "nome": "Gustavo",
+   "kart": "06",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "55.813",
+     "seg": 55.813,
+     "data": "08/07/2026",
+     "kart": "06",
+     "evento": "Indoor Sem O Bronze"
+    }
+   },
+   "aparicoes": 1,
+   "melhor_geral": "55.813",
+   "melhor_geral_seg": 55.813,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 12
+  },
+  {
+   "nome": "Enezio",
+   "kart": "30",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "55.994",
+     "seg": 55.994,
+     "data": "16/07/2026",
+     "kart": "30",
+     "evento": "Indoor Sem O Bronze"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "55.994",
+   "melhor_geral_seg": 55.994,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 13
+  }
+ ],
+ "sessoes": [
+  {
+   "tracado": "Traçado 9 — Anti-Horário (900m)",
+   "evento": "Indoor Sem O Bronze",
+   "bateria": "Bateria 04",
+   "tipo": "Corrida",
+   "data": "08/07/2026",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "23",
+     "nome": "Pietro",
+     "melhor_volta": "54.147"
+    },
+    {
+     "pos": "2",
+     "kart": "20",
+     "nome": "Candelore",
+     "melhor_volta": "54.244"
+    },
+    {
+     "pos": "3",
+     "kart": "13",
+     "nome": "Rogerio",
+     "melhor_volta": "54.343"
+    },
+    {
+     "pos": "4",
+     "kart": "28",
+     "nome": "Lira",
+     "melhor_volta": "54.310"
+    },
+    {
+     "pos": "5",
+     "kart": "11",
+     "nome": "Ltm",
+     "melhor_volta": "54.795"
+    },
+    {
+     "pos": "6",
+     "kart": "06",
+     "nome": "Gustavo",
+     "melhor_volta": "55.813"
+    },
+    {
+     "pos": "NC",
+     "kart": "27",
+     "nome": "Caim",
+     "melhor_volta": "55.507"
+    },
+    {
+     "pos": "NC",
+     "kart": "14",
+     "nome": "Torsian",
+     "melhor_volta": "55.244"
+    },
+    {
+     "pos": "NC",
+     "kart": "21",
+     "nome": "Torsian",
+     "melhor_volta": "56.450"
+    },
+    {
+     "pos": "NC",
+     "kart": "24",
+     "nome": "Caim",
+     "melhor_volta": "1:19.130"
+    }
+   ]
+  },
+  {
+   "tracado": "Traçado 9 — Anti-Horário (900m)",
+   "evento": "Indoor Sem O Bronze",
+   "bateria": "Bateria 03",
+   "tipo": "Corrida",
+   "data": "16/07/2026",
+   "etapa": "10ª Etapa",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "11",
+     "nome": "Candelore",
+     "melhor_volta": "53.598"
+    },
+    {
+     "pos": "2",
+     "kart": "06",
+     "nome": "Magrao",
+     "melhor_volta": "54.034"
+    },
+    {
+     "pos": "3",
+     "kart": "22",
+     "nome": "Paulo Braga",
+     "melhor_volta": "54.083"
+    },
+    {
+     "pos": "4",
+     "kart": "18",
+     "nome": "Rogerio",
+     "melhor_volta": "54.608"
+    },
+    {
+     "pos": "5",
+     "kart": "8",
+     "nome": "Pietro",
+     "melhor_volta": "54.443"
+    },
+    {
+     "pos": "6",
+     "kart": "29",
+     "nome": "Lira",
+     "melhor_volta": "54.771"
+    },
+    {
+     "pos": "7",
+     "kart": "14",
+     "nome": "Luiz Felipe",
+     "melhor_volta": "54.533"
+    },
+    {
+     "pos": "8",
+     "kart": "28",
+     "nome": "Ltm",
+     "melhor_volta": "54.746"
+    },
+    {
+     "pos": "9",
+     "kart": "13",
+     "nome": "Carlos Magno",
+     "melhor_volta": "55.716"
+    },
+    {
+     "pos": "NC",
+     "kart": "25",
+     "nome": "Caim",
+     "melhor_volta": "55.834"
+    },
+    {
+     "pos": "NC",
+     "kart": "30",
+     "nome": "Enezio",
+     "melhor_volta": "55.994"
+    },
+    {
+     "pos": "NC",
+     "kart": "16",
+     "nome": "Caim",
+     "melhor_volta": "55.430"
+    },
+    {
+     "pos": "NC",
+     "kart": "24",
+     "nome": "Enezio",
+     "melhor_volta": "1:01.516"
+    }
+   ]
+  }
+ ]
+}
