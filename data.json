@@ -6,13 +6,13 @@
   "total_pilotos": 31,
   "total_resultados": 77,
   "tracados": [
-   "Indoor Tradicional",
+   "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "Traçado 9 — Anti-Horário (900m)"
   ]
  },
  "recordes_por_tracado": [
   {
-   "tracado": "Indoor Tradicional",
+   "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "tempo": "35.393",
    "seg": 35.393,
    "piloto": "Pietro",
@@ -31,10 +31,10 @@
   }
  ],
  "leaderboard_por_tracado": {
-  "Indoor Tradicional": [
+  "Traçado 13 — Curtinho Curva da Árvore (550m)": [
    {
     "piloto": "Pietro",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.393",
     "seg": 35.393,
     "kart": "28",
@@ -44,7 +44,7 @@
    },
    {
     "piloto": "Geraldo Neto",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.409",
     "seg": 35.409,
     "kart": "28",
@@ -54,7 +54,7 @@
    },
    {
     "piloto": "Luiz Felipe",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.411",
     "seg": 35.411,
     "kart": "22",
@@ -64,7 +64,7 @@
    },
    {
     "piloto": "Gustavo Gondim",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.425",
     "seg": 35.425,
     "kart": "28",
@@ -74,7 +74,7 @@
    },
    {
     "piloto": "Carlos Silva",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.437",
     "seg": 35.437,
     "kart": "5",
@@ -84,7 +84,7 @@
    },
    {
     "piloto": "Fernando Adorno",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.454",
     "seg": 35.454,
     "kart": "21",
@@ -94,7 +94,7 @@
    },
    {
     "piloto": "Paulo Braga",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.517",
     "seg": 35.517,
     "kart": "11",
@@ -104,7 +104,7 @@
    },
    {
     "piloto": "Rafael Lira",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.571",
     "seg": 35.571,
     "kart": "18",
@@ -114,7 +114,7 @@
    },
    {
     "piloto": "Jonathan Ribeiro",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.601",
     "seg": 35.601,
     "kart": "28",
@@ -124,7 +124,7 @@
    },
    {
     "piloto": "G. Filho",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.634",
     "seg": 35.634,
     "kart": "5",
@@ -134,7 +134,7 @@
    },
    {
     "piloto": "Magrao",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.656",
     "seg": 35.656,
     "kart": "11",
@@ -144,7 +144,7 @@
    },
    {
     "piloto": "Nickholas",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.669",
     "seg": 35.669,
     "kart": "29",
@@ -154,7 +154,7 @@
    },
    {
     "piloto": "Gabriel Alves",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.698",
     "seg": 35.698,
     "kart": "22",
@@ -164,7 +164,7 @@
    },
    {
     "piloto": "Douglas Calixto",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.873",
     "seg": 35.873,
     "kart": "30",
@@ -174,7 +174,7 @@
    },
    {
     "piloto": "Joao Carlos Carvalho",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.924",
     "seg": 35.924,
     "kart": "18",
@@ -184,7 +184,7 @@
    },
    {
     "piloto": "Eduardo Paiva",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.927",
     "seg": 35.927,
     "kart": "30",
@@ -194,7 +194,7 @@
    },
    {
     "piloto": "Roniel",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.963",
     "seg": 35.963,
     "kart": "30",
@@ -204,7 +204,7 @@
    },
    {
     "piloto": "Leonardo Fidelis",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "36.168",
     "seg": 36.168,
     "kart": "21",
@@ -214,7 +214,7 @@
    },
    {
     "piloto": "Agostinho Neto",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "36.236",
     "seg": 36.236,
     "kart": "30",
@@ -224,7 +224,7 @@
    },
    {
     "piloto": "Agostinho Tozzo",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "36.239",
     "seg": 36.239,
     "kart": "11",
@@ -234,7 +234,7 @@
    },
    {
     "piloto": "Francisco Silva",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "36.410",
     "seg": 36.41,
     "kart": "11",
@@ -244,7 +244,7 @@
    },
    {
     "piloto": "Joao Pedro F. Alves",
-    "tracado": "Indoor Tradicional",
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "36.599",
     "seg": 36.599,
     "kart": "21",
@@ -398,7 +398,7 @@
      "kart": "23",
      "evento": "Indoor Sem O Bronze"
     },
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.393",
      "seg": 35.393,
      "data": "09/05/2026",
@@ -409,14 +409,14 @@
    "aparicoes": 4,
    "melhor_geral": "35.393",
    "melhor_geral_seg": 35.393,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 1
   },
   {
    "nome": "Geraldo Neto",
    "kart": "28",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.409",
      "seg": 35.409,
      "data": "09/05/2026",
@@ -427,7 +427,7 @@
    "aparicoes": 3,
    "melhor_geral": "35.409",
    "melhor_geral_seg": 35.409,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 2
   },
   {
@@ -441,7 +441,7 @@
      "kart": "14",
      "evento": "Indoor Sem O Bronze"
     },
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.411",
      "seg": 35.411,
      "data": "09/05/2026",
@@ -452,14 +452,14 @@
    "aparicoes": 3,
    "melhor_geral": "35.411",
    "melhor_geral_seg": 35.411,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 3
   },
   {
    "nome": "Gustavo Gondim",
    "kart": "28",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.425",
      "seg": 35.425,
      "data": "09/05/2026",
@@ -470,14 +470,14 @@
    "aparicoes": 2,
    "melhor_geral": "35.425",
    "melhor_geral_seg": 35.425,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 4
   },
   {
    "nome": "Carlos Silva",
    "kart": "5",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.437",
      "seg": 35.437,
      "data": "09/05/2026",
@@ -488,14 +488,14 @@
    "aparicoes": 2,
    "melhor_geral": "35.437",
    "melhor_geral_seg": 35.437,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 5
   },
   {
    "nome": "Fernando Adorno",
    "kart": "21",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.454",
      "seg": 35.454,
      "data": "09/05/2026",
@@ -506,7 +506,7 @@
    "aparicoes": 3,
    "melhor_geral": "35.454",
    "melhor_geral_seg": 35.454,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 6
   },
   {
@@ -520,7 +520,7 @@
      "kart": "22",
      "evento": "Indoor Sem O Bronze"
     },
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.517",
      "seg": 35.517,
      "data": "09/05/2026",
@@ -531,14 +531,14 @@
    "aparicoes": 4,
    "melhor_geral": "35.517",
    "melhor_geral_seg": 35.517,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 7
   },
   {
    "nome": "Rafael Lira",
    "kart": "18",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.571",
      "seg": 35.571,
      "data": "09/05/2026",
@@ -549,14 +549,14 @@
    "aparicoes": 3,
    "melhor_geral": "35.571",
    "melhor_geral_seg": 35.571,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 8
   },
   {
    "nome": "Jonathan Ribeiro",
    "kart": "28",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.601",
      "seg": 35.601,
      "data": "09/05/2026",
@@ -567,14 +567,14 @@
    "aparicoes": 3,
    "melhor_geral": "35.601",
    "melhor_geral_seg": 35.601,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 9
   },
   {
    "nome": "G. Filho",
    "kart": "5",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.634",
      "seg": 35.634,
      "data": "09/05/2026",
@@ -585,7 +585,7 @@
    "aparicoes": 2,
    "melhor_geral": "35.634",
    "melhor_geral_seg": 35.634,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 10
   },
   {
@@ -599,7 +599,7 @@
      "kart": "06",
      "evento": "Indoor Sem O Bronze"
     },
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.656",
      "seg": 35.656,
      "data": "09/05/2026",
@@ -610,14 +610,14 @@
    "aparicoes": 3,
    "melhor_geral": "35.656",
    "melhor_geral_seg": 35.656,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 11
   },
   {
    "nome": "Nickholas",
    "kart": "29",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.669",
      "seg": 35.669,
      "data": "09/05/2026",
@@ -628,14 +628,14 @@
    "aparicoes": 2,
    "melhor_geral": "35.669",
    "melhor_geral_seg": 35.669,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 12
   },
   {
    "nome": "Gabriel Alves",
    "kart": "22",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.698",
      "seg": 35.698,
      "data": "09/05/2026",
@@ -646,14 +646,14 @@
    "aparicoes": 2,
    "melhor_geral": "35.698",
    "melhor_geral_seg": 35.698,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 13
   },
   {
    "nome": "Douglas Calixto",
    "kart": "30",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.873",
      "seg": 35.873,
      "data": "09/05/2026",
@@ -664,14 +664,14 @@
    "aparicoes": 3,
    "melhor_geral": "35.873",
    "melhor_geral_seg": 35.873,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 14
   },
   {
    "nome": "Joao Carlos Carvalho",
    "kart": "18",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.924",
      "seg": 35.924,
      "data": "09/05/2026",
@@ -682,14 +682,14 @@
    "aparicoes": 3,
    "melhor_geral": "35.924",
    "melhor_geral_seg": 35.924,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 15
   },
   {
    "nome": "Eduardo Paiva",
    "kart": "30",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.927",
      "seg": 35.927,
      "data": "09/05/2026",
@@ -700,14 +700,14 @@
    "aparicoes": 3,
    "melhor_geral": "35.927",
    "melhor_geral_seg": 35.927,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 16
   },
   {
    "nome": "Roniel",
    "kart": "30",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.963",
      "seg": 35.963,
      "data": "09/05/2026",
@@ -718,14 +718,14 @@
    "aparicoes": 2,
    "melhor_geral": "35.963",
    "melhor_geral_seg": 35.963,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 17
   },
   {
    "nome": "Leonardo Fidelis",
    "kart": "21",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "36.168",
      "seg": 36.168,
      "data": "09/05/2026",
@@ -736,14 +736,14 @@
    "aparicoes": 2,
    "melhor_geral": "36.168",
    "melhor_geral_seg": 36.168,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 18
   },
   {
    "nome": "Agostinho Neto",
    "kart": "30",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "36.236",
      "seg": 36.236,
      "data": "09/05/2026",
@@ -754,14 +754,14 @@
    "aparicoes": 2,
    "melhor_geral": "36.236",
    "melhor_geral_seg": 36.236,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 19
   },
   {
    "nome": "Agostinho Tozzo",
    "kart": "11",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "36.239",
      "seg": 36.239,
      "data": "09/05/2026",
@@ -772,14 +772,14 @@
    "aparicoes": 2,
    "melhor_geral": "36.239",
    "melhor_geral_seg": 36.239,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 20
   },
   {
    "nome": "Francisco Silva",
    "kart": "11",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "36.410",
      "seg": 36.41,
      "data": "09/05/2026",
@@ -790,14 +790,14 @@
    "aparicoes": 3,
    "melhor_geral": "36.410",
    "melhor_geral_seg": 36.41,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 21
   },
   {
    "nome": "Joao Pedro F. Alves",
    "kart": "21",
    "por_tracado": {
-    "Indoor Tradicional": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "36.599",
      "seg": 36.599,
      "data": "09/05/2026",
@@ -808,7 +808,7 @@
    "aparicoes": 3,
    "melhor_geral": "36.599",
    "melhor_geral_seg": 36.599,
-   "melhor_geral_tracado": "Indoor Tradicional",
+   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 22
   },
   {
@@ -1133,7 +1133,7 @@
    ]
   },
   {
-   "tracado": "Indoor Tradicional",
+   "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "evento": "Competikar Rental Kart",
    "bateria": "Grupo 1 - 1a Bateria",
    "tipo": "Corrida",
@@ -1214,7 +1214,7 @@
    ]
   },
   {
-   "tracado": "Indoor Tradicional",
+   "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "evento": "Competikar Rental Kart",
    "bateria": "Grupo 1 - 2a Bateria",
    "tipo": "Corrida",
@@ -1295,7 +1295,7 @@
    ]
   },
   {
-   "tracado": "Indoor Tradicional",
+   "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "evento": "Competikar Rental Kart",
    "bateria": "Grupo 2 - Tomada de Tempo",
    "tipo": "Tomada de tempo",
@@ -1364,7 +1364,7 @@
    ]
   },
   {
-   "tracado": "Indoor Tradicional",
+   "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "evento": "Competikar Rental Kart",
    "bateria": "Grupo 2 - 1a Bateria",
    "tipo": "Corrida",
@@ -1433,7 +1433,7 @@
    ]
   },
   {
-   "tracado": "Indoor Tradicional",
+   "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "evento": "Competikar Rental Kart",
    "bateria": "Grupo 2 - 2a Bateria",
    "tipo": "Corrida",

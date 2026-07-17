@@ -6,6 +6,15 @@ A versao anterior (build_from_folhas.py) e a fonte (folhas-confiaveis.json) vivi
 scratchpad, que e efemero. Sumiram. Sobrou so o data.json gerado, sem a fonte. Fonte e
 build agora moram AQUI, versionados junto com o site.
 
+REGRA DO TRACADO (Pietro, 17/07 — a mais importante e a mais contraintuitiva):
+  **O MAPA que o Pietro manda junto e o NORTE. O nome do tracado escrito na folha
+  esta QUASE SEMPRE ERRADO.** Palavras dele: "a norte e a foto que eu mandei (nome da
+  pista e etc), o que ta escrito na folha normalmente sempre vai estar errado".
+  Ex: folhas de 09/05 diziam "Indoor Tradicional" -> era Tracado 13 (550m).
+      folhas de 08/07 e 16/07 diziam "Indoor" -> era Tracado 9 Anti-Horario (900m).
+  Sanity check util: metragem/tempo. 550m ~ 35s. 900m ~ 54s.
+  Sem mapa -> PERGUNTAR ao Pietro. Nunca confiar no rotulo impresso.
+
 REGRAS (definidas pelo Pietro, 12/07):
   - So folha OFICIAL confiavel (Competikar/LapTime), com tracado + kart de cada piloto.
   - Ranking por MELHOR VOLTA, nao por posicao de corrida.
