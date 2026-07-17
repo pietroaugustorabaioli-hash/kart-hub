@@ -3,7 +3,7 @@
  "fonte": "Folhas oficiais Competikar/LapTime confirmadas pelo Pietro",
  "meta": {
   "total_sessoes": 12,
-  "total_pilotos": 49,
+  "total_pilotos": 41,
   "total_resultados": 134,
   "tracados": [
    "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -34,7 +34,7 @@
    "tracado": "Traçado 9 — Anti-Horário (900m)",
    "tempo": "53.598",
    "seg": 53.598,
-   "piloto": "Candelore",
+   "piloto": "Gabriel Candelore",
    "kart": "11",
    "data": "16/07/2026",
    "evento": "Indoor Sem O Bronze"
@@ -213,7 +213,7 @@
     "rank": 17
    },
    {
-    "piloto": "Nickholas",
+    "piloto": "Nickholas R.",
     "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.669",
     "seg": 35.669,
@@ -575,7 +575,7 @@
     "rank": 20
    },
    {
-    "piloto": "Joao Vitor",
+    "piloto": "Joao Vitor Moura",
     "tracado": "Traçado 8 — Sentido Normal (890m)",
     "tempo": "54.867",
     "seg": 54.867,
@@ -685,7 +685,7 @@
     "rank": 31
    },
    {
-    "piloto": "Willian Jr.",
+    "piloto": "William Jr.",
     "tracado": "Traçado 8 — Sentido Normal (890m)",
     "tempo": "56.474",
     "seg": 56.474,
@@ -727,7 +727,7 @@
   ],
   "Traçado 9 — Anti-Horário (900m)": [
    {
-    "piloto": "Candelore",
+    "piloto": "Gabriel Candelore",
     "tracado": "Traçado 9 — Anti-Horário (900m)",
     "tempo": "53.598",
     "seg": 53.598,
@@ -767,7 +767,7 @@
     "rank": 4
    },
    {
-    "piloto": "Lira",
+    "piloto": "Rafael Lira",
     "tracado": "Traçado 9 — Anti-Horário (900m)",
     "tempo": "54.310",
     "seg": 54.31,
@@ -777,7 +777,7 @@
     "rank": 5
    },
    {
-    "piloto": "Rogerio",
+    "piloto": "Rogerio B.",
     "tracado": "Traçado 9 — Anti-Horário (900m)",
     "tempo": "54.343",
     "seg": 54.343,
@@ -797,7 +797,7 @@
     "rank": 7
    },
    {
-    "piloto": "Ltm",
+    "piloto": "Luciano Ltm",
     "tracado": "Traçado 9 — Anti-Horário (900m)",
     "tempo": "54.746",
     "seg": 54.746,
@@ -837,7 +837,7 @@
     "rank": 11
    },
    {
-    "piloto": "Gustavo",
+    "piloto": "Gustavo Gondim",
     "tracado": "Traçado 9 — Anti-Horário (900m)",
     "tempo": "55.813",
     "seg": 55.813,
@@ -863,6 +863,13 @@
    "nome": "Gabriel Candelore",
    "kart": "22",
    "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "53.598",
+     "seg": 53.598,
+     "data": "16/07/2026",
+     "kart": "11",
+     "evento": "Indoor Sem O Bronze"
+    },
     "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.086",
      "seg": 35.086,
@@ -878,7 +885,7 @@
      "evento": "Competikar Rental Kart"
     }
    },
-   "aparicoes": 3,
+   "aparicoes": 5,
    "melhor_geral": "35.086",
    "melhor_geral_seg": 35.086,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -1002,6 +1009,13 @@
    "nome": "Luciano Ltm",
    "kart": "21",
    "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.746",
+     "seg": 54.746,
+     "data": "16/07/2026",
+     "kart": "28",
+     "evento": "Indoor Sem O Bronze"
+    },
     "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.420",
      "seg": 35.42,
@@ -1017,7 +1031,7 @@
      "evento": "Competikar Rental Kart"
     }
    },
-   "aparicoes": 3,
+   "aparicoes": 5,
    "melhor_geral": "35.420",
    "melhor_geral_seg": 35.42,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -1027,6 +1041,13 @@
    "nome": "Gustavo Gondim",
    "kart": "28",
    "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "55.813",
+     "seg": 55.813,
+     "data": "08/07/2026",
+     "kart": "06",
+     "evento": "Indoor Sem O Bronze"
+    },
     "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.425",
      "seg": 35.425,
@@ -1042,7 +1063,7 @@
      "evento": "Competikar Rental Kart"
     }
    },
-   "aparicoes": 3,
+   "aparicoes": 4,
    "melhor_geral": "35.425",
    "melhor_geral_seg": 35.425,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -1113,6 +1134,13 @@
    "nome": "Rogerio B.",
    "kart": "28",
    "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.343",
+     "seg": 54.343,
+     "data": "08/07/2026",
+     "kart": "13",
+     "evento": "Indoor Sem O Bronze"
+    },
     "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.489",
      "seg": 35.489,
@@ -1128,7 +1156,7 @@
      "evento": "Competikar Rental Kart"
     }
    },
-   "aparicoes": 3,
+   "aparicoes": 5,
    "melhor_geral": "35.489",
    "melhor_geral_seg": 35.489,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -1144,9 +1172,16 @@
      "data": "09/05/2026",
      "kart": "5",
      "evento": "Competikar Rental Kart"
+    },
+    "Traçado 8 — Sentido Normal (890m)": {
+     "tempo": "56.474",
+     "seg": 56.474,
+     "data": "27/06/2026",
+     "kart": "28",
+     "evento": "Competikar Rental Kart"
     }
    },
-   "aparicoes": 2,
+   "aparicoes": 3,
    "melhor_geral": "35.503",
    "melhor_geral_seg": 35.503,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -1188,6 +1223,13 @@
    "nome": "Rafael Lira",
    "kart": "18",
    "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.310",
+     "seg": 54.31,
+     "data": "08/07/2026",
+     "kart": "28",
+     "evento": "Indoor Sem O Bronze"
+    },
     "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.571",
      "seg": 35.571,
@@ -1203,7 +1245,7 @@
      "evento": "Competikar Rental Kart"
     }
    },
-   "aparicoes": 4,
+   "aparicoes": 6,
    "melhor_geral": "35.571",
    "melhor_geral_seg": 35.571,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -1292,7 +1334,7 @@
    "rank_geral": 17
   },
   {
-   "nome": "Nickholas",
+   "nome": "Nickholas R.",
    "kart": "29",
    "por_tracado": {
     "Traçado 13 — Curtinho Curva da Árvore (550m)": {
@@ -1301,9 +1343,16 @@
      "data": "09/05/2026",
      "kart": "29",
      "evento": "Competikar Rental Kart"
+    },
+    "Traçado 8 — Sentido Normal (890m)": {
+     "tempo": "54.339",
+     "seg": 54.339,
+     "data": "27/06/2026",
+     "kart": "29",
+     "evento": "Competikar Rental Kart"
     }
    },
-   "aparicoes": 2,
+   "aparicoes": 3,
    "melhor_geral": "35.669",
    "melhor_geral_seg": 35.669,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -1487,9 +1536,16 @@
      "data": "09/05/2026",
      "kart": "29",
      "evento": "Competikar Rental Kart"
+    },
+    "Traçado 8 — Sentido Normal (890m)": {
+     "tempo": "54.867",
+     "seg": 54.867,
+     "data": "27/06/2026",
+     "kart": "18",
+     "evento": "Competikar Rental Kart"
     }
    },
-   "aparicoes": 2,
+   "aparicoes": 3,
    "melhor_geral": "36.034",
    "melhor_geral_seg": 36.034,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -1671,24 +1727,6 @@
    "rank_geral": 33
   },
   {
-   "nome": "Candelore",
-   "kart": "11",
-   "por_tracado": {
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "53.598",
-     "seg": 53.598,
-     "data": "16/07/2026",
-     "kart": "11",
-     "evento": "Indoor Sem O Bronze"
-    }
-   },
-   "aparicoes": 2,
-   "melhor_geral": "53.598",
-   "melhor_geral_seg": 53.598,
-   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 34
-  },
-  {
    "nome": "Marcelo Abreu",
    "kart": "14",
    "por_tracado": {
@@ -1704,79 +1742,7 @@
    "melhor_geral": "53.822",
    "melhor_geral_seg": 53.822,
    "melhor_geral_tracado": "Traçado 8 — Sentido Normal (890m)",
-   "rank_geral": 35
-  },
-  {
-   "nome": "Lira",
-   "kart": "28",
-   "por_tracado": {
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.310",
-     "seg": 54.31,
-     "data": "08/07/2026",
-     "kart": "28",
-     "evento": "Indoor Sem O Bronze"
-    }
-   },
-   "aparicoes": 2,
-   "melhor_geral": "54.310",
-   "melhor_geral_seg": 54.31,
-   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 36
-  },
-  {
-   "nome": "Nickholas R.",
-   "kart": "29",
-   "por_tracado": {
-    "Traçado 8 — Sentido Normal (890m)": {
-     "tempo": "54.339",
-     "seg": 54.339,
-     "data": "27/06/2026",
-     "kart": "29",
-     "evento": "Competikar Rental Kart"
-    }
-   },
-   "aparicoes": 1,
-   "melhor_geral": "54.339",
-   "melhor_geral_seg": 54.339,
-   "melhor_geral_tracado": "Traçado 8 — Sentido Normal (890m)",
-   "rank_geral": 37
-  },
-  {
-   "nome": "Rogerio",
-   "kart": "13",
-   "por_tracado": {
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.343",
-     "seg": 54.343,
-     "data": "08/07/2026",
-     "kart": "13",
-     "evento": "Indoor Sem O Bronze"
-    }
-   },
-   "aparicoes": 2,
-   "melhor_geral": "54.343",
-   "melhor_geral_seg": 54.343,
-   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 38
-  },
-  {
-   "nome": "Ltm",
-   "kart": "28",
-   "por_tracado": {
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.746",
-     "seg": 54.746,
-     "data": "16/07/2026",
-     "kart": "28",
-     "evento": "Indoor Sem O Bronze"
-    }
-   },
-   "aparicoes": 2,
-   "melhor_geral": "54.746",
-   "melhor_geral_seg": 54.746,
-   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 39
+   "rank_geral": 34
   },
   {
    "nome": "Carlos Alexandre",
@@ -1794,7 +1760,7 @@
    "melhor_geral": "54.785",
    "melhor_geral_seg": 54.785,
    "melhor_geral_tracado": "Traçado 8 — Sentido Normal (890m)",
-   "rank_geral": 40
+   "rank_geral": 35
   },
   {
    "nome": "Enezio",
@@ -1819,25 +1785,7 @@
    "melhor_geral": "54.845",
    "melhor_geral_seg": 54.845,
    "melhor_geral_tracado": "Traçado 8 — Sentido Normal (890m)",
-   "rank_geral": 41
-  },
-  {
-   "nome": "Joao Vitor",
-   "kart": "18",
-   "por_tracado": {
-    "Traçado 8 — Sentido Normal (890m)": {
-     "tempo": "54.867",
-     "seg": 54.867,
-     "data": "27/06/2026",
-     "kart": "18",
-     "evento": "Competikar Rental Kart"
-    }
-   },
-   "aparicoes": 1,
-   "melhor_geral": "54.867",
-   "melhor_geral_seg": 54.867,
-   "melhor_geral_tracado": "Traçado 8 — Sentido Normal (890m)",
-   "rank_geral": 42
+   "rank_geral": 36
   },
   {
    "nome": "Torsian",
@@ -1855,7 +1803,7 @@
    "melhor_geral": "55.244",
    "melhor_geral_seg": 55.244,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 43
+   "rank_geral": 37
   },
   {
    "nome": "Caim",
@@ -1873,7 +1821,7 @@
    "melhor_geral": "55.430",
    "melhor_geral_seg": 55.43,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 44
+   "rank_geral": 38
   },
   {
    "nome": "Carlos Magno",
@@ -1891,7 +1839,7 @@
    "melhor_geral": "55.716",
    "melhor_geral_seg": 55.716,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 45
+   "rank_geral": 39
   },
   {
    "nome": "Alcindo",
@@ -1909,43 +1857,7 @@
    "melhor_geral": "55.786",
    "melhor_geral_seg": 55.786,
    "melhor_geral_tracado": "Traçado 8 — Sentido Normal (890m)",
-   "rank_geral": 46
-  },
-  {
-   "nome": "Gustavo",
-   "kart": "06",
-   "por_tracado": {
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "55.813",
-     "seg": 55.813,
-     "data": "08/07/2026",
-     "kart": "06",
-     "evento": "Indoor Sem O Bronze"
-    }
-   },
-   "aparicoes": 1,
-   "melhor_geral": "55.813",
-   "melhor_geral_seg": 55.813,
-   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 47
-  },
-  {
-   "nome": "Willian Jr.",
-   "kart": "28",
-   "por_tracado": {
-    "Traçado 8 — Sentido Normal (890m)": {
-     "tempo": "56.474",
-     "seg": 56.474,
-     "data": "27/06/2026",
-     "kart": "28",
-     "evento": "Competikar Rental Kart"
-    }
-   },
-   "aparicoes": 1,
-   "melhor_geral": "56.474",
-   "melhor_geral_seg": 56.474,
-   "melhor_geral_tracado": "Traçado 8 — Sentido Normal (890m)",
-   "rank_geral": 48
+   "rank_geral": 40
   },
   {
    "nome": "Gilberto M.",
@@ -1963,7 +1875,7 @@
    "melhor_geral": "58.437",
    "melhor_geral_seg": 58.437,
    "melhor_geral_tracado": "Traçado 8 — Sentido Normal (890m)",
-   "rank_geral": 49
+   "rank_geral": 41
   }
  ],
  "sessoes": [

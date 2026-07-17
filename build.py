@@ -31,6 +31,31 @@ ROOT = Path(__file__).parent
 FONTE = ROOT / "data" / "folhas.json"
 SAIDA = ROOT / "data.json"
 
+# ALIASES — o mesmo piloto aparece com nome diferente entre folhas (Pietro, 17/07:
+# "sim, sempre junta, usa o bom senso e junta").
+# CRITERIO (o "bom senso" explicitado, pra nao virar chute): so junta quando o nome
+# curto tem UM UNICO candidato completo no banco. Se dois nomes COMPLETOS dividem um
+# token, sao pessoas DIFERENTES e ficam separados:
+#   Antonio Lazaro != Antonio Carvalho · Fernando Adorno != Fernando Vilefort
+#   Agostinho Neto != Agostinho Tozzo  · Gabriel Alves   != Gabriel Candelore
+#   Carlos Magno != Carlos Silva != Carlos Alexandre     · Geraldo Neto != Agostinho Neto
+# Nome novo ambiguo -> NAO adivinhar, perguntar ao Pietro.
+ALIASES = {
+    "Candelore": "Gabriel Candelore",   # unico *Candelore
+    "Lira": "Rafael Lira",              # unico *Lira
+    "Ltm": "Luciano Ltm",               # unico *Ltm
+    "Rogerio": "Rogerio B.",            # unico Rogerio*
+    "Nickholas": "Nickholas R.",        # unico Nickholas*
+    "Gustavo": "Gustavo Gondim",        # unico Gustavo*
+    "Joao Vitor": "Joao Vitor Moura",   # unico Joao Vitor*
+    "Willian Jr.": "William Jr.",       # erro de digitacao da folha de 27/06
+}
+
+
+def canon(nome: str) -> str:
+    n = nome.strip()
+    return ALIASES.get(n, n)
+
 
 def to_seg(t: str) -> float:
     """'54.147' -> 54.147 | '1:19.130' -> 79.13 | '01:01.516' -> 61.516"""
@@ -53,7 +78,7 @@ def main() -> int:
     total_resultados = 0
     for f in folhas:
         for r in f["resultados"]:
-            nome, tracado = r["nome"].strip(), f["tracado"]
+            nome, tracado = canon(r["nome"]), f["tracado"]
             seg = to_seg(r["melhor_volta"])
             total_resultados += 1
             k = (nome, tracado)
@@ -81,7 +106,7 @@ def main() -> int:
         p["por_tracado"][v["tracado"]] = {"tempo": v["tempo"], "seg": v["seg"], "data": v["data"],
                                           "kart": v["kart"], "evento": v["evento"]}
     for p in pilotos.values():
-        p["aparicoes"] = sum(1 for f in folhas for r in f["resultados"] if r["nome"].strip() == p["nome"])
+        p["aparicoes"] = sum(1 for f in folhas for r in f["resultados"] if canon(r["nome"]) == p["nome"])
         bt = min(p["por_tracado"].items(), key=lambda kv: kv[1]["seg"])
         p["melhor_geral"], p["melhor_geral_seg"] = bt[1]["tempo"], bt[1]["seg"]
         p["melhor_geral_tracado"], p["kart"] = bt[0], bt[1]["kart"]
