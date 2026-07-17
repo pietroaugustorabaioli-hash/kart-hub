@@ -49,7 +49,20 @@ ALIASES = {
     "Gustavo": "Gustavo Gondim",        # unico Gustavo*
     "Joao Vitor": "Joao Vitor Moura",   # unico Joao Vitor*
     "Willian Jr.": "William Jr.",       # erro de digitacao da folha de 27/06
+    # das folhas de 25/06 (so primeiro nome):
+    "Eduardo": "Eduardo Paiva",         # unico Eduardo*
+    "Joao Carlos": "Joao Carlos Carvalho",  # unico Joao Carlos*
+    "Geraldo": "Geraldo Neto",          # unico Geraldo*
+    "Jonathan": "Jonathan Ribeiro",     # unico Jonathan*
+    "Antonio L.": "Antonio Lazaro",     # o "L." desambigua contra Antonio Carvalho
 }
+
+# AMBIGUOS — NAO juntar sem o Pietro dizer. Dois candidatos completos cada:
+#   "Antonio"  (25/06 Bat.01) -> Antonio Lazaro OU Antonio Carvalho?
+#   "Fernando" (25/06 Bat.02) -> Fernando Adorno OU Fernando Vilefort?
+# Ficam como piloto proprio ate ele resolver. Chutar aqui corrompe o recorde de um
+# deles em silencio - exatamente o erro de rotulo que ele ja mandou nao repetir.
+AMBIGUOS = {"Antonio", "Fernando"}
 
 
 def canon(nome: str) -> str:

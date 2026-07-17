@@ -916,5 +916,146 @@
    }
   ],
   "_melhor_volta_impressa": "Magrao 53.671"
+ },
+ {
+  "tracado": "Traçado 8 — Sentido Normal (890m)",
+  "evento": "Indoor Sem O Bronze",
+  "bateria": "Bateria 01",
+  "tipo": "Corrida",
+  "data": "25/06/2026",
+  "resultados": [
+   {
+    "pos": "1",
+    "kart": "26",
+    "nome": "Candelore",
+    "melhor_volta": "53.145"
+   },
+   {
+    "pos": "2",
+    "kart": "18",
+    "nome": "Luciano Ltm",
+    "melhor_volta": "53.876"
+   },
+   {
+    "pos": "3",
+    "kart": "11",
+    "nome": "Pietro",
+    "melhor_volta": "53.992"
+   },
+   {
+    "pos": "4",
+    "kart": "29",
+    "nome": "Rogerio",
+    "melhor_volta": "54.022"
+   },
+   {
+    "pos": "5",
+    "kart": "22",
+    "nome": "Nickholas",
+    "melhor_volta": "54.139"
+   },
+   {
+    "pos": "6",
+    "kart": "15",
+    "nome": "Eduardo",
+    "melhor_volta": "54.360"
+   },
+   {
+    "pos": "7",
+    "kart": "27",
+    "nome": "Joao Carlos",
+    "melhor_volta": "55.116"
+   },
+   {
+    "pos": "8",
+    "kart": "28",
+    "nome": "Antonio",
+    "melhor_volta": "54.415"
+   },
+   {
+    "pos": "NC",
+    "kart": "16",
+    "nome": "Geraldo",
+    "melhor_volta": "53.325"
+   },
+   {
+    "pos": "NC",
+    "kart": "13",
+    "nome": "Geraldo",
+    "melhor_volta": "55.096"
+   }
+  ],
+  "_melhor_volta_impressa": "Candelore 53.145"
+ },
+ {
+  "tracado": "Traçado 8 — Sentido Normal (890m)",
+  "evento": "Indoor Sem O Bronze",
+  "bateria": "Bateria 02",
+  "tipo": "Corrida",
+  "data": "25/06/2026",
+  "resultados": [
+   {
+    "pos": "1",
+    "kart": "26",
+    "nome": "Geraldo",
+    "melhor_volta": "53.221"
+   },
+   {
+    "pos": "2",
+    "kart": "22",
+    "nome": "Pietro",
+    "melhor_volta": "53.806"
+   },
+   {
+    "pos": "3",
+    "kart": "16",
+    "nome": "Jonathan",
+    "melhor_volta": "53.728"
+   },
+   {
+    "pos": "4",
+    "kart": "11",
+    "nome": "Rogerio",
+    "melhor_volta": "53.914"
+   },
+   {
+    "pos": "5",
+    "kart": "155",
+    "nome": "Joao Carlos",
+    "melhor_volta": "54.114"
+   },
+   {
+    "pos": "6",
+    "kart": "11",
+    "nome": "Nickholas",
+    "melhor_volta": "54.613"
+   },
+   {
+    "pos": "7",
+    "kart": "6",
+    "nome": "Fernando",
+    "melhor_volta": "54.510"
+   },
+   {
+    "pos": "8",
+    "kart": "27",
+    "nome": "Antonio L.",
+    "melhor_volta": "55.404"
+   },
+   {
+    "pos": "9",
+    "kart": "14",
+    "nome": "Eduardo",
+    "melhor_volta": "55.668"
+   },
+   {
+    "pos": "10",
+    "kart": "29",
+    "nome": "Luciano Ltm",
+    "melhor_volta": "55.247"
+   }
+  ],
+  "_melhor_volta_impressa": "Geraldo 53.221",
+  "_nota": "'Competidor 4' (kart 4, NC, 03:42.153) EXCLUIDO: e placeholder de competidor nao identificado, nao um piloto. Incluir criaria piloto fantasma."
  }
 ]
