@@ -155,5 +155,374 @@
     "melhor_volta": "1:01.516"
    }
   ]
+ },
+ {
+  "tracado": "Indoor Tradicional",
+  "evento": "Competikar Rental Kart",
+  "bateria": "Grupo 1 - 1a Bateria",
+  "tipo": "Corrida",
+  "data": "09/05/2026",
+  "resultados": [
+   {
+    "pos": "1",
+    "kart": "22",
+    "nome": "Luiz Felipe",
+    "melhor_volta": "35.411"
+   },
+   {
+    "pos": "2",
+    "kart": "28",
+    "nome": "Gustavo Gondim",
+    "melhor_volta": "35.425"
+   },
+   {
+    "pos": "3",
+    "kart": "11",
+    "nome": "Magrao",
+    "melhor_volta": "35.656"
+   },
+   {
+    "pos": "4",
+    "kart": "5",
+    "nome": "G. Filho",
+    "melhor_volta": "35.634"
+   },
+   {
+    "pos": "5",
+    "kart": "29",
+    "nome": "Nickholas",
+    "melhor_volta": "35.669"
+   },
+   {
+    "pos": "6",
+    "kart": "13",
+    "nome": "Roniel",
+    "melhor_volta": "36.255"
+   },
+   {
+    "pos": "7",
+    "kart": "30",
+    "nome": "Agostinho Neto",
+    "melhor_volta": "36.236"
+   },
+   {
+    "pos": "8",
+    "kart": "21",
+    "nome": "Leonardo Fidelis",
+    "melhor_volta": "36.168"
+   },
+   {
+    "pos": "9",
+    "kart": "26",
+    "nome": "Carlos Silva",
+    "melhor_volta": "36.827"
+   },
+   {
+    "pos": "10",
+    "kart": "15",
+    "nome": "Agostinho Tozzo",
+    "melhor_volta": "37.043"
+   },
+   {
+    "pos": "11",
+    "kart": "8",
+    "nome": "Pietro",
+    "melhor_volta": "37.324"
+   },
+   {
+    "pos": "12",
+    "kart": "24",
+    "nome": "Gabriel Alves",
+    "melhor_volta": "37.353"
+   }
+  ]
+ },
+ {
+  "tracado": "Indoor Tradicional",
+  "evento": "Competikar Rental Kart",
+  "bateria": "Grupo 1 - 2a Bateria",
+  "tipo": "Corrida",
+  "data": "09/05/2026",
+  "resultados": [
+   {
+    "pos": "1",
+    "kart": "28",
+    "nome": "Pietro",
+    "melhor_volta": "35.393"
+   },
+   {
+    "pos": "2",
+    "kart": "5",
+    "nome": "Carlos Silva",
+    "melhor_volta": "35.437"
+   },
+   {
+    "pos": "3",
+    "kart": "22",
+    "nome": "Gabriel Alves",
+    "melhor_volta": "35.698"
+   },
+   {
+    "pos": "4",
+    "kart": "11",
+    "nome": "Agostinho Tozzo",
+    "melhor_volta": "36.239"
+   },
+   {
+    "pos": "5",
+    "kart": "15",
+    "nome": "Magrao",
+    "melhor_volta": "36.234"
+   },
+   {
+    "pos": "6",
+    "kart": "24",
+    "nome": "Luiz Felipe",
+    "melhor_volta": "36.407"
+   },
+   {
+    "pos": "7",
+    "kart": "30",
+    "nome": "Roniel",
+    "melhor_volta": "35.963"
+   },
+   {
+    "pos": "8",
+    "kart": "21",
+    "nome": "Nickholas",
+    "melhor_volta": "36.128"
+   },
+   {
+    "pos": "9",
+    "kart": "26",
+    "nome": "G. Filho",
+    "melhor_volta": "36.714"
+   },
+   {
+    "pos": "10",
+    "kart": "29",
+    "nome": "Leonardo Fidelis",
+    "melhor_volta": "36.390"
+   },
+   {
+    "pos": "11",
+    "kart": "8",
+    "nome": "Gustavo Gondim",
+    "melhor_volta": "37.159"
+   },
+   {
+    "pos": "NC",
+    "kart": "13",
+    "nome": "Agostinho Neto",
+    "melhor_volta": "36.302"
+   }
+  ]
+ },
+ {
+  "tracado": "Indoor Tradicional",
+  "evento": "Competikar Rental Kart",
+  "bateria": "Grupo 2 - Tomada de Tempo",
+  "tipo": "Tomada de tempo",
+  "data": "09/05/2026",
+  "resultados": [
+   {
+    "pos": "1",
+    "kart": "28",
+    "nome": "Jonathan Ribeiro",
+    "melhor_volta": "36.362"
+   },
+   {
+    "pos": "2",
+    "kart": "30",
+    "nome": "Douglas Calixto",
+    "melhor_volta": "36.413"
+   },
+   {
+    "pos": "3",
+    "kart": "23",
+    "nome": "Fernando Adorno",
+    "melhor_volta": "36.482"
+   },
+   {
+    "pos": "4",
+    "kart": "18",
+    "nome": "Rafael Lira",
+    "melhor_volta": "36.606"
+   },
+   {
+    "pos": "5",
+    "kart": "13",
+    "nome": "Paulo Braga",
+    "melhor_volta": "36.861"
+   },
+   {
+    "pos": "6",
+    "kart": "15",
+    "nome": "Geraldo Neto",
+    "melhor_volta": "37.149"
+   },
+   {
+    "pos": "7",
+    "kart": "11",
+    "nome": "Francisco Silva",
+    "melhor_volta": "37.381"
+   },
+   {
+    "pos": "8",
+    "kart": "26",
+    "nome": "Joao Carlos Carvalho",
+    "melhor_volta": "37.385"
+   },
+   {
+    "pos": "9",
+    "kart": "1",
+    "nome": "Eduardo Paiva",
+    "melhor_volta": "37.963"
+   },
+   {
+    "pos": "10",
+    "kart": "21",
+    "nome": "Joao Pedro F. Alves",
+    "melhor_volta": "40.838"
+   }
+  ]
+ },
+ {
+  "tracado": "Indoor Tradicional",
+  "evento": "Competikar Rental Kart",
+  "bateria": "Grupo 2 - 1a Bateria",
+  "tipo": "Corrida",
+  "data": "09/05/2026",
+  "resultados": [
+   {
+    "pos": "1",
+    "kart": "28",
+    "nome": "Jonathan Ribeiro",
+    "melhor_volta": "35.601"
+   },
+   {
+    "pos": "2",
+    "kart": "30",
+    "nome": "Douglas Calixto",
+    "melhor_volta": "35.873"
+   },
+   {
+    "pos": "3",
+    "kart": "23",
+    "nome": "Fernando Adorno",
+    "melhor_volta": "35.709"
+   },
+   {
+    "pos": "4",
+    "kart": "18",
+    "nome": "Rafael Lira",
+    "melhor_volta": "35.571"
+   },
+   {
+    "pos": "5",
+    "kart": "11",
+    "nome": "Francisco Silva",
+    "melhor_volta": "36.410"
+   },
+   {
+    "pos": "6",
+    "kart": "13",
+    "nome": "Paulo Braga",
+    "melhor_volta": "35.724"
+   },
+   {
+    "pos": "7",
+    "kart": "26",
+    "nome": "Joao Carlos Carvalho",
+    "melhor_volta": "36.614"
+   },
+   {
+    "pos": "8",
+    "kart": "21",
+    "nome": "Joao Pedro F. Alves",
+    "melhor_volta": "36.599"
+   },
+   {
+    "pos": "9",
+    "kart": "1",
+    "nome": "Eduardo Paiva",
+    "melhor_volta": "37.038"
+   },
+   {
+    "pos": "10",
+    "kart": "15",
+    "nome": "Geraldo Neto",
+    "melhor_volta": "36.006"
+   }
+  ]
+ },
+ {
+  "tracado": "Indoor Tradicional",
+  "evento": "Competikar Rental Kart",
+  "bateria": "Grupo 2 - 2a Bateria",
+  "tipo": "Corrida",
+  "data": "09/05/2026",
+  "resultados": [
+   {
+    "pos": "1",
+    "kart": "28",
+    "nome": "Geraldo Neto",
+    "melhor_volta": "35.409"
+   },
+   {
+    "pos": "2",
+    "kart": "11",
+    "nome": "Paulo Braga",
+    "melhor_volta": "35.517"
+   },
+   {
+    "pos": "3",
+    "kart": "30",
+    "nome": "Eduardo Paiva",
+    "melhor_volta": "35.927"
+   },
+   {
+    "pos": "4",
+    "kart": "21",
+    "nome": "Fernando Adorno",
+    "melhor_volta": "35.454"
+   },
+   {
+    "pos": "5",
+    "kart": "15",
+    "nome": "Jonathan Ribeiro",
+    "melhor_volta": "35.966"
+   },
+   {
+    "pos": "6",
+    "kart": "18",
+    "nome": "Joao Carlos Carvalho",
+    "melhor_volta": "35.924"
+   },
+   {
+    "pos": "7",
+    "kart": "26",
+    "nome": "Rafael Lira",
+    "melhor_volta": "36.010"
+   },
+   {
+    "pos": "8",
+    "kart": "13",
+    "nome": "Francisco Silva",
+    "melhor_volta": "36.966"
+   },
+   {
+    "pos": "9",
+    "kart": "01",
+    "nome": "Douglas Calixto",
+    "melhor_volta": "36.994"
+   },
+   {
+    "pos": "10",
+    "kart": "23",
+    "nome": "Joao Pedro F. Alves",
+    "melhor_volta": "36.995"
+   }
+  ]
  }
 ]

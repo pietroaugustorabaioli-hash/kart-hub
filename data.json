@@ -1,15 +1,25 @@
 {
- "gerado_em": "2026-07-16",
+ "gerado_em": "2026-07-17",
  "fonte": "Folhas oficiais Competikar/LapTime confirmadas pelo Pietro",
  "meta": {
-  "total_sessoes": 2,
-  "total_pilotos": 13,
-  "total_resultados": 23,
+  "total_sessoes": 7,
+  "total_pilotos": 31,
+  "total_resultados": 77,
   "tracados": [
+   "Indoor Tradicional",
    "Traçado 9 — Anti-Horário (900m)"
   ]
  },
  "recordes_por_tracado": [
+  {
+   "tracado": "Indoor Tradicional",
+   "tempo": "35.393",
+   "seg": 35.393,
+   "piloto": "Pietro",
+   "kart": "28",
+   "data": "09/05/2026",
+   "evento": "Competikar Rental Kart"
+  },
   {
    "tracado": "Traçado 9 — Anti-Horário (900m)",
    "tempo": "53.598",
@@ -21,6 +31,228 @@
   }
  ],
  "leaderboard_por_tracado": {
+  "Indoor Tradicional": [
+   {
+    "piloto": "Pietro",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.393",
+    "seg": 35.393,
+    "kart": "28",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 1
+   },
+   {
+    "piloto": "Geraldo Neto",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.409",
+    "seg": 35.409,
+    "kart": "28",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 2
+   },
+   {
+    "piloto": "Luiz Felipe",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.411",
+    "seg": 35.411,
+    "kart": "22",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 3
+   },
+   {
+    "piloto": "Gustavo Gondim",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.425",
+    "seg": 35.425,
+    "kart": "28",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 4
+   },
+   {
+    "piloto": "Carlos Silva",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.437",
+    "seg": 35.437,
+    "kart": "5",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 5
+   },
+   {
+    "piloto": "Fernando Adorno",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.454",
+    "seg": 35.454,
+    "kart": "21",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 6
+   },
+   {
+    "piloto": "Paulo Braga",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.517",
+    "seg": 35.517,
+    "kart": "11",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 7
+   },
+   {
+    "piloto": "Rafael Lira",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.571",
+    "seg": 35.571,
+    "kart": "18",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 8
+   },
+   {
+    "piloto": "Jonathan Ribeiro",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.601",
+    "seg": 35.601,
+    "kart": "28",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 9
+   },
+   {
+    "piloto": "G. Filho",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.634",
+    "seg": 35.634,
+    "kart": "5",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 10
+   },
+   {
+    "piloto": "Magrao",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.656",
+    "seg": 35.656,
+    "kart": "11",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 11
+   },
+   {
+    "piloto": "Nickholas",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.669",
+    "seg": 35.669,
+    "kart": "29",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 12
+   },
+   {
+    "piloto": "Gabriel Alves",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.698",
+    "seg": 35.698,
+    "kart": "22",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 13
+   },
+   {
+    "piloto": "Douglas Calixto",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.873",
+    "seg": 35.873,
+    "kart": "30",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 14
+   },
+   {
+    "piloto": "Joao Carlos Carvalho",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.924",
+    "seg": 35.924,
+    "kart": "18",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 15
+   },
+   {
+    "piloto": "Eduardo Paiva",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.927",
+    "seg": 35.927,
+    "kart": "30",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 16
+   },
+   {
+    "piloto": "Roniel",
+    "tracado": "Indoor Tradicional",
+    "tempo": "35.963",
+    "seg": 35.963,
+    "kart": "30",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 17
+   },
+   {
+    "piloto": "Leonardo Fidelis",
+    "tracado": "Indoor Tradicional",
+    "tempo": "36.168",
+    "seg": 36.168,
+    "kart": "21",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 18
+   },
+   {
+    "piloto": "Agostinho Neto",
+    "tracado": "Indoor Tradicional",
+    "tempo": "36.236",
+    "seg": 36.236,
+    "kart": "30",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 19
+   },
+   {
+    "piloto": "Agostinho Tozzo",
+    "tracado": "Indoor Tradicional",
+    "tempo": "36.239",
+    "seg": 36.239,
+    "kart": "11",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 20
+   },
+   {
+    "piloto": "Francisco Silva",
+    "tracado": "Indoor Tradicional",
+    "tempo": "36.410",
+    "seg": 36.41,
+    "kart": "11",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 21
+   },
+   {
+    "piloto": "Joao Pedro F. Alves",
+    "tracado": "Indoor Tradicional",
+    "tempo": "36.599",
+    "seg": 36.599,
+    "kart": "21",
+    "data": "09/05/2026",
+    "evento": "Competikar Rental Kart",
+    "rank": 22
+   }
+  ],
   "Traçado 9 — Anti-Horário (900m)": [
    {
     "piloto": "Candelore",
@@ -156,6 +388,430 @@
  },
  "pilotos": [
   {
+   "nome": "Pietro",
+   "kart": "28",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.147",
+     "seg": 54.147,
+     "data": "08/07/2026",
+     "kart": "23",
+     "evento": "Indoor Sem O Bronze"
+    },
+    "Indoor Tradicional": {
+     "tempo": "35.393",
+     "seg": 35.393,
+     "data": "09/05/2026",
+     "kart": "28",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 4,
+   "melhor_geral": "35.393",
+   "melhor_geral_seg": 35.393,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 1
+  },
+  {
+   "nome": "Geraldo Neto",
+   "kart": "28",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "35.409",
+     "seg": 35.409,
+     "data": "09/05/2026",
+     "kart": "28",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 3,
+   "melhor_geral": "35.409",
+   "melhor_geral_seg": 35.409,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 2
+  },
+  {
+   "nome": "Luiz Felipe",
+   "kart": "22",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.533",
+     "seg": 54.533,
+     "data": "16/07/2026",
+     "kart": "14",
+     "evento": "Indoor Sem O Bronze"
+    },
+    "Indoor Tradicional": {
+     "tempo": "35.411",
+     "seg": 35.411,
+     "data": "09/05/2026",
+     "kart": "22",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 3,
+   "melhor_geral": "35.411",
+   "melhor_geral_seg": 35.411,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 3
+  },
+  {
+   "nome": "Gustavo Gondim",
+   "kart": "28",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "35.425",
+     "seg": 35.425,
+     "data": "09/05/2026",
+     "kart": "28",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "35.425",
+   "melhor_geral_seg": 35.425,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 4
+  },
+  {
+   "nome": "Carlos Silva",
+   "kart": "5",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "35.437",
+     "seg": 35.437,
+     "data": "09/05/2026",
+     "kart": "5",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "35.437",
+   "melhor_geral_seg": 35.437,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 5
+  },
+  {
+   "nome": "Fernando Adorno",
+   "kart": "21",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "35.454",
+     "seg": 35.454,
+     "data": "09/05/2026",
+     "kart": "21",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 3,
+   "melhor_geral": "35.454",
+   "melhor_geral_seg": 35.454,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 6
+  },
+  {
+   "nome": "Paulo Braga",
+   "kart": "11",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.083",
+     "seg": 54.083,
+     "data": "16/07/2026",
+     "kart": "22",
+     "evento": "Indoor Sem O Bronze"
+    },
+    "Indoor Tradicional": {
+     "tempo": "35.517",
+     "seg": 35.517,
+     "data": "09/05/2026",
+     "kart": "11",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 4,
+   "melhor_geral": "35.517",
+   "melhor_geral_seg": 35.517,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 7
+  },
+  {
+   "nome": "Rafael Lira",
+   "kart": "18",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "35.571",
+     "seg": 35.571,
+     "data": "09/05/2026",
+     "kart": "18",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 3,
+   "melhor_geral": "35.571",
+   "melhor_geral_seg": 35.571,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 8
+  },
+  {
+   "nome": "Jonathan Ribeiro",
+   "kart": "28",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "35.601",
+     "seg": 35.601,
+     "data": "09/05/2026",
+     "kart": "28",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 3,
+   "melhor_geral": "35.601",
+   "melhor_geral_seg": 35.601,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 9
+  },
+  {
+   "nome": "G. Filho",
+   "kart": "5",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "35.634",
+     "seg": 35.634,
+     "data": "09/05/2026",
+     "kart": "5",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "35.634",
+   "melhor_geral_seg": 35.634,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 10
+  },
+  {
+   "nome": "Magrao",
+   "kart": "11",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.034",
+     "seg": 54.034,
+     "data": "16/07/2026",
+     "kart": "06",
+     "evento": "Indoor Sem O Bronze"
+    },
+    "Indoor Tradicional": {
+     "tempo": "35.656",
+     "seg": 35.656,
+     "data": "09/05/2026",
+     "kart": "11",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 3,
+   "melhor_geral": "35.656",
+   "melhor_geral_seg": 35.656,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 11
+  },
+  {
+   "nome": "Nickholas",
+   "kart": "29",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "35.669",
+     "seg": 35.669,
+     "data": "09/05/2026",
+     "kart": "29",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "35.669",
+   "melhor_geral_seg": 35.669,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 12
+  },
+  {
+   "nome": "Gabriel Alves",
+   "kart": "22",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "35.698",
+     "seg": 35.698,
+     "data": "09/05/2026",
+     "kart": "22",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "35.698",
+   "melhor_geral_seg": 35.698,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 13
+  },
+  {
+   "nome": "Douglas Calixto",
+   "kart": "30",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "35.873",
+     "seg": 35.873,
+     "data": "09/05/2026",
+     "kart": "30",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 3,
+   "melhor_geral": "35.873",
+   "melhor_geral_seg": 35.873,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 14
+  },
+  {
+   "nome": "Joao Carlos Carvalho",
+   "kart": "18",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "35.924",
+     "seg": 35.924,
+     "data": "09/05/2026",
+     "kart": "18",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 3,
+   "melhor_geral": "35.924",
+   "melhor_geral_seg": 35.924,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 15
+  },
+  {
+   "nome": "Eduardo Paiva",
+   "kart": "30",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "35.927",
+     "seg": 35.927,
+     "data": "09/05/2026",
+     "kart": "30",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 3,
+   "melhor_geral": "35.927",
+   "melhor_geral_seg": 35.927,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 16
+  },
+  {
+   "nome": "Roniel",
+   "kart": "30",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "35.963",
+     "seg": 35.963,
+     "data": "09/05/2026",
+     "kart": "30",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "35.963",
+   "melhor_geral_seg": 35.963,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 17
+  },
+  {
+   "nome": "Leonardo Fidelis",
+   "kart": "21",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "36.168",
+     "seg": 36.168,
+     "data": "09/05/2026",
+     "kart": "21",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "36.168",
+   "melhor_geral_seg": 36.168,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 18
+  },
+  {
+   "nome": "Agostinho Neto",
+   "kart": "30",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "36.236",
+     "seg": 36.236,
+     "data": "09/05/2026",
+     "kart": "30",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "36.236",
+   "melhor_geral_seg": 36.236,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 19
+  },
+  {
+   "nome": "Agostinho Tozzo",
+   "kart": "11",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "36.239",
+     "seg": 36.239,
+     "data": "09/05/2026",
+     "kart": "11",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 2,
+   "melhor_geral": "36.239",
+   "melhor_geral_seg": 36.239,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 20
+  },
+  {
+   "nome": "Francisco Silva",
+   "kart": "11",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "36.410",
+     "seg": 36.41,
+     "data": "09/05/2026",
+     "kart": "11",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 3,
+   "melhor_geral": "36.410",
+   "melhor_geral_seg": 36.41,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 21
+  },
+  {
+   "nome": "Joao Pedro F. Alves",
+   "kart": "21",
+   "por_tracado": {
+    "Indoor Tradicional": {
+     "tempo": "36.599",
+     "seg": 36.599,
+     "data": "09/05/2026",
+     "kart": "21",
+     "evento": "Competikar Rental Kart"
+    }
+   },
+   "aparicoes": 3,
+   "melhor_geral": "36.599",
+   "melhor_geral_seg": 36.599,
+   "melhor_geral_tracado": "Indoor Tradicional",
+   "rank_geral": 22
+  },
+  {
    "nome": "Candelore",
    "kart": "11",
    "por_tracado": {
@@ -171,61 +827,7 @@
    "melhor_geral": "53.598",
    "melhor_geral_seg": 53.598,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 1
-  },
-  {
-   "nome": "Magrao",
-   "kart": "06",
-   "por_tracado": {
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.034",
-     "seg": 54.034,
-     "data": "16/07/2026",
-     "kart": "06",
-     "evento": "Indoor Sem O Bronze"
-    }
-   },
-   "aparicoes": 1,
-   "melhor_geral": "54.034",
-   "melhor_geral_seg": 54.034,
-   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 2
-  },
-  {
-   "nome": "Paulo Braga",
-   "kart": "22",
-   "por_tracado": {
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.083",
-     "seg": 54.083,
-     "data": "16/07/2026",
-     "kart": "22",
-     "evento": "Indoor Sem O Bronze"
-    }
-   },
-   "aparicoes": 1,
-   "melhor_geral": "54.083",
-   "melhor_geral_seg": 54.083,
-   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 3
-  },
-  {
-   "nome": "Pietro",
-   "kart": "23",
-   "por_tracado": {
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.147",
-     "seg": 54.147,
-     "data": "08/07/2026",
-     "kart": "23",
-     "evento": "Indoor Sem O Bronze"
-    }
-   },
-   "aparicoes": 2,
-   "melhor_geral": "54.147",
-   "melhor_geral_seg": 54.147,
-   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 4
+   "rank_geral": 23
   },
   {
    "nome": "Lira",
@@ -243,7 +845,7 @@
    "melhor_geral": "54.310",
    "melhor_geral_seg": 54.31,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 5
+   "rank_geral": 24
   },
   {
    "nome": "Rogerio",
@@ -261,25 +863,7 @@
    "melhor_geral": "54.343",
    "melhor_geral_seg": 54.343,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 6
-  },
-  {
-   "nome": "Luiz Felipe",
-   "kart": "14",
-   "por_tracado": {
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.533",
-     "seg": 54.533,
-     "data": "16/07/2026",
-     "kart": "14",
-     "evento": "Indoor Sem O Bronze"
-    }
-   },
-   "aparicoes": 1,
-   "melhor_geral": "54.533",
-   "melhor_geral_seg": 54.533,
-   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 7
+   "rank_geral": 25
   },
   {
    "nome": "Ltm",
@@ -297,7 +881,7 @@
    "melhor_geral": "54.746",
    "melhor_geral_seg": 54.746,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 8
+   "rank_geral": 26
   },
   {
    "nome": "Torsian",
@@ -315,7 +899,7 @@
    "melhor_geral": "55.244",
    "melhor_geral_seg": 55.244,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 9
+   "rank_geral": 27
   },
   {
    "nome": "Caim",
@@ -333,7 +917,7 @@
    "melhor_geral": "55.430",
    "melhor_geral_seg": 55.43,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 10
+   "rank_geral": 28
   },
   {
    "nome": "Carlos Magno",
@@ -351,7 +935,7 @@
    "melhor_geral": "55.716",
    "melhor_geral_seg": 55.716,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 11
+   "rank_geral": 29
   },
   {
    "nome": "Gustavo",
@@ -369,7 +953,7 @@
    "melhor_geral": "55.813",
    "melhor_geral_seg": 55.813,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 12
+   "rank_geral": 30
   },
   {
    "nome": "Enezio",
@@ -387,7 +971,7 @@
    "melhor_geral": "55.994",
    "melhor_geral_seg": 55.994,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 13
+   "rank_geral": 31
   }
  ],
  "sessoes": [
@@ -545,6 +1129,375 @@
      "kart": "24",
      "nome": "Enezio",
      "melhor_volta": "1:01.516"
+    }
+   ]
+  },
+  {
+   "tracado": "Indoor Tradicional",
+   "evento": "Competikar Rental Kart",
+   "bateria": "Grupo 1 - 1a Bateria",
+   "tipo": "Corrida",
+   "data": "09/05/2026",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "22",
+     "nome": "Luiz Felipe",
+     "melhor_volta": "35.411"
+    },
+    {
+     "pos": "2",
+     "kart": "28",
+     "nome": "Gustavo Gondim",
+     "melhor_volta": "35.425"
+    },
+    {
+     "pos": "3",
+     "kart": "11",
+     "nome": "Magrao",
+     "melhor_volta": "35.656"
+    },
+    {
+     "pos": "4",
+     "kart": "5",
+     "nome": "G. Filho",
+     "melhor_volta": "35.634"
+    },
+    {
+     "pos": "5",
+     "kart": "29",
+     "nome": "Nickholas",
+     "melhor_volta": "35.669"
+    },
+    {
+     "pos": "6",
+     "kart": "13",
+     "nome": "Roniel",
+     "melhor_volta": "36.255"
+    },
+    {
+     "pos": "7",
+     "kart": "30",
+     "nome": "Agostinho Neto",
+     "melhor_volta": "36.236"
+    },
+    {
+     "pos": "8",
+     "kart": "21",
+     "nome": "Leonardo Fidelis",
+     "melhor_volta": "36.168"
+    },
+    {
+     "pos": "9",
+     "kart": "26",
+     "nome": "Carlos Silva",
+     "melhor_volta": "36.827"
+    },
+    {
+     "pos": "10",
+     "kart": "15",
+     "nome": "Agostinho Tozzo",
+     "melhor_volta": "37.043"
+    },
+    {
+     "pos": "11",
+     "kart": "8",
+     "nome": "Pietro",
+     "melhor_volta": "37.324"
+    },
+    {
+     "pos": "12",
+     "kart": "24",
+     "nome": "Gabriel Alves",
+     "melhor_volta": "37.353"
+    }
+   ]
+  },
+  {
+   "tracado": "Indoor Tradicional",
+   "evento": "Competikar Rental Kart",
+   "bateria": "Grupo 1 - 2a Bateria",
+   "tipo": "Corrida",
+   "data": "09/05/2026",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "28",
+     "nome": "Pietro",
+     "melhor_volta": "35.393"
+    },
+    {
+     "pos": "2",
+     "kart": "5",
+     "nome": "Carlos Silva",
+     "melhor_volta": "35.437"
+    },
+    {
+     "pos": "3",
+     "kart": "22",
+     "nome": "Gabriel Alves",
+     "melhor_volta": "35.698"
+    },
+    {
+     "pos": "4",
+     "kart": "11",
+     "nome": "Agostinho Tozzo",
+     "melhor_volta": "36.239"
+    },
+    {
+     "pos": "5",
+     "kart": "15",
+     "nome": "Magrao",
+     "melhor_volta": "36.234"
+    },
+    {
+     "pos": "6",
+     "kart": "24",
+     "nome": "Luiz Felipe",
+     "melhor_volta": "36.407"
+    },
+    {
+     "pos": "7",
+     "kart": "30",
+     "nome": "Roniel",
+     "melhor_volta": "35.963"
+    },
+    {
+     "pos": "8",
+     "kart": "21",
+     "nome": "Nickholas",
+     "melhor_volta": "36.128"
+    },
+    {
+     "pos": "9",
+     "kart": "26",
+     "nome": "G. Filho",
+     "melhor_volta": "36.714"
+    },
+    {
+     "pos": "10",
+     "kart": "29",
+     "nome": "Leonardo Fidelis",
+     "melhor_volta": "36.390"
+    },
+    {
+     "pos": "11",
+     "kart": "8",
+     "nome": "Gustavo Gondim",
+     "melhor_volta": "37.159"
+    },
+    {
+     "pos": "NC",
+     "kart": "13",
+     "nome": "Agostinho Neto",
+     "melhor_volta": "36.302"
+    }
+   ]
+  },
+  {
+   "tracado": "Indoor Tradicional",
+   "evento": "Competikar Rental Kart",
+   "bateria": "Grupo 2 - Tomada de Tempo",
+   "tipo": "Tomada de tempo",
+   "data": "09/05/2026",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "28",
+     "nome": "Jonathan Ribeiro",
+     "melhor_volta": "36.362"
+    },
+    {
+     "pos": "2",
+     "kart": "30",
+     "nome": "Douglas Calixto",
+     "melhor_volta": "36.413"
+    },
+    {
+     "pos": "3",
+     "kart": "23",
+     "nome": "Fernando Adorno",
+     "melhor_volta": "36.482"
+    },
+    {
+     "pos": "4",
+     "kart": "18",
+     "nome": "Rafael Lira",
+     "melhor_volta": "36.606"
+    },
+    {
+     "pos": "5",
+     "kart": "13",
+     "nome": "Paulo Braga",
+     "melhor_volta": "36.861"
+    },
+    {
+     "pos": "6",
+     "kart": "15",
+     "nome": "Geraldo Neto",
+     "melhor_volta": "37.149"
+    },
+    {
+     "pos": "7",
+     "kart": "11",
+     "nome": "Francisco Silva",
+     "melhor_volta": "37.381"
+    },
+    {
+     "pos": "8",
+     "kart": "26",
+     "nome": "Joao Carlos Carvalho",
+     "melhor_volta": "37.385"
+    },
+    {
+     "pos": "9",
+     "kart": "1",
+     "nome": "Eduardo Paiva",
+     "melhor_volta": "37.963"
+    },
+    {
+     "pos": "10",
+     "kart": "21",
+     "nome": "Joao Pedro F. Alves",
+     "melhor_volta": "40.838"
+    }
+   ]
+  },
+  {
+   "tracado": "Indoor Tradicional",
+   "evento": "Competikar Rental Kart",
+   "bateria": "Grupo 2 - 1a Bateria",
+   "tipo": "Corrida",
+   "data": "09/05/2026",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "28",
+     "nome": "Jonathan Ribeiro",
+     "melhor_volta": "35.601"
+    },
+    {
+     "pos": "2",
+     "kart": "30",
+     "nome": "Douglas Calixto",
+     "melhor_volta": "35.873"
+    },
+    {
+     "pos": "3",
+     "kart": "23",
+     "nome": "Fernando Adorno",
+     "melhor_volta": "35.709"
+    },
+    {
+     "pos": "4",
+     "kart": "18",
+     "nome": "Rafael Lira",
+     "melhor_volta": "35.571"
+    },
+    {
+     "pos": "5",
+     "kart": "11",
+     "nome": "Francisco Silva",
+     "melhor_volta": "36.410"
+    },
+    {
+     "pos": "6",
+     "kart": "13",
+     "nome": "Paulo Braga",
+     "melhor_volta": "35.724"
+    },
+    {
+     "pos": "7",
+     "kart": "26",
+     "nome": "Joao Carlos Carvalho",
+     "melhor_volta": "36.614"
+    },
+    {
+     "pos": "8",
+     "kart": "21",
+     "nome": "Joao Pedro F. Alves",
+     "melhor_volta": "36.599"
+    },
+    {
+     "pos": "9",
+     "kart": "1",
+     "nome": "Eduardo Paiva",
+     "melhor_volta": "37.038"
+    },
+    {
+     "pos": "10",
+     "kart": "15",
+     "nome": "Geraldo Neto",
+     "melhor_volta": "36.006"
+    }
+   ]
+  },
+  {
+   "tracado": "Indoor Tradicional",
+   "evento": "Competikar Rental Kart",
+   "bateria": "Grupo 2 - 2a Bateria",
+   "tipo": "Corrida",
+   "data": "09/05/2026",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "28",
+     "nome": "Geraldo Neto",
+     "melhor_volta": "35.409"
+    },
+    {
+     "pos": "2",
+     "kart": "11",
+     "nome": "Paulo Braga",
+     "melhor_volta": "35.517"
+    },
+    {
+     "pos": "3",
+     "kart": "30",
+     "nome": "Eduardo Paiva",
+     "melhor_volta": "35.927"
+    },
+    {
+     "pos": "4",
+     "kart": "21",
+     "nome": "Fernando Adorno",
+     "melhor_volta": "35.454"
+    },
+    {
+     "pos": "5",
+     "kart": "15",
+     "nome": "Jonathan Ribeiro",
+     "melhor_volta": "35.966"
+    },
+    {
+     "pos": "6",
+     "kart": "18",
+     "nome": "Joao Carlos Carvalho",
+     "melhor_volta": "35.924"
+    },
+    {
+     "pos": "7",
+     "kart": "26",
+     "nome": "Rafael Lira",
+     "melhor_volta": "36.010"
+    },
+    {
+     "pos": "8",
+     "kart": "13",
+     "nome": "Francisco Silva",
+     "melhor_volta": "36.966"
+    },
+    {
+     "pos": "9",
+     "kart": "01",
+     "nome": "Douglas Calixto",
+     "melhor_volta": "36.994"
+    },
+    {
+     "pos": "10",
+     "kart": "23",
+     "nome": "Joao Pedro F. Alves",
+     "melhor_volta": "36.995"
     }
    ]
   }
