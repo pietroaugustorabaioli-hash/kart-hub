@@ -1057,5 +1057,320 @@
   ],
   "_melhor_volta_impressa": "Geraldo 53.221",
   "_nota": "'Competidor 4' (kart 4, NC, 03:42.153) EXCLUIDO: e placeholder de competidor nao identificado, nao um piloto. Incluir criaria piloto fantasma."
+ },
+ {
+  "tracado": "Traçado 9 — Anti-Horário (900m)",
+  "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
+  "bateria": "Tomada de Tempo",
+  "tipo": "Classificação",
+  "data": "18/07/2026",
+  "resultados": [
+   {
+    "pos": "1",
+    "kart": "16",
+    "nome": "Magrao",
+    "melhor_volta": "54.380"
+   },
+   {
+    "pos": "2",
+    "kart": "26",
+    "nome": "Paulo Braga",
+    "melhor_volta": "54.789"
+   },
+   {
+    "pos": "3",
+    "kart": "18",
+    "nome": "Narigas",
+    "melhor_volta": "55.203"
+   },
+   {
+    "pos": "4",
+    "kart": "20",
+    "nome": "Rogerio T.",
+    "melhor_volta": "55.324"
+   },
+   {
+    "pos": "5",
+    "kart": "22",
+    "nome": "Torsian",
+    "melhor_volta": "55.324"
+   },
+   {
+    "pos": "6",
+    "kart": "29",
+    "nome": "Enezio",
+    "melhor_volta": "55.484"
+   },
+   {
+    "pos": "7",
+    "kart": "23",
+    "nome": "Picachu",
+    "melhor_volta": "55.600"
+   },
+   {
+    "pos": "8",
+    "kart": "28",
+    "nome": "Dede",
+    "melhor_volta": "55.679"
+   },
+   {
+    "pos": "9",
+    "kart": "13",
+    "nome": "Marcelo Goes",
+    "melhor_volta": "55.710"
+   },
+   {
+    "pos": "10",
+    "kart": "27",
+    "nome": "Luciano Gil",
+    "melhor_volta": "55.776"
+   },
+   {
+    "pos": "11",
+    "kart": "14",
+    "nome": "Agostinho Tozzo",
+    "melhor_volta": "55.911"
+   },
+   {
+    "pos": "12",
+    "kart": "15",
+    "nome": "Alisson Noronha",
+    "melhor_volta": "56.012"
+   },
+   {
+    "pos": "13",
+    "kart": "8",
+    "nome": "Luciano Ltm",
+    "melhor_volta": "56.181"
+   },
+   {
+    "pos": "14",
+    "kart": "06",
+    "nome": "Caim",
+    "melhor_volta": "56.804"
+   },
+   {
+    "pos": "15",
+    "kart": "11",
+    "nome": "Carlos Magno",
+    "melhor_volta": "57.091"
+   },
+   {
+    "pos": "16",
+    "kart": "21",
+    "nome": "Eduardo Melo",
+    "melhor_volta": "57.572"
+   }
+  ]
+ },
+ {
+  "tracado": "Traçado 9 — Anti-Horário (900m)",
+  "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
+  "bateria": "Bateria 01",
+  "tipo": "Corrida",
+  "data": "18/07/2026",
+  "resultados": [
+   {
+    "pos": "1",
+    "kart": "26",
+    "nome": "Paulo Braga",
+    "melhor_volta": "53.533"
+   },
+   {
+    "pos": "2",
+    "kart": "16",
+    "nome": "Magrao",
+    "melhor_volta": "53.657"
+   },
+   {
+    "pos": "3",
+    "kart": "20",
+    "nome": "Rogerio T.",
+    "melhor_volta": "54.071"
+   },
+   {
+    "pos": "4",
+    "kart": "22",
+    "nome": "Torsian",
+    "melhor_volta": "54.328"
+   },
+   {
+    "pos": "5",
+    "kart": "29",
+    "nome": "Enezio",
+    "melhor_volta": "55.027"
+   },
+   {
+    "pos": "6",
+    "kart": "15",
+    "nome": "Alisson Noronha",
+    "melhor_volta": "54.768"
+   },
+   {
+    "pos": "7",
+    "kart": "28",
+    "nome": "Dede",
+    "melhor_volta": "54.555"
+   },
+   {
+    "pos": "8",
+    "kart": "18",
+    "nome": "Narigas",
+    "melhor_volta": "54.436"
+   },
+   {
+    "pos": "9",
+    "kart": "13",
+    "nome": "Marcelo Goes",
+    "melhor_volta": "54.803"
+   },
+   {
+    "pos": "10",
+    "kart": "23",
+    "nome": "Picachu",
+    "melhor_volta": "55.792"
+   },
+   {
+    "pos": "11",
+    "kart": "8",
+    "nome": "Luciano Ltm",
+    "melhor_volta": "54.966"
+   },
+   {
+    "pos": "12",
+    "kart": "27",
+    "nome": "Luciano Gil",
+    "melhor_volta": "55.721"
+   },
+   {
+    "pos": "13",
+    "kart": "06",
+    "nome": "Caim",
+    "melhor_volta": "55.489"
+   },
+   {
+    "pos": "14",
+    "kart": "14",
+    "nome": "Agostinho Tozzo",
+    "melhor_volta": "55.424"
+   },
+   {
+    "pos": "15",
+    "kart": "21",
+    "nome": "Eduardo Melo",
+    "melhor_volta": "55.675"
+   },
+   {
+    "pos": "16",
+    "kart": "11",
+    "nome": "Carlos Magno",
+    "melhor_volta": "55.967"
+   }
+  ]
+ },
+ {
+  "tracado": "Traçado 9 — Anti-Horário (900m)",
+  "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
+  "bateria": "Bateria 02",
+  "tipo": "Corrida",
+  "data": "18/07/2026",
+  "resultados": [
+   {
+    "pos": "1",
+    "kart": "29",
+    "nome": "Luciano Gil",
+    "melhor_volta": "54.995"
+   },
+   {
+    "pos": "2",
+    "kart": "20",
+    "nome": "Agostinho Tozzo",
+    "melhor_volta": "54.996"
+   },
+   {
+    "pos": "3",
+    "kart": "22",
+    "nome": "Caim",
+    "melhor_volta": "55.007"
+   },
+   {
+    "pos": "4",
+    "kart": "11",
+    "nome": "Paulo Braga",
+    "melhor_volta": "54.810"
+   },
+   {
+    "pos": "5",
+    "kart": "15",
+    "nome": "Luciano Ltm",
+    "melhor_volta": "55.004"
+   },
+   {
+    "pos": "6",
+    "kart": "14",
+    "nome": "Rogerio B.",
+    "melhor_volta": "54.499"
+   },
+   {
+    "pos": "7",
+    "kart": "8",
+    "nome": "Alisson Noronha",
+    "melhor_volta": "54.648"
+   },
+   {
+    "pos": "8",
+    "kart": "13",
+    "nome": "Narigas",
+    "melhor_volta": "54.439"
+   },
+   {
+    "pos": "9",
+    "kart": "23",
+    "nome": "Dede",
+    "melhor_volta": "54.715"
+   },
+   {
+    "pos": "10",
+    "kart": "26",
+    "nome": "Carlos Magno",
+    "melhor_volta": "54.945"
+   },
+   {
+    "pos": "11",
+    "kart": "6",
+    "nome": "Torsian",
+    "melhor_volta": "55.009"
+   },
+   {
+    "pos": "12",
+    "kart": "16",
+    "nome": "Eduardo Melo",
+    "melhor_volta": "54.953"
+   },
+   {
+    "pos": "13",
+    "kart": "18",
+    "nome": "Marcelo Goes",
+    "melhor_volta": "55.137"
+   },
+   {
+    "pos": "14",
+    "kart": "21",
+    "nome": "Magrao",
+    "melhor_volta": "54.725"
+   },
+   {
+    "pos": "15",
+    "kart": "27",
+    "nome": "Enezio",
+    "melhor_volta": "56.955"
+   },
+   {
+    "pos": "EX",
+    "kart": "28",
+    "nome": "Picachu",
+    "melhor_volta": "55.234"
+   }
+  ]
  }
 ]
