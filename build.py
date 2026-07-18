@@ -44,7 +44,8 @@ ALIASES = {
     "Candelore": "Gabriel Candelore",   # unico *Candelore
     "Lira": "Rafael Lira",              # unico *Lira
     "Ltm": "Luciano Ltm",               # unico *Ltm
-    "Rogerio": "Rogerio B.",            # unico Rogerio*
+    "Rogerio": "Rogerio Belivacqua",    # 08/07 "Rogerio" (bare) = Belivacqua (Pietro confirmou 18/07)
+    "Rogerio B.": "Rogerio Belivacqua", # "Rogerio B." (18/07 Bat02) = Belivacqua. "Rogerio T." e OUTRO piloto (Pietro nao sabe quem) -> SEPARADO.
     "Nickholas": "Nickholas R.",        # unico Nickholas*
     "Gustavo": "Gustavo Gondim",        # unico Gustavo*
     "Joao Vitor": "Joao Vitor Moura",   # unico Joao Vitor*
