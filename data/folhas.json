@@ -1372,5 +1372,80 @@
     "melhor_volta": "55.234"
    }
   ]
+ },
+ {
+  "tracado": "Traçado 10 — Anti-Horário (780m)",
+  "evento": "Indoor Sem O Bronze",
+  "bateria": "Bateria 07",
+  "tipo": "Corrida",
+  "data": "22/07/2026",
+  "resultados": [
+   {
+    "pos": "1",
+    "kart": "133",
+    "nome": "Candelore",
+    "melhor_volta": "44.829"
+   },
+   {
+    "pos": "2",
+    "kart": "28",
+    "nome": "Lira",
+    "melhor_volta": "45.175"
+   },
+   {
+    "pos": "3",
+    "kart": "14",
+    "nome": "Luiz Lira",
+    "melhor_volta": "45.146"
+   },
+   {
+    "pos": "4",
+    "kart": "21",
+    "nome": "Paulo Braga",
+    "melhor_volta": "45.960"
+   },
+   {
+    "pos": "5",
+    "kart": "15",
+    "nome": "Pietro",
+    "melhor_volta": "45.705"
+   },
+   {
+    "pos": "6",
+    "kart": "29",
+    "nome": "Rogerio B.",
+    "melhor_volta": "46.208"
+   },
+   {
+    "pos": "7",
+    "kart": "11",
+    "nome": "Ltm",
+    "melhor_volta": "46.204"
+   },
+   {
+    "pos": "8",
+    "kart": "8",
+    "nome": "Gilberto",
+    "melhor_volta": "48.162"
+   },
+   {
+    "pos": "9",
+    "kart": "22",
+    "nome": "Caim",
+    "melhor_volta": "46.722"
+   },
+   {
+    "pos": "NC",
+    "kart": "25",
+    "nome": "Caporezo",
+    "melhor_volta": "49.057"
+   },
+   {
+    "pos": "NC",
+    "kart": "188",
+    "nome": "Torsian",
+    "melhor_volta": "46.785"
+   }
+  ]
  }
 ]
