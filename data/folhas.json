@@ -1540,5 +1540,122 @@
         "melhor_volta": "50.284"
       }
     ]
+  },
+  {
+    "tracado": "Traçado 6 — Anti-Horário (835m)",
+    "evento": "Indoor Sem O Bronze",
+    "bateria": "Bateria 04",
+    "tipo": "Corrida",
+    "data": "06/08/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "15",
+        "nome": "Pietro",
+        "melhor_volta": "47.342"
+      },
+      {
+        "pos": "2",
+        "kart": "18",
+        "nome": "Candelore",
+        "melhor_volta": "47.741"
+      },
+      {
+        "pos": "3",
+        "kart": "11",
+        "nome": "Rafael Lira",
+        "melhor_volta": "47.676"
+      },
+      {
+        "pos": "4",
+        "kart": "28",
+        "nome": "Paulo Braga",
+        "melhor_volta": "48.558"
+      },
+      {
+        "pos": "5",
+        "kart": "20",
+        "nome": "Douglas",
+        "melhor_volta": "48.233"
+      },
+      {
+        "pos": "6",
+        "kart": "16",
+        "nome": "Geraldo",
+        "melhor_volta": "47.322"
+      },
+      {
+        "pos": "7",
+        "kart": "25",
+        "nome": "Agostinho",
+        "melhor_volta": "50.045"
+      },
+      {
+        "pos": "8",
+        "kart": "27",
+        "nome": "Pedro S.",
+        "melhor_volta": "50.053"
+      },
+      {
+        "pos": "9",
+        "kart": "23",
+        "nome": "Fernando",
+        "melhor_volta": "48.236"
+      },
+      {
+        "pos": "10",
+        "kart": "22",
+        "nome": "Big Foot",
+        "melhor_volta": "48.222"
+      },
+      {
+        "pos": "11",
+        "kart": "26",
+        "nome": "Competidor 26",
+        "melhor_volta": "46.723"
+      },
+      {
+        "pos": "12",
+        "kart": "13",
+        "nome": "E. Paiva",
+        "melhor_volta": "48.329"
+      },
+      {
+        "pos": "13",
+        "kart": "6",
+        "nome": "Luiz Lira",
+        "melhor_volta": "47.612"
+      },
+      {
+        "pos": "NC",
+        "kart": "14",
+        "nome": "Rogerio B.",
+        "melhor_volta": "47.916"
+      },
+      {
+        "pos": "NC",
+        "kart": "4",
+        "nome": "Cadu",
+        "melhor_volta": "48.481"
+      },
+      {
+        "pos": "NC",
+        "kart": "21",
+        "nome": "Candelore",
+        "melhor_volta": "49.473"
+      },
+      {
+        "pos": "NC",
+        "kart": "29",
+        "nome": "Caio",
+        "melhor_volta": "48.522"
+      },
+      {
+        "pos": "NC",
+        "kart": "19",
+        "nome": "Competidor 19",
+        "melhor_volta": "2:21.498"
+      }
+    ]
   }
 ]
