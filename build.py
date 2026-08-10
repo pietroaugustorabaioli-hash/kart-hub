@@ -82,6 +82,13 @@ ALIASES = {
     "Carlos Alexsander": "Carlos Alexandre",  # idem — "Alexandre" ja era o piloto existente
     "Fernando Villefort": "Fernando Vilefort",  # 1 folha grafa com "ll", as outras 2 com "l" (+ historico)
     "Roniel": "Roniel Moreira",         # unico Roniel* — nome completo veio na folha de 08/08
+    # Pietro confirmou por voz em 10/08/2026, perguntado nome a nome:
+    # "esse Nicholas ai e o mesmo Nicholas, todos sao o mesmo. E o Joao, sim, pode contar
+    #  tambem como um piloto so."
+    # O teste de co-ocorrencia nao resolvia (nenhum dos pares dividiu bateria alguma vez),
+    # entao a fusao veio DELE, nao de inferencia minha.
+    "Nikolas": "Nickholas R.",          # 08/08 grafa "Nikolas"; ja havia Nickholas -> Nickholas R.
+    "Joao Carvalho": "Joao Carlos Carvalho",  # 08/08 grafa curto; ja havia Joao Carlos -> Joao Carlos Carvalho
 }
 
 # AMBIGUOS — NAO juntar sem o Pietro dizer. Dois candidatos completos cada:
