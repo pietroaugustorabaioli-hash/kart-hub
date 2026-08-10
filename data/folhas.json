@@ -1609,12 +1609,6 @@
         "melhor_volta": "48.222"
       },
       {
-        "pos": "11",
-        "kart": "26",
-        "nome": "Competidor 26",
-        "melhor_volta": "46.723"
-      },
-      {
         "pos": "12",
         "kart": "13",
         "nome": "E. Paiva",
@@ -1649,13 +1643,433 @@
         "kart": "29",
         "nome": "Caio",
         "melhor_volta": "48.522"
+      }
+    ],
+    "_nota": "'Competidor 26' (kart 26, pos 11, 46.723 -- estava batendo o recorde geral do Tracado 6 por engano) e 'Competidor 19' (kart 19, NC, 2:21.498) EXCLUIDOS: mesmo padrao ja tratado na folha de 25/06 -- placeholder de competidor nao identificado no sistema LapTime, nao um piloto real. Incluir criaria piloto fantasma / recorde falso."
+  },
+  {
+    "tracado": "Traçado 6 — Anti-Horário (835m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 1 - Tomada de Tempo",
+    "tipo": "Tomada de tempo",
+    "data": "08/08/2026",
+    "etapa": "1a Etapa (2o semestre)",
+    "resultados": [
+      {
+        "pos": "2",
+        "kart": "26",
+        "nome": "Paulo Braga",
+        "melhor_volta": "48.014"
+      },
+      {
+        "pos": "3",
+        "kart": "6",
+        "nome": "Rafael Lira",
+        "melhor_volta": "48.788"
+      },
+      {
+        "pos": "4",
+        "kart": "14",
+        "nome": "Luciano Garcia",
+        "melhor_volta": "48.975"
+      },
+      {
+        "pos": "5",
+        "kart": "23",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "49.157"
+      },
+      {
+        "pos": "6",
+        "kart": "25",
+        "nome": "Gabriel Candelore",
+        "melhor_volta": "49.394"
+      },
+      {
+        "pos": "7",
+        "kart": "8",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "49.395"
+      },
+      {
+        "pos": "8",
+        "kart": "15",
+        "nome": "Magrao",
+        "melhor_volta": "49.434"
+      },
+      {
+        "pos": "9",
+        "kart": "13",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "49.656"
+      },
+      {
+        "pos": "10",
+        "kart": "18",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "49.746"
+      },
+      {
+        "pos": "11",
+        "kart": "22",
+        "nome": "Rogerio B.",
+        "melhor_volta": "50.129"
+      },
+      {
+        "pos": "12",
+        "kart": "27",
+        "nome": "Geraldo Ferreria",
+        "melhor_volta": "52.022"
+      }
+    ],
+    "_melhor_volta_impressa": "Caio Alexsander 00:05.646 (ANOMALO, ver _nota)",
+    "_nota": "Caio Alexsander (kart 20, POS 1 impresso) EXCLUIDO desta Tomada de Tempo: a folha registra TMV 00:05.646 (volta 3 de 5) e TMV2 00:07.543 (volta 4) -- fisicamente impossivel num tracado de 835m (resto da folha fica 48-52s, e as baterias do mesmo Grupo 1 confirmam ele na faixa normal). Erro de sensor/transponder na tomada de tempo. Ele aparece normal nas baterias 1 e 2 (kart 20 e 14). POS impressos 2-12 mantidos como na folha (sem renumerar) para nao adulterar o documento oficial."
+  },
+  {
+    "tracado": "Traçado 6 — Anti-Horário (835m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 1 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "08/08/2026",
+    "etapa": "1a Etapa (2o semestre)",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "26",
+        "nome": "Paulo Braga",
+        "melhor_volta": "47.469"
+      },
+      {
+        "pos": "2",
+        "kart": "20",
+        "nome": "Caio Alexander",
+        "melhor_volta": "47.986"
+      },
+      {
+        "pos": "3",
+        "kart": "6",
+        "nome": "Rafael Lira",
+        "melhor_volta": "48.024"
+      },
+      {
+        "pos": "4",
+        "kart": "25",
+        "nome": "Gabriel Candelore",
+        "melhor_volta": "47.959"
+      },
+      {
+        "pos": "5",
+        "kart": "13",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "48.028"
+      },
+      {
+        "pos": "6",
+        "kart": "23",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "48.595"
+      },
+      {
+        "pos": "7",
+        "kart": "27",
+        "nome": "Geraldo Ferreria",
+        "melhor_volta": "48.367"
+      },
+      {
+        "pos": "8",
+        "kart": "18",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "48.421"
+      },
+      {
+        "pos": "9",
+        "kart": "8",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "48.543"
+      },
+      {
+        "pos": "10",
+        "kart": "15",
+        "nome": "Magrao",
+        "melhor_volta": "48.136"
+      },
+      {
+        "pos": "11",
+        "kart": "14",
+        "nome": "Luciano Garcia",
+        "melhor_volta": "48.476"
+      },
+      {
+        "pos": "12",
+        "kart": "22",
+        "nome": "Rogerio B.",
+        "melhor_volta": "50.578"
+      }
+    ],
+    "_melhor_volta_impressa": "Paulo Braga 00:47.469"
+  },
+  {
+    "tracado": "Traçado 6 — Anti-Horário (835m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 1 - 2a Bateria",
+    "tipo": "Corrida",
+    "data": "08/08/2026",
+    "etapa": "1a Etapa (2o semestre)",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "25",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "47.752"
+      },
+      {
+        "pos": "2",
+        "kart": "23",
+        "nome": "Geraldo Ferreria",
+        "melhor_volta": "47.707"
+      },
+      {
+        "pos": "3",
+        "kart": "26",
+        "nome": "Rogerio B.",
+        "melhor_volta": "47.692"
+      },
+      {
+        "pos": "4",
+        "kart": "14",
+        "nome": "Caio Alexander",
+        "melhor_volta": "48.065"
+      },
+      {
+        "pos": "5",
+        "kart": "18",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "48.343"
+      },
+      {
+        "pos": "6",
+        "kart": "13",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "48.238"
+      },
+      {
+        "pos": "7",
+        "kart": "8",
+        "nome": "Gabriel Candelore",
+        "melhor_volta": "48.527"
+      },
+      {
+        "pos": "8",
+        "kart": "6",
+        "nome": "Magrao",
+        "melhor_volta": "47.915"
+      },
+      {
+        "pos": "9",
+        "kart": "27",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "49.600"
+      },
+      {
+        "pos": "10",
+        "kart": "22",
+        "nome": "Paulo Braga",
+        "melhor_volta": "51.150"
       },
       {
         "pos": "NC",
-        "kart": "19",
-        "nome": "Competidor 19",
-        "melhor_volta": "2:21.498"
+        "kart": "15",
+        "nome": "Rafael Lira",
+        "melhor_volta": "48.531"
+      },
+      {
+        "pos": "NC",
+        "kart": "20",
+        "nome": "Luciano Garcia",
+        "melhor_volta": "52.108"
       }
-    ]
+    ],
+    "_melhor_volta_impressa": "Rogerio B. 00:47.692",
+    "_nota": "Observacao da prova (impressa): 'COMPETIDOR NUMERAL 15 FOI DESCLASSIFICADO POR MOTIVO DE TOQUE NOS KARTS ADVERSARIOS E OBTEVE VANTAGEM' -- Rafael Lira (kart 15), NC oficial na folha. Tempo mantido no banco (e o melhor-volta dele, so a classificacao da corrida que foi anulada)."
+  },
+  {
+    "tracado": "Traçado 6 — Anti-Horário (835m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "08/08/2026",
+    "etapa": "1a Etapa (2o semestre)",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "26",
+        "nome": "Pietro A.",
+        "melhor_volta": "47.391"
+      },
+      {
+        "pos": "2",
+        "kart": "21",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "47.897"
+      },
+      {
+        "pos": "3",
+        "kart": "25",
+        "nome": "Nikolas",
+        "melhor_volta": "48.120"
+      },
+      {
+        "pos": "4",
+        "kart": "13",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "48.145"
+      },
+      {
+        "pos": "5",
+        "kart": "15",
+        "nome": "Roniel",
+        "melhor_volta": "48.492"
+      },
+      {
+        "pos": "6",
+        "kart": "18",
+        "nome": "Antonio Neto",
+        "melhor_volta": "48.222"
+      },
+      {
+        "pos": "7",
+        "kart": "24",
+        "nome": "Cadu",
+        "melhor_volta": "48.716"
+      },
+      {
+        "pos": "8",
+        "kart": "27",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "48.150"
+      },
+      {
+        "pos": "9",
+        "kart": "20",
+        "nome": "G. Filho",
+        "melhor_volta": "49.151"
+      },
+      {
+        "pos": "10",
+        "kart": "8",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "49.272"
+      },
+      {
+        "pos": "11",
+        "kart": "11",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "49.272"
+      },
+      {
+        "pos": "12",
+        "kart": "6",
+        "nome": "Joao Carvalho",
+        "melhor_volta": "48.921"
+      },
+      {
+        "pos": "13",
+        "kart": "14",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "49.197"
+      }
+    ],
+    "_melhor_volta_impressa": "Pietro A. 00:47.391",
+    "_nota": "Pietro A. = Pietro (alias). P1 na bateria, melhor volta absoluta das 4 folhas limpas do dia. 'Joao Carvalho' (kart 6/21) NAO foi juntado com 'Joao Carlos Carvalho' existente no banco -- nomes parecidos mas incompletos, ambiguo, perguntar ao Pietro. 'Nikolas' tambem NAO foi juntado com 'Nickholas'/'Nickholas R.' existentes -- grafia bem diferente, sem evidencia de ser a mesma pessoa."
+  },
+  {
+    "tracado": "Traçado 6 — Anti-Horário (835m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - 2a Bateria",
+    "tipo": "Corrida",
+    "data": "08/08/2026",
+    "etapa": "1a Etapa (2o semestre)",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "21",
+        "nome": "Joao Carvalho",
+        "melhor_volta": "48.053"
+      },
+      {
+        "pos": "2",
+        "kart": "24",
+        "nome": "Cadu",
+        "melhor_volta": "48.367"
+      },
+      {
+        "pos": "3",
+        "kart": "25",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "48.557"
+      },
+      {
+        "pos": "4",
+        "kart": "15",
+        "nome": "G. Filho",
+        "melhor_volta": "48.494"
+      },
+      {
+        "pos": "5",
+        "kart": "13",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "48.815"
+      },
+      {
+        "pos": "6",
+        "kart": "18",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "48.497"
+      },
+      {
+        "pos": "7",
+        "kart": "14",
+        "nome": "Pietro A.",
+        "melhor_volta": "48.195"
+      },
+      {
+        "pos": "8",
+        "kart": "20",
+        "nome": "Roniel",
+        "melhor_volta": "48.227"
+      },
+      {
+        "pos": "9",
+        "kart": "11",
+        "nome": "Nikolas",
+        "melhor_volta": "48.772"
+      },
+      {
+        "pos": "10",
+        "kart": "6",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "48.866"
+      },
+      {
+        "pos": "11",
+        "kart": "8",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "48.935"
+      },
+      {
+        "pos": "12",
+        "kart": "26",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "47.959"
+      },
+      {
+        "pos": "13",
+        "kart": "27",
+        "nome": "Antonio Neto",
+        "melhor_volta": "48.867"
+      }
+    ],
+    "_melhor_volta_impressa": "Pedro Silveira 00:47.959",
+    "_nota": "Observacao da prova (impressa): 'COMPETIDOR NUMERAL 24 PENALIZADO COM -2 PONTOS, MOTIVO: TOQUE EM KART ADVERSARIO' -- Cadu (kart 24), penalidade de pontos na classificacao da prova, NAO desclassificacao; tempo e POS mantidos como impressos."
   }
 ]

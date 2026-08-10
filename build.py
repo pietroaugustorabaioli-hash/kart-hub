@@ -27,6 +27,26 @@ import re
 from datetime import date
 from pathlib import Path
 
+# SESSAO OFICIAL vs TREINO (Pietro, 09-10/08) — regra estrutural, nao lista manual:
+#   "quando tem tipo tres grupos no mesmo dia — grupo 1, grupo 2 [...] sessoes oficiais
+#   mesmo, porque dai os tempos sao mais certos" (peso padronizado a 90kg no campeonato,
+#   todo mundo igual; treino livre tem gente com/sem peso misturada).
+# Validado contra os dados em 10/08: CV (desvio padrao / media) do melhor_volta por
+# folha e ~1.8% nas folhas Oficiais contra ~9.9% nas Treino (a diferenca vem sobretudo
+# de voltas soltas/incidentes que aparecem MUITO mais em treino livre que em prova
+# arbitrada com DQ/penalidade). O criterio do Pietro se sustentou — nao foi forcado.
+# Sinal estrutural (nao precisa listar folha por folha, se aplica sozinho a folha nova):
+#   (a) bateria em formato "Grupo N - ..." (mesmo dia, varios grupos = campeonato); ou
+#   (b) evento nomeado como etapa/desafio formal ("... (Etapa N)").
+_RE_GRUPO = re.compile(r"Grupo\s*\d")
+_RE_ETAPA_EVENTO = re.compile(r"Etapa\s*\d")
+
+
+def categoria(f: dict) -> str:
+    if _RE_GRUPO.search(f.get("bateria", "")) or _RE_ETAPA_EVENTO.search(f.get("evento", "")):
+        return "Oficial"
+    return "Treino"
+
 ROOT = Path(__file__).parent
 FONTE = ROOT / "data" / "folhas.json"
 SAIDA = ROOT / "data.json"
@@ -56,6 +76,12 @@ ALIASES = {
     "Geraldo": "Geraldo Neto",          # unico Geraldo*
     "Jonathan": "Jonathan Ribeiro",     # unico Jonathan*
     "Antonio L.": "Antonio Lazaro",     # o "L." desambigua contra Antonio Carvalho
+    # das folhas de 08/08 (Campeonato Competikar Rental Kart, 1a Etapa 2o semestre):
+    "Pietro A.": "Pietro",              # folha oficial usa nome+inicial do sobrenome
+    "Caio Alexsander": "Caio Alexander",   # grafia varia entre as 3 folhas do dia; "Alexander" ja era o piloto existente
+    "Carlos Alexsander": "Carlos Alexandre",  # idem — "Alexandre" ja era o piloto existente
+    "Fernando Villefort": "Fernando Vilefort",  # 1 folha grafa com "ll", as outras 2 com "l" (+ historico)
+    "Roniel": "Roniel Moreira",         # unico Roniel* — nome completo veio na folha de 08/08
 }
 
 # AMBIGUOS — NAO juntar sem o Pietro dizer. Dois candidatos completos cada:
@@ -84,10 +110,10 @@ def fmt(seg: float) -> str:
     return f"{seg:.3f}" if seg < 60 else f"{int(seg // 60)}:{seg % 60:06.3f}"
 
 
-def main() -> int:
-    folhas = json.loads(FONTE.read_text(encoding="utf-8"))
-
-    # melhor volta por (piloto, tracado) — dedup por nome, kart do melhor tempo
+def agregar(folhas: list) -> dict:
+    """Roda a agregacao (melhor volta por piloto/tracado -> leaderboard/recordes/pilotos)
+    sobre um subconjunto de folhas. Usado duas vezes em main(): uma com TODAS as folhas
+    (geral) e outra so com as Oficiais — mesma logica, escopo diferente."""
     melhor: dict = {}
     total_resultados = 0
     for f in folhas:
@@ -98,7 +124,8 @@ def main() -> int:
             k = (nome, tracado)
             if k not in melhor or seg < melhor[k]["seg"]:
                 melhor[k] = {"piloto": nome, "tracado": tracado, "tempo": fmt(seg), "seg": seg,
-                             "kart": r["kart"], "data": f["data"], "evento": f["evento"]}
+                             "kart": r["kart"], "data": f["data"], "evento": f["evento"],
+                             "categoria": f["categoria"]}
 
     tracados = sorted({f["tracado"] for f in folhas})
 
@@ -111,14 +138,15 @@ def main() -> int:
 
     recordes = [dict(tracado=t, tempo=leaderboard[t][0]["tempo"], seg=leaderboard[t][0]["seg"],
                      piloto=leaderboard[t][0]["piloto"], kart=leaderboard[t][0]["kart"],
-                     data=leaderboard[t][0]["data"], evento=leaderboard[t][0]["evento"])
+                     data=leaderboard[t][0]["data"], evento=leaderboard[t][0]["evento"],
+                     categoria=leaderboard[t][0]["categoria"])
                 for t in tracados if leaderboard[t]]
 
     pilotos = {}
     for v in melhor.values():
         p = pilotos.setdefault(v["piloto"], {"nome": v["piloto"], "kart": v["kart"], "por_tracado": {}, "aparicoes": 0})
         p["por_tracado"][v["tracado"]] = {"tempo": v["tempo"], "seg": v["seg"], "data": v["data"],
-                                          "kart": v["kart"], "evento": v["evento"]}
+                                          "kart": v["kart"], "evento": v["evento"], "categoria": v["categoria"]}
     for p in pilotos.values():
         p["aparicoes"] = sum(1 for f in folhas for r in f["resultados"] if canon(r["nome"]) == p["nome"])
         bt = min(p["por_tracado"].items(), key=lambda kv: kv[1]["seg"])
@@ -128,20 +156,46 @@ def main() -> int:
     for i, p in enumerate(lst, 1):
         p["rank_geral"] = i
 
+    return {"tracados": tracados, "leaderboard": leaderboard, "recordes": recordes,
+            "pilotos": lst, "total_resultados": total_resultados}
+
+
+def main() -> int:
+    folhas = json.loads(FONTE.read_text(encoding="utf-8"))
+    for f in folhas:
+        f["categoria"] = categoria(f)
+
+    folhas_oficiais = [f for f in folhas if f["categoria"] == "Oficial"]
+
+    geral = agregar(folhas)
+    oficial = agregar(folhas_oficiais)
+
     out = {
         "gerado_em": date.today().isoformat(),
         "fonte": "Folhas oficiais Competikar/LapTime confirmadas pelo Pietro",
-        "meta": {"total_sessoes": len(folhas), "total_pilotos": len(lst),
-                 "total_resultados": total_resultados, "tracados": tracados},
-        "recordes_por_tracado": recordes,
-        "leaderboard_por_tracado": leaderboard,
-        "pilotos": lst,
+        "meta": {"total_sessoes": len(folhas), "total_sessoes_oficiais": len(folhas_oficiais),
+                 "total_sessoes_treino": len(folhas) - len(folhas_oficiais),
+                 "total_pilotos": len(geral["pilotos"]), "total_pilotos_oficial": len(oficial["pilotos"]),
+                 "total_resultados": geral["total_resultados"], "tracados": geral["tracados"],
+                 "tracados_oficiais": oficial["tracados"]},
+        "recordes_por_tracado": geral["recordes"],
+        "leaderboard_por_tracado": geral["leaderboard"],
+        "pilotos": geral["pilotos"],
+        "oficial": {
+            "recordes_por_tracado": oficial["recordes"],
+            "leaderboard_por_tracado": oficial["leaderboard"],
+            "pilotos": oficial["pilotos"],
+        },
         "sessoes": folhas,
     }
     SAIDA.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"OK: {len(folhas)} folhas | {len(lst)} pilotos | {total_resultados} resultados")
-    for r in recordes:
+    print(f"OK: {len(folhas)} folhas ({len(folhas_oficiais)} oficiais / {len(folhas)-len(folhas_oficiais)} treino) "
+          f"| {len(geral['pilotos'])} pilotos | {geral['total_resultados']} resultados")
+    for r in geral["recordes"]:
         print(f"  RECORDE {r['tracado']}: {r['piloto']} {r['tempo']} (kart {r['kart']}, {r['data']})")
+    print("  -- recordes OFICIAIS --")
+    for r in oficial["recordes"]:
+        print(f"  RECORDE OFICIAL {r['tracado']}: {r['piloto']} {r['tempo']} (kart {r['kart']}, {r['data']})")
     return 0
 
 

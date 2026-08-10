@@ -142,7 +142,15 @@
   .rec .who b{font-weight:600}.rec .who span{color:var(--mut);font-size:12.5px;display:block}
   .rec .trophy{position:absolute;top:18px;right:20px;font-size:24px;filter:drop-shadow(0 4px 10px rgba(0,0,0,.5))}
 
+  .badge{display:inline-flex;align-items:center;gap:4px;font-family:var(--fd);font-size:10.5px;font-weight:700;
+    padding:3px 9px;border-radius:20px;vertical-align:middle;letter-spacing:.02em}
+  .badge-oficial{background:rgba(0,230,118,.14);border:1px solid rgba(0,230,118,.4);color:var(--acc)}
+  .badge-treino{background:var(--panel3);border:1px solid var(--bd);color:var(--mut2)}
+  .rec .cat{margin-top:9px}
+
   .ctrls{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:18px}
+  .scopewrap{display:flex;align-items:center;gap:10px}
+  .scopewrap .divider{width:1px;height:22px;background:var(--bd)}
   .tabs{display:flex;gap:7px;flex-wrap:wrap}
   .tab{font-family:var(--fd);padding:10px 15px;border-radius:11px;border:1px solid var(--bd);background:var(--panel);color:var(--mut);
     font-weight:600;font-size:13.5px;cursor:pointer;transition:.16s}
@@ -294,8 +302,9 @@
 
   <section id="ranking"><div class="wrap">
     <div class="shead reveal"><div class="tag">⚡ Ranking</div><h2>Todos os pilotos, ordenados</h2>
-      <p>Melhor volta de cada piloto e a distância pro líder. Filtre por traçado, busque um nome, clique num piloto pra ver os tempos completos.</p></div>
+      <p>Melhor volta de cada piloto e a distância pro líder. <b style="color:var(--txt)">Oficial</b> = sessões de campeonato (vários grupos no mesmo dia, peso padronizado — os tempos que valem mais). Filtre por traçado, busque um nome, clique num piloto pra ver os tempos completos.</p></div>
     <div class="ctrls reveal">
+      <div class="scopewrap"><div class="tabs" id="scope"></div><div class="divider"></div></div>
       <div class="tabs" id="tabs"></div>
       <div class="search"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4-4"/></svg><input id="q" placeholder="Buscar piloto…" autocomplete="off"></div>
     </div>
@@ -307,7 +316,7 @@
 
   <section id="sessoes" style="background:linear-gradient(180deg,transparent,rgba(255,255,255,.015),transparent)"><div class="wrap">
     <div class="shead reveal"><div class="tag">📅 Histórico</div><h2>Sessão por sessão</h2>
-      <p>O resultado completo de cada bateria e tomada de tempo. Clique pra expandir.</p></div>
+      <p>O resultado completo de cada bateria e tomada de tempo. <span class="badge badge-oficial">🏆 Oficial</span> = campeonato (vários grupos no mesmo dia ou etapa nomeada). Clique pra expandir.</p></div>
     <div id="sess" class="reveal"></div>
   </div></section>
 </main>
@@ -323,7 +332,9 @@
 const av = n => (n||"?").trim().split(/\s+/).map(w=>w[0]).slice(0,2).join("").toUpperCase();
 const isMe = n => /^pietro/i.test((n||"").trim());
 const fmtGap = g => g<=0 ? "líder" : "+"+g.toFixed(3);
-let D=null, curTrack="__geral__", ranked=[];
+let D=null, curTrack="__geral__", curScope="geral", ranked=[];
+const scopeData = () => curScope==="oficial" ? D.oficial : D;
+const scopeTracks = () => curScope==="oficial" ? D.meta.tracados_oficiais : D.meta.tracados;
 
 fetch("data.json").then(r=>r.json()).then(d=>{D=d;render();}).catch(()=>{
   document.getElementById("rows").innerHTML='<tr><td colspan=5><div class=load>erro ao carregar dados</div></td></tr>';
@@ -370,19 +381,34 @@ function render(){
       <div class="time mono">${r.tempo}<s>s</s></div>
       <div class="who"><div class="av">${av(r.piloto)}</div>
         <div><b style="${isMe(r.piloto)?'color:var(--acc)':''}">${r.piloto}</b><span>kart #${r.kart} · ${r.data}</span></div></div>
+      <div class="cat">${r.categoria==="Oficial"?'<span class="badge badge-oficial">🏆 Oficial</span>':'<span class="badge badge-treino">Treino</span>'}</div>
     </div>`).join("");
 
-  const tabs=[["__geral__","Geral"],...m.tracados.map(t=>[t,t])];
-  document.getElementById("tabs").innerHTML=tabs.map(([v,l])=>`<button class="tab${v===curTrack?' on':''}" data-t="${v}">${l}</button>`).join("");
-  document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{curTrack=b.dataset.t;
-    document.querySelectorAll(".tab").forEach(x=>x.classList.toggle("on",x===b));renderRows();});
-
+  renderScope(); renderTabs();
   renderRows(); renderSessions(); observe();
 }
 
+function renderScope(){
+  const opts=[["geral",`Todos (${D.meta.total_sessoes})`],["oficial",`🏆 Oficial (${D.meta.total_sessoes_oficiais})`]];
+  document.getElementById("scope").innerHTML=opts.map(([v,l])=>`<button class="tab${v===curScope?' on':''}" data-s="${v}">${l}</button>`).join("");
+  document.querySelectorAll("#scope .tab").forEach(b=>b.onclick=()=>{
+    curScope=b.dataset.s;
+    if(curTrack!=="__geral__" && !scopeTracks().includes(curTrack)) curTrack="__geral__";
+    renderScope(); renderTabs(); renderRows();
+  });
+}
+
+function renderTabs(){
+  const tabs=[["__geral__","Geral"],...scopeTracks().map(t=>[t,t])];
+  document.getElementById("tabs").innerHTML=tabs.map(([v,l])=>`<button class="tab${v===curTrack?' on':''}" data-t="${v}">${l}</button>`).join("");
+  document.querySelectorAll("#tabs .tab").forEach(b=>b.onclick=()=>{curTrack=b.dataset.t;
+    document.querySelectorAll("#tabs .tab").forEach(x=>x.classList.toggle("on",x===b));renderRows();});
+}
+
 function ranking(){
-  if(curTrack==="__geral__") return D.pilotos.map(p=>({nome:p.nome,kart:p.kart,tracado:p.melhor_geral_tracado,tempo:p.melhor_geral,seg:p.melhor_geral_seg}));
-  return (D.leaderboard_por_tracado[curTrack]||[]).map(e=>({nome:e.piloto,kart:e.kart,tracado:e.tracado,tempo:e.tempo,seg:e.seg}));
+  const sd=scopeData();
+  if(curTrack==="__geral__") return sd.pilotos.map(p=>({nome:p.nome,kart:p.kart,tracado:p.melhor_geral_tracado,tempo:p.melhor_geral,seg:p.melhor_geral_seg}));
+  return (sd.leaderboard_por_tracado[curTrack]||[]).map(e=>({nome:e.piloto,kart:e.kart,tracado:e.tracado,tempo:e.tempo,seg:e.seg}));
 }
 function renderRows(){
   const q=(document.getElementById("q").value||"").toLowerCase().trim();
@@ -434,7 +460,7 @@ function renderSessions(){
       <td class="hidesm tsm">#${p.kart}</td><td class="tcol"><span class="t">${p.melhor_volta}</span></td></tr>`).join("");
     return `<details class="sess"${i===0?' open':''}><summary>
         <div class="sn">${String(D.sessoes.length-i).padStart(2,'0')}</div>
-        <div><div class="dt">${s.data} ${s.evento?`<span class="pill">${s.evento}</span>`:''} ${s.bateria?`<span class="pill">${s.bateria}</span>`:''} ${s.tipo?`<span class="pill">${s.tipo}</span>`:''}</div>
+        <div><div class="dt">${s.data} ${s.categoria==="Oficial"?'<span class="badge badge-oficial">🏆 Oficial</span>':'<span class="badge badge-treino">Treino</span>'} ${s.evento?`<span class="pill">${s.evento}</span>`:''} ${s.bateria?`<span class="pill">${s.bateria}</span>`:''} ${s.tipo?`<span class="pill">${s.tipo}</span>`:''}</div>
           <div class="meta">${s.tracado} — ${res.length} pilotos</div></div>
         <svg class="chev" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="m6 9 6 6 6-6"/></svg>
       </summary><div class="sbody"><div class="tablewrap"><table>
