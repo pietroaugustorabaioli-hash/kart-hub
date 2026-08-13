@@ -1,13 +1,13 @@
 {
- "gerado_em": "2026-08-10",
+ "gerado_em": "2026-08-13",
  "fonte": "Folhas oficiais Competikar/LapTime confirmadas pelo Pietro",
  "meta": {
-  "total_sessoes": 25,
+  "total_sessoes": 26,
   "total_sessoes_oficiais": 18,
-  "total_sessoes_treino": 7,
-  "total_pilotos": 70,
+  "total_sessoes_treino": 8,
+  "total_pilotos": 71,
   "total_pilotos_oficial": 55,
-  "total_resultados": 304,
+  "total_resultados": 317,
   "tracados": [
    "Traçado 10 — Anti-Horário (780m)",
    "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -65,13 +65,13 @@
   },
   {
    "tracado": "Traçado 9 — Anti-Horário (900m)",
-   "tempo": "53.533",
-   "seg": 53.533,
-   "piloto": "Paulo Braga",
-   "kart": "26",
-   "data": "18/07/2026",
-   "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
-   "categoria": "Oficial"
+   "tempo": "52.783",
+   "seg": 52.783,
+   "piloto": "Rafael Lira",
+   "kart": "21",
+   "data": "13/08/2026",
+   "evento": "Indoor Sem O Bronze",
+   "categoria": "Treino"
   }
  ],
  "leaderboard_por_tracado": {
@@ -1416,26 +1416,37 @@
   ],
   "Traçado 9 — Anti-Horário (900m)": [
    {
-    "piloto": "Paulo Braga",
+    "piloto": "Rafael Lira",
     "tracado": "Traçado 9 — Anti-Horário (900m)",
-    "tempo": "53.533",
-    "seg": 53.533,
-    "kart": "26",
-    "data": "18/07/2026",
-    "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
-    "categoria": "Oficial",
+    "tempo": "52.783",
+    "seg": 52.783,
+    "kart": "21",
+    "data": "13/08/2026",
+    "evento": "Indoor Sem O Bronze",
+    "categoria": "Treino",
     "rank": 1
    },
    {
     "piloto": "Gabriel Candelore",
     "tracado": "Traçado 9 — Anti-Horário (900m)",
-    "tempo": "53.598",
-    "seg": 53.598,
-    "kart": "11",
-    "data": "16/07/2026",
+    "tempo": "53.235",
+    "seg": 53.235,
+    "kart": "22",
+    "data": "13/08/2026",
     "evento": "Indoor Sem O Bronze",
     "categoria": "Treino",
     "rank": 2
+   },
+   {
+    "piloto": "Paulo Braga",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "53.492",
+    "seg": 53.492,
+    "kart": "25",
+    "data": "13/08/2026",
+    "evento": "Indoor Sem O Bronze",
+    "categoria": "Treino",
+    "rank": 3
    },
    {
     "piloto": "Magrao",
@@ -1446,7 +1457,18 @@
     "data": "18/07/2026",
     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
     "categoria": "Oficial",
-    "rank": 3
+    "rank": 4
+   },
+   {
+    "piloto": "Thiago Araujo",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "53.890",
+    "seg": 53.89,
+    "kart": "18",
+    "data": "13/08/2026",
+    "evento": "Indoor Sem O Bronze",
+    "categoria": "Treino",
+    "rank": 5
    },
    {
     "piloto": "Rogerio T.",
@@ -1457,7 +1479,7 @@
     "data": "18/07/2026",
     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
     "categoria": "Oficial",
-    "rank": 4
+    "rank": 6
    },
    {
     "piloto": "Pietro",
@@ -1468,18 +1490,18 @@
     "data": "08/07/2026",
     "evento": "Indoor Sem O Bronze",
     "categoria": "Treino",
-    "rank": 5
+    "rank": 7
    },
    {
-    "piloto": "Rafael Lira",
+    "piloto": "Rogerio Belivacqua",
     "tracado": "Traçado 9 — Anti-Horário (900m)",
-    "tempo": "54.310",
-    "seg": 54.31,
-    "kart": "28",
-    "data": "08/07/2026",
+    "tempo": "54.158",
+    "seg": 54.158,
+    "kart": "20",
+    "data": "13/08/2026",
     "evento": "Indoor Sem O Bronze",
     "categoria": "Treino",
-    "rank": 6
+    "rank": 8
    },
    {
     "piloto": "Torsian",
@@ -1490,18 +1512,7 @@
     "data": "18/07/2026",
     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
     "categoria": "Oficial",
-    "rank": 7
-   },
-   {
-    "piloto": "Rogerio Belivacqua",
-    "tracado": "Traçado 9 — Anti-Horário (900m)",
-    "tempo": "54.343",
-    "seg": 54.343,
-    "kart": "13",
-    "data": "08/07/2026",
-    "evento": "Indoor Sem O Bronze",
-    "categoria": "Treino",
-    "rank": 8
+    "rank": 9
    },
    {
     "piloto": "Narigas",
@@ -1512,7 +1523,18 @@
     "data": "18/07/2026",
     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
     "categoria": "Oficial",
-    "rank": 9
+    "rank": 10
+   },
+   {
+    "piloto": "Luciano Gil",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "54.507",
+    "seg": 54.507,
+    "kart": "28",
+    "data": "13/08/2026",
+    "evento": "Indoor Sem O Bronze",
+    "categoria": "Treino",
+    "rank": 11
    },
    {
     "piloto": "Luiz Felipe",
@@ -1523,7 +1545,7 @@
     "data": "16/07/2026",
     "evento": "Indoor Sem O Bronze",
     "categoria": "Treino",
-    "rank": 10
+    "rank": 12
    },
    {
     "piloto": "Dede",
@@ -1534,7 +1556,18 @@
     "data": "18/07/2026",
     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
     "categoria": "Oficial",
-    "rank": 11
+    "rank": 13
+   },
+   {
+    "piloto": "Douglas",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "54.566",
+    "seg": 54.566,
+    "kart": "24",
+    "data": "13/08/2026",
+    "evento": "Indoor Sem O Bronze",
+    "categoria": "Treino",
+    "rank": 14
    },
    {
     "piloto": "Alisson Noronha",
@@ -1545,7 +1578,7 @@
     "data": "18/07/2026",
     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
     "categoria": "Oficial",
-    "rank": 12
+    "rank": 15
    },
    {
     "piloto": "Luciano Ltm",
@@ -1556,7 +1589,7 @@
     "data": "16/07/2026",
     "evento": "Indoor Sem O Bronze",
     "categoria": "Treino",
-    "rank": 13
+    "rank": 16
    },
    {
     "piloto": "Marcelo Goes",
@@ -1567,7 +1600,7 @@
     "data": "18/07/2026",
     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
     "categoria": "Oficial",
-    "rank": 14
+    "rank": 17
    },
    {
     "piloto": "Carlos Magno",
@@ -1578,7 +1611,7 @@
     "data": "18/07/2026",
     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
     "categoria": "Oficial",
-    "rank": 15
+    "rank": 18
    },
    {
     "piloto": "Eduardo Melo",
@@ -1589,18 +1622,7 @@
     "data": "18/07/2026",
     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
     "categoria": "Oficial",
-    "rank": 16
-   },
-   {
-    "piloto": "Luciano Gil",
-    "tracado": "Traçado 9 — Anti-Horário (900m)",
-    "tempo": "54.995",
-    "seg": 54.995,
-    "kart": "29",
-    "data": "18/07/2026",
-    "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
-    "categoria": "Oficial",
-    "rank": 17
+    "rank": 19
    },
    {
     "piloto": "Agostinho Tozzo",
@@ -1611,7 +1633,7 @@
     "data": "18/07/2026",
     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
     "categoria": "Oficial",
-    "rank": 18
+    "rank": 20
    },
    {
     "piloto": "Caim",
@@ -1622,7 +1644,7 @@
     "data": "18/07/2026",
     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
     "categoria": "Oficial",
-    "rank": 19
+    "rank": 21
    },
    {
     "piloto": "Enezio",
@@ -1633,7 +1655,18 @@
     "data": "18/07/2026",
     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
     "categoria": "Oficial",
-    "rank": 20
+    "rank": 22
+   },
+   {
+    "piloto": "Cadu",
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "tempo": "55.076",
+    "seg": 55.076,
+    "kart": "14",
+    "data": "13/08/2026",
+    "evento": "Indoor Sem O Bronze",
+    "categoria": "Treino",
+    "rank": 23
    },
    {
     "piloto": "Picachu",
@@ -1644,7 +1677,7 @@
     "data": "18/07/2026",
     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
     "categoria": "Oficial",
-    "rank": 21
+    "rank": 24
    },
    {
     "piloto": "Gustavo Gondim",
@@ -1655,7 +1688,7 @@
     "data": "08/07/2026",
     "evento": "Indoor Sem O Bronze",
     "categoria": "Treino",
-    "rank": 22
+    "rank": 25
    }
   ]
  },
@@ -1665,10 +1698,10 @@
    "kart": "22",
    "por_tracado": {
     "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "53.598",
-     "seg": 53.598,
-     "data": "16/07/2026",
-     "kart": "11",
+     "tempo": "53.235",
+     "seg": 53.235,
+     "data": "13/08/2026",
+     "kart": "22",
      "evento": "Indoor Sem O Bronze",
      "categoria": "Treino"
     },
@@ -1705,7 +1738,7 @@
      "categoria": "Treino"
     }
    },
-   "aparicoes": 13,
+   "aparicoes": 14,
    "melhor_geral": "35.086",
    "melhor_geral_seg": 35.086,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -1920,7 +1953,7 @@
      "categoria": "Treino"
     }
    },
-   "aparicoes": 12,
+   "aparicoes": 14,
    "melhor_geral": "35.420",
    "melhor_geral_seg": 35.42,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2039,10 +2072,10 @@
    "kart": "28",
    "por_tracado": {
     "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.343",
-     "seg": 54.343,
-     "data": "08/07/2026",
-     "kart": "13",
+     "tempo": "54.158",
+     "seg": 54.158,
+     "data": "13/08/2026",
+     "kart": "20",
      "evento": "Indoor Sem O Bronze",
      "categoria": "Treino"
     },
@@ -2079,7 +2112,7 @@
      "categoria": "Oficial"
     }
    },
-   "aparicoes": 14,
+   "aparicoes": 15,
    "melhor_geral": "35.489",
    "melhor_geral_seg": 35.489,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2117,12 +2150,12 @@
    "kart": "11",
    "por_tracado": {
     "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "53.533",
-     "seg": 53.533,
-     "data": "18/07/2026",
-     "kart": "26",
-     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
-     "categoria": "Oficial"
+     "tempo": "53.492",
+     "seg": 53.492,
+     "data": "13/08/2026",
+     "kart": "25",
+     "evento": "Indoor Sem O Bronze",
+     "categoria": "Treino"
     },
     "Traçado 13 — Curtinho Curva da Árvore (550m)": {
      "tempo": "35.517",
@@ -2157,7 +2190,7 @@
      "categoria": "Oficial"
     }
    },
-   "aparicoes": 13,
+   "aparicoes": 14,
    "melhor_geral": "35.517",
    "melhor_geral_seg": 35.517,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2168,10 +2201,10 @@
    "kart": "18",
    "por_tracado": {
     "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.310",
-     "seg": 54.31,
-     "data": "08/07/2026",
-     "kart": "28",
+     "tempo": "52.783",
+     "seg": 52.783,
+     "data": "13/08/2026",
+     "kart": "21",
      "evento": "Indoor Sem O Bronze",
      "categoria": "Treino"
     },
@@ -2208,7 +2241,7 @@
      "categoria": "Treino"
     }
    },
-   "aparicoes": 12,
+   "aparicoes": 13,
    "melhor_geral": "35.571",
    "melhor_geral_seg": 35.571,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2313,7 +2346,7 @@
      "categoria": "Oficial"
     }
    },
-   "aparicoes": 11,
+   "aparicoes": 12,
    "melhor_geral": "35.656",
    "melhor_geral_seg": 35.656,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2863,7 +2896,7 @@
      "categoria": "Treino"
     }
    },
-   "aparicoes": 8,
+   "aparicoes": 9,
    "melhor_geral": "46.722",
    "melhor_geral_seg": 46.722,
    "melhor_geral_tracado": "Traçado 10 — Anti-Horário (780m)",
@@ -2890,7 +2923,7 @@
      "categoria": "Treino"
     }
    },
-   "aparicoes": 6,
+   "aparicoes": 7,
    "melhor_geral": "46.785",
    "melhor_geral_seg": 46.785,
    "melhor_geral_tracado": "Traçado 10 — Anti-Horário (780m)",
@@ -2964,9 +2997,17 @@
      "kart": "14",
      "evento": "Indoor Sem O Bronze",
      "categoria": "Treino"
+    },
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "55.076",
+     "seg": 55.076,
+     "data": "13/08/2026",
+     "kart": "14",
+     "evento": "Indoor Sem O Bronze",
+     "categoria": "Treino"
     }
    },
-   "aparicoes": 4,
+   "aparicoes": 5,
    "melhor_geral": "47.957",
    "melhor_geral_seg": 47.957,
    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
@@ -3132,9 +3173,17 @@
      "kart": "20",
      "evento": "Indoor Sem O Bronze",
      "categoria": "Treino"
+    },
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.566",
+     "seg": 54.566,
+     "data": "13/08/2026",
+     "kart": "24",
+     "evento": "Indoor Sem O Bronze",
+     "categoria": "Treino"
     }
    },
-   "aparicoes": 1,
+   "aparicoes": 2,
    "melhor_geral": "48.233",
    "melhor_geral_seg": 48.233,
    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
@@ -3347,6 +3396,25 @@
    "rank_geral": 58
   },
   {
+   "nome": "Thiago Araujo",
+   "kart": "18",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "53.890",
+     "seg": 53.89,
+     "data": "13/08/2026",
+     "kart": "18",
+     "evento": "Indoor Sem O Bronze",
+     "categoria": "Treino"
+    }
+   },
+   "aparicoes": 1,
+   "melhor_geral": "53.890",
+   "melhor_geral_seg": 53.89,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 59
+  },
+  {
    "nome": "Rogerio T.",
    "kart": "20",
    "por_tracado": {
@@ -3363,7 +3431,7 @@
    "melhor_geral": "54.071",
    "melhor_geral_seg": 54.071,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 59
+   "rank_geral": 60
   },
   {
    "nome": "Antonio",
@@ -3382,7 +3450,7 @@
    "melhor_geral": "54.415",
    "melhor_geral_seg": 54.415,
    "melhor_geral_tracado": "Traçado 8 — Sentido Normal (890m)",
-   "rank_geral": 60
+   "rank_geral": 61
   },
   {
    "nome": "Narigas",
@@ -3401,7 +3469,26 @@
    "melhor_geral": "54.436",
    "melhor_geral_seg": 54.436,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 61
+   "rank_geral": 62
+  },
+  {
+   "nome": "Luciano Gil",
+   "kart": "28",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.507",
+     "seg": 54.507,
+     "data": "13/08/2026",
+     "kart": "28",
+     "evento": "Indoor Sem O Bronze",
+     "categoria": "Treino"
+    }
+   },
+   "aparicoes": 4,
+   "melhor_geral": "54.507",
+   "melhor_geral_seg": 54.507,
+   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
+   "rank_geral": 63
   },
   {
    "nome": "Dede",
@@ -3420,7 +3507,7 @@
    "melhor_geral": "54.555",
    "melhor_geral_seg": 54.555,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 62
+   "rank_geral": 64
   },
   {
    "nome": "Alisson Noronha",
@@ -3439,7 +3526,7 @@
    "melhor_geral": "54.648",
    "melhor_geral_seg": 54.648,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 63
+   "rank_geral": 65
   },
   {
    "nome": "Marcelo Goes",
@@ -3458,7 +3545,7 @@
    "melhor_geral": "54.803",
    "melhor_geral_seg": 54.803,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 64
+   "rank_geral": 66
   },
   {
    "nome": "Carlos Magno",
@@ -3477,7 +3564,7 @@
    "melhor_geral": "54.945",
    "melhor_geral_seg": 54.945,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 65
+   "rank_geral": 67
   },
   {
    "nome": "Eduardo Melo",
@@ -3496,26 +3583,7 @@
    "melhor_geral": "54.953",
    "melhor_geral_seg": 54.953,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 66
-  },
-  {
-   "nome": "Luciano Gil",
-   "kart": "29",
-   "por_tracado": {
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.995",
-     "seg": 54.995,
-     "data": "18/07/2026",
-     "kart": "29",
-     "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
-     "categoria": "Oficial"
-    }
-   },
-   "aparicoes": 3,
-   "melhor_geral": "54.995",
-   "melhor_geral_seg": 54.995,
-   "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 67
+   "rank_geral": 68
   },
   {
    "nome": "Picachu",
@@ -3534,7 +3602,7 @@
    "melhor_geral": "55.234",
    "melhor_geral_seg": 55.234,
    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-   "rank_geral": 68
+   "rank_geral": 69
   },
   {
    "nome": "Alcindo",
@@ -3553,7 +3621,7 @@
    "melhor_geral": "55.786",
    "melhor_geral_seg": 55.786,
    "melhor_geral_tracado": "Traçado 8 — Sentido Normal (890m)",
-   "rank_geral": 69
+   "rank_geral": 70
   },
   {
    "nome": "Gilberto M.",
@@ -3572,7 +3640,7 @@
    "melhor_geral": "58.437",
    "melhor_geral_seg": 58.437,
    "melhor_geral_tracado": "Traçado 8 — Sentido Normal (890m)",
-   "rank_geral": 70
+   "rank_geral": 71
   }
  ],
  "oficial": {
@@ -8424,6 +8492,95 @@
    "_melhor_volta_impressa": "Pedro Silveira 00:47.959",
    "_nota": "Observacao da prova (impressa): 'COMPETIDOR NUMERAL 24 PENALIZADO COM -2 PONTOS, MOTIVO: TOQUE EM KART ADVERSARIO' -- Cadu (kart 24), penalidade de pontos na classificacao da prova, NAO desclassificacao; tempo e POS mantidos como impressos.",
    "categoria": "Oficial"
+  },
+  {
+   "tracado": "Traçado 9 — Anti-Horário (900m)",
+   "evento": "Indoor Sem O Bronze",
+   "bateria": "Bateria 01",
+   "tipo": "Corrida",
+   "data": "13/08/2026",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "21",
+     "nome": "Rafael Lira",
+     "melhor_volta": "52.783"
+    },
+    {
+     "pos": "2",
+     "kart": "25",
+     "nome": "Paulo Braga",
+     "melhor_volta": "53.492"
+    },
+    {
+     "pos": "3",
+     "kart": "22",
+     "nome": "Candelore",
+     "melhor_volta": "53.235"
+    },
+    {
+     "pos": "4",
+     "kart": "18",
+     "nome": "Thiago Araujo",
+     "melhor_volta": "53.890"
+    },
+    {
+     "pos": "5",
+     "kart": "6",
+     "nome": "Magrao",
+     "melhor_volta": "53.972"
+    },
+    {
+     "pos": "6",
+     "kart": "20",
+     "nome": "Rogerio",
+     "melhor_volta": "54.158"
+    },
+    {
+     "pos": "7",
+     "kart": "28",
+     "nome": "Luciano Gil",
+     "melhor_volta": "54.507"
+    },
+    {
+     "pos": "8",
+     "kart": "24",
+     "nome": "Douglas",
+     "melhor_volta": "54.566"
+    },
+    {
+     "pos": "9",
+     "kart": "14",
+     "nome": "Cadu",
+     "melhor_volta": "55.076"
+    },
+    {
+     "pos": "10",
+     "kart": "13",
+     "nome": "Caim",
+     "melhor_volta": "56.022"
+    },
+    {
+     "pos": "11",
+     "kart": "11",
+     "nome": "Torsian",
+     "melhor_volta": "54.416"
+    },
+    {
+     "pos": "12",
+     "kart": "29",
+     "nome": "Luciano Ltm",
+     "melhor_volta": "54.888"
+    },
+    {
+     "pos": "NC",
+     "kart": "27",
+     "nome": "Luciano Ltm",
+     "melhor_volta": "56.420"
+    }
+   ],
+   "_melhor_volta_impressa": "Rafael Lira 00:52.783",
+   "categoria": "Treino"
   }
  ]
 }

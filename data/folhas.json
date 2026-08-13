@@ -2071,5 +2071,93 @@
     ],
     "_melhor_volta_impressa": "Pedro Silveira 00:47.959",
     "_nota": "Observacao da prova (impressa): 'COMPETIDOR NUMERAL 24 PENALIZADO COM -2 PONTOS, MOTIVO: TOQUE EM KART ADVERSARIO' -- Cadu (kart 24), penalidade de pontos na classificacao da prova, NAO desclassificacao; tempo e POS mantidos como impressos."
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Indoor Sem O Bronze",
+    "bateria": "Bateria 01",
+    "tipo": "Corrida",
+    "data": "13/08/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "21",
+        "nome": "Rafael Lira",
+        "melhor_volta": "52.783"
+      },
+      {
+        "pos": "2",
+        "kart": "25",
+        "nome": "Paulo Braga",
+        "melhor_volta": "53.492"
+      },
+      {
+        "pos": "3",
+        "kart": "22",
+        "nome": "Candelore",
+        "melhor_volta": "53.235"
+      },
+      {
+        "pos": "4",
+        "kart": "18",
+        "nome": "Thiago Araujo",
+        "melhor_volta": "53.890"
+      },
+      {
+        "pos": "5",
+        "kart": "6",
+        "nome": "Magrao",
+        "melhor_volta": "53.972"
+      },
+      {
+        "pos": "6",
+        "kart": "20",
+        "nome": "Rogerio",
+        "melhor_volta": "54.158"
+      },
+      {
+        "pos": "7",
+        "kart": "28",
+        "nome": "Luciano Gil",
+        "melhor_volta": "54.507"
+      },
+      {
+        "pos": "8",
+        "kart": "24",
+        "nome": "Douglas",
+        "melhor_volta": "54.566"
+      },
+      {
+        "pos": "9",
+        "kart": "14",
+        "nome": "Cadu",
+        "melhor_volta": "55.076"
+      },
+      {
+        "pos": "10",
+        "kart": "13",
+        "nome": "Caim",
+        "melhor_volta": "56.022"
+      },
+      {
+        "pos": "11",
+        "kart": "11",
+        "nome": "Torsian",
+        "melhor_volta": "54.416"
+      },
+      {
+        "pos": "12",
+        "kart": "29",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "54.888"
+      },
+      {
+        "pos": "NC",
+        "kart": "27",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "56.420"
+      }
+    ],
+    "_melhor_volta_impressa": "Rafael Lira 00:52.783"
   }
 ]
