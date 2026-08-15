@@ -2159,5 +2159,302 @@
       }
     ],
     "_melhor_volta_impressa": "Rafael Lira 00:52.783"
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Desafio Dinossauros Senior x Veteranos - Grupo 1",
+    "tipo": "Treino Oficial",
+    "data": "15/08/2026",
+    "bateria": "Tomada de Tempo",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "20",
+        "nome": "Paulo Braga",
+        "melhor_volta": "54.481"
+      },
+      {
+        "pos": "2",
+        "kart": "21",
+        "nome": "Antonio Costa",
+        "melhor_volta": "54.578"
+      },
+      {
+        "pos": "3",
+        "kart": "25",
+        "nome": "Daniel",
+        "melhor_volta": "54.638"
+      },
+      {
+        "pos": "4",
+        "kart": "16",
+        "nome": "Luciano Gil",
+        "melhor_volta": "54.699"
+      },
+      {
+        "pos": "5",
+        "kart": "24",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "54.987"
+      },
+      {
+        "pos": "6",
+        "kart": "15",
+        "nome": "Magrao",
+        "melhor_volta": "55.043"
+      },
+      {
+        "pos": "7",
+        "kart": "29",
+        "nome": "Carlos Senju",
+        "melhor_volta": "55.134"
+      },
+      {
+        "pos": "8",
+        "kart": "18",
+        "nome": "P.h.",
+        "melhor_volta": "55.341"
+      },
+      {
+        "pos": "9",
+        "kart": "14",
+        "nome": "Enezio",
+        "melhor_volta": "55.430"
+      },
+      {
+        "pos": "10",
+        "kart": "13",
+        "nome": "Torsian",
+        "melhor_volta": "55.441"
+      },
+      {
+        "pos": "11",
+        "kart": "11",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "55.486"
+      },
+      {
+        "pos": "12",
+        "kart": "6",
+        "nome": "Geraldo",
+        "melhor_volta": "55.731"
+      },
+      {
+        "pos": "13",
+        "kart": "4",
+        "nome": "Rogerio B.",
+        "melhor_volta": "55.795"
+      },
+      {
+        "pos": "14",
+        "kart": "22",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "55.810"
+      },
+      {
+        "pos": "15",
+        "kart": "26",
+        "nome": "Caim",
+        "melhor_volta": "56.014"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Desafio Dinossauros Senior x Veteranos - Grupo 1",
+    "tipo": "Treino Oficial",
+    "data": "15/08/2026",
+    "bateria": "1ª Bateria",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "21",
+        "nome": "Antonio Costa",
+        "melhor_volta": "53.521"
+      },
+      {
+        "pos": "2",
+        "kart": "25",
+        "nome": "Daniel",
+        "melhor_volta": "53.720"
+      },
+      {
+        "pos": "3",
+        "kart": "16",
+        "nome": "Luciano Gil",
+        "melhor_volta": "53.535"
+      },
+      {
+        "pos": "4",
+        "kart": "20",
+        "nome": "Paulo Braga",
+        "melhor_volta": "53.872"
+      },
+      {
+        "pos": "5",
+        "kart": "15",
+        "nome": "Magrao",
+        "melhor_volta": "53.855"
+      },
+      {
+        "pos": "6",
+        "kart": "18",
+        "nome": "P.h.",
+        "melhor_volta": "54.698"
+      },
+      {
+        "pos": "7",
+        "kart": "14",
+        "nome": "Enezio",
+        "melhor_volta": "54.872"
+      },
+      {
+        "pos": "8",
+        "kart": "26",
+        "nome": "Caim",
+        "melhor_volta": "53.894"
+      },
+      {
+        "pos": "9",
+        "kart": "13",
+        "nome": "Torsian",
+        "melhor_volta": "54.542"
+      },
+      {
+        "pos": "10",
+        "kart": "4",
+        "nome": "Rogerio B.",
+        "melhor_volta": "55.007"
+      },
+      {
+        "pos": "11",
+        "kart": "22",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "54.721"
+      },
+      {
+        "pos": "12",
+        "kart": "24",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "54.843"
+      },
+      {
+        "pos": "13",
+        "kart": "6",
+        "nome": "Geraldo",
+        "melhor_volta": "54.318"
+      },
+      {
+        "pos": "14",
+        "kart": "29",
+        "nome": "Carlos Senju",
+        "melhor_volta": "55.376"
+      },
+      {
+        "pos": "NC",
+        "kart": "11",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "55.741"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Desafio Dinossauros Senior x Veteranos - Grupo 1",
+    "tipo": "Treino Oficial",
+    "data": "15/08/2026",
+    "bateria": "2ª Bateria",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "16",
+        "nome": "Geraldo",
+        "melhor_volta": "53.638"
+      },
+      {
+        "pos": "2",
+        "kart": "22",
+        "nome": "Magrao",
+        "melhor_volta": "53.693"
+      },
+      {
+        "pos": "3",
+        "kart": "25",
+        "nome": "Carlos Senju",
+        "melhor_volta": "54.797"
+      },
+      {
+        "pos": "4",
+        "kart": "24",
+        "nome": "Paulo Braga",
+        "melhor_volta": "54.440"
+      },
+      {
+        "pos": "5",
+        "kart": "18",
+        "nome": "Rogerio B.",
+        "melhor_volta": "55.018"
+      },
+      {
+        "pos": "6",
+        "kart": "4",
+        "nome": "P.h.",
+        "melhor_volta": "54.594"
+      },
+      {
+        "pos": "7",
+        "kart": "21",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "54.302"
+      },
+      {
+        "pos": "8",
+        "kart": "29",
+        "nome": "Daniel",
+        "melhor_volta": "54.368"
+      },
+      {
+        "pos": "9",
+        "kart": "8",
+        "nome": "Antonio Costa",
+        "melhor_volta": "55.222"
+      },
+      {
+        "pos": "10",
+        "kart": "6",
+        "nome": "Luciano Gil",
+        "melhor_volta": "55.178"
+      },
+      {
+        "pos": "11",
+        "kart": "20",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "55.439"
+      },
+      {
+        "pos": "12",
+        "kart": "26",
+        "nome": "Caim",
+        "melhor_volta": "55.809"
+      },
+      {
+        "pos": "NC",
+        "kart": "14",
+        "nome": "Enezio",
+        "melhor_volta": "54.865"
+      },
+      {
+        "pos": "NC",
+        "kart": "1",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "56.132"
+      },
+      {
+        "pos": "NC",
+        "kart": "27",
+        "nome": "Torsian",
+        "melhor_volta": "55.984"
+      }
+    ]
   }
 ]
