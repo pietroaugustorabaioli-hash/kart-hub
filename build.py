@@ -89,6 +89,10 @@ ALIASES = {
     # entao a fusao veio DELE, nao de inferencia minha.
     "Nikolas": "Nickholas R.",          # 08/08 grafa "Nikolas"; ja havia Nickholas -> Nickholas R.
     "Joao Carvalho": "Joao Carlos Carvalho",  # 08/08 grafa curto; ja havia Joao Carlos -> Joao Carlos Carvalho
+    # das folhas de 12/09 (6a Etapa):
+    "Pedro Rabaioli": "Pietro",         # folha oficial imprime o nome de registro; e o Pietro
+    "Ph": "P.h.",                       # unico P.h.* — grafia sem pontos na folha de 12/09
+    "Kadu": "Cadu",                     # unico Cadu (08/08 kart 24); 12/09 grafa com K, mesmo som, mesmo grid Light
 }
 
 # AMBIGUOS — NAO juntar sem o Pietro dizer. Dois candidatos completos cada:

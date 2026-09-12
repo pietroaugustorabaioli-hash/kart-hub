@@ -2456,5 +2456,461 @@
         "melhor_volta": "55.984"
       }
     ]
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - Tomada de Tempo",
+    "tipo": "Tomada de tempo",
+    "data": "12/09/2026",
+    "etapa": "6a Etapa (2o semestre)",
+    "_melhor_volta_impressa": "Pedro Rabaioli 00:54.234",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "13",
+        "nome": "Pedro Rabaioli",
+        "melhor_volta": "54.234"
+      },
+      {
+        "pos": "2",
+        "kart": "27",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "55.003"
+      },
+      {
+        "pos": "3",
+        "kart": "21",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "55.056"
+      },
+      {
+        "pos": "4",
+        "kart": "15",
+        "nome": "Nickholas",
+        "melhor_volta": "55.323"
+      },
+      {
+        "pos": "5",
+        "kart": "16",
+        "nome": "Kadu",
+        "melhor_volta": "55.640"
+      },
+      {
+        "pos": "6",
+        "kart": "8",
+        "nome": "Joao Carlos",
+        "melhor_volta": "55.642"
+      },
+      {
+        "pos": "7",
+        "kart": "23",
+        "nome": "Antonio Neto",
+        "melhor_volta": "55.800"
+      },
+      {
+        "pos": "8",
+        "kart": "26",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "56.126"
+      },
+      {
+        "pos": "9",
+        "kart": "28",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "56.367"
+      },
+      {
+        "pos": "10",
+        "kart": "22",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "57.208"
+      },
+      {
+        "pos": "11",
+        "kart": "12",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "57.883"
+      },
+      {
+        "pos": "12",
+        "kart": "24",
+        "nome": "Gustavo Soma",
+        "melhor_volta": "58.171"
+      }
+    ],
+    "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias)."
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "12/09/2026",
+    "etapa": "6a Etapa (2o semestre)",
+    "_melhor_volta_impressa": "Pedro Rabaioli 00:53.606",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "13",
+        "nome": "Pedro Rabaioli",
+        "melhor_volta": "53.606"
+      },
+      {
+        "pos": "2",
+        "kart": "27",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "53.725"
+      },
+      {
+        "pos": "3",
+        "kart": "21",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "54.335"
+      },
+      {
+        "pos": "4",
+        "kart": "23",
+        "nome": "Antonio Neto",
+        "melhor_volta": "54.185"
+      },
+      {
+        "pos": "5",
+        "kart": "15",
+        "nome": "Nickholas",
+        "melhor_volta": "54.870"
+      },
+      {
+        "pos": "6",
+        "kart": "16",
+        "nome": "Kadu",
+        "melhor_volta": "54.629"
+      },
+      {
+        "pos": "7",
+        "kart": "22",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "54.868"
+      },
+      {
+        "pos": "8",
+        "kart": "28",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "55.186"
+      },
+      {
+        "pos": "9",
+        "kart": "26",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "54.460"
+      },
+      {
+        "pos": "10",
+        "kart": "12",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "55.212"
+      },
+      {
+        "pos": "11",
+        "kart": "24",
+        "nome": "Gustavo Soma",
+        "melhor_volta": "56.762"
+      },
+      {
+        "pos": "12",
+        "kart": "30",
+        "nome": "Joao Carlos",
+        "melhor_volta": "55.197"
+      },
+      {
+        "pos": "NC",
+        "kart": "29",
+        "nome": "G. Filho",
+        "melhor_volta": "65.290"
+      }
+    ],
+    "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias). Observacoes impressas: kart 22 (Fernando Adorno) penalizado por ultrapassar em bandeira amarela; kart 29 (G. Filho) DESCLASSIFICADO por entrar nos boxes na contramao — pos NC, tempo 65.290 mantido como impresso (2 voltas)."
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - 2a Bateria",
+    "tipo": "Corrida",
+    "data": "12/09/2026",
+    "etapa": "6a Etapa (2o semestre)",
+    "_melhor_volta_impressa": "Pedro Rabaioli 00:53.884",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "13",
+        "nome": "Joao Carlos",
+        "melhor_volta": "54.589"
+      },
+      {
+        "pos": "2",
+        "kart": "21",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "54.695"
+      },
+      {
+        "pos": "3",
+        "kart": "30",
+        "nome": "Pedro Rabaioli",
+        "melhor_volta": "53.884"
+      },
+      {
+        "pos": "4",
+        "kart": "26",
+        "nome": "Antonio Neto",
+        "melhor_volta": "54.343"
+      },
+      {
+        "pos": "5",
+        "kart": "16",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "54.603"
+      },
+      {
+        "pos": "6",
+        "kart": "29",
+        "nome": "G. Filho",
+        "melhor_volta": "54.166"
+      },
+      {
+        "pos": "7",
+        "kart": "22",
+        "nome": "Kadu",
+        "melhor_volta": "54.668"
+      },
+      {
+        "pos": "8",
+        "kart": "23",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "54.936"
+      },
+      {
+        "pos": "9",
+        "kart": "12",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "54.794"
+      },
+      {
+        "pos": "10",
+        "kart": "24",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "54.692"
+      },
+      {
+        "pos": "11",
+        "kart": "28",
+        "nome": "Nickholas",
+        "melhor_volta": "54.770"
+      },
+      {
+        "pos": "12",
+        "kart": "15",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "54.721"
+      },
+      {
+        "pos": "13",
+        "kart": "27",
+        "nome": "Gustavo Soma",
+        "melhor_volta": "55.295"
+      }
+    ],
+    "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias). Grid invertido. Pietro largou de tras, P3, melhor volta da prova."
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 1 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "12/09/2026",
+    "etapa": "6a Etapa (2o semestre)",
+    "_melhor_volta_impressa": "Gabriel Candelore 00:53.547",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "27",
+        "nome": "Gabriel Candelore",
+        "melhor_volta": "53.547"
+      },
+      {
+        "pos": "2",
+        "kart": "23",
+        "nome": "Caio Alexander",
+        "melhor_volta": "53.824"
+      },
+      {
+        "pos": "3",
+        "kart": "13",
+        "nome": "Paulo Braga",
+        "melhor_volta": "53.962"
+      },
+      {
+        "pos": "4",
+        "kart": "26",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "54.015"
+      },
+      {
+        "pos": "5",
+        "kart": "22",
+        "nome": "Magrao",
+        "melhor_volta": "53.922"
+      },
+      {
+        "pos": "6",
+        "kart": "11",
+        "nome": "Enezio",
+        "melhor_volta": "54.235"
+      },
+      {
+        "pos": "7",
+        "kart": "20",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "54.830"
+      },
+      {
+        "pos": "8",
+        "kart": "28",
+        "nome": "Rafael Lira",
+        "melhor_volta": "54.582"
+      },
+      {
+        "pos": "9",
+        "kart": "8",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "54.339"
+      },
+      {
+        "pos": "10",
+        "kart": "24",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "54.822"
+      },
+      {
+        "pos": "11",
+        "kart": "12",
+        "nome": "Gustavo Gondim",
+        "melhor_volta": "54.911"
+      },
+      {
+        "pos": "12",
+        "kart": "16",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "54.618"
+      },
+      {
+        "pos": "13",
+        "kart": "15",
+        "nome": "Ph",
+        "melhor_volta": "54.550"
+      },
+      {
+        "pos": "14",
+        "kart": "21",
+        "nome": "Rogerio B.",
+        "melhor_volta": "54.779"
+      }
+    ],
+    "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias). Observacao impressa: kart 28 (Rafael Lira) penalizado por toque no kart adversario. 'Ph' = P.h. (alias)."
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 1 - 2a Bateria",
+    "tipo": "Corrida",
+    "data": "12/09/2026",
+    "etapa": "6a Etapa (2o semestre)",
+    "_melhor_volta_impressa": "Magrao 00:47.773 (ANOMALO, ver _nota)",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "27",
+        "nome": "Rogerio B.",
+        "melhor_volta": "53.618"
+      },
+      {
+        "pos": "2",
+        "kart": "23",
+        "nome": "Ph",
+        "melhor_volta": "53.799"
+      },
+      {
+        "pos": "3",
+        "kart": "11",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "53.605"
+      },
+      {
+        "pos": "4",
+        "kart": "13",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "54.190"
+      },
+      {
+        "pos": "5",
+        "kart": "24",
+        "nome": "Magrao",
+        "melhor_volta": "54.421"
+      },
+      {
+        "pos": "6",
+        "kart": "8",
+        "nome": "Enezio",
+        "melhor_volta": "54.235"
+      },
+      {
+        "pos": "7",
+        "kart": "12",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "54.482"
+      },
+      {
+        "pos": "8",
+        "kart": "15",
+        "nome": "Caio Alexander",
+        "melhor_volta": "54.477"
+      },
+      {
+        "pos": "9",
+        "kart": "26",
+        "nome": "Gustavo Gondim",
+        "melhor_volta": "54.461"
+      },
+      {
+        "pos": "10",
+        "kart": "21",
+        "nome": "Gabriel Candelore",
+        "melhor_volta": "54.078"
+      },
+      {
+        "pos": "11",
+        "kart": "16",
+        "nome": "Paulo Braga",
+        "melhor_volta": "54.062"
+      },
+      {
+        "pos": "12",
+        "kart": "28",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "54.766"
+      },
+      {
+        "pos": "13",
+        "kart": "20",
+        "nome": "Rafael Lira",
+        "melhor_volta": "54.382"
+      },
+      {
+        "pos": "14",
+        "kart": "22",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "55.043"
+      }
+    ],
+    "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias). Magrao: TMV impresso 47.773 e impossivel na pista de 900m (~54s) — erro de cronometragem; gravado o TMV2 dele (54.421, volta 7) como melhor volta."
   }
 ]
