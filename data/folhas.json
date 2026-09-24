@@ -1,3066 +1,3066 @@
 [
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Indoor Sem O Bronze",
-  "bateria": "Bateria 04",
-  "tipo": "Corrida",
-  "data": "08/07/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "23",
-    "nome": "Pietro",
-    "melhor_volta": "54.147"
-   },
-   {
-    "pos": "2",
-    "kart": "20",
-    "nome": "Candelore",
-    "melhor_volta": "54.244"
-   },
-   {
-    "pos": "3",
-    "kart": "13",
-    "nome": "Rogerio",
-    "melhor_volta": "54.343"
-   },
-   {
-    "pos": "4",
-    "kart": "28",
-    "nome": "Lira",
-    "melhor_volta": "54.310"
-   },
-   {
-    "pos": "5",
-    "kart": "11",
-    "nome": "Ltm",
-    "melhor_volta": "54.795"
-   },
-   {
-    "pos": "6",
-    "kart": "06",
-    "nome": "Gustavo",
-    "melhor_volta": "55.813"
-   },
-   {
-    "pos": "NC",
-    "kart": "27",
-    "nome": "Caim",
-    "melhor_volta": "55.507"
-   },
-   {
-    "pos": "NC",
-    "kart": "14",
-    "nome": "Torsian",
-    "melhor_volta": "55.244"
-   },
-   {
-    "pos": "NC",
-    "kart": "21",
-    "nome": "Torsian",
-    "melhor_volta": "56.450"
-   },
-   {
-    "pos": "NC",
-    "kart": "24",
-    "nome": "Caim",
-    "melhor_volta": "1:19.130"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Indoor Sem O Bronze",
-  "bateria": "Bateria 03",
-  "tipo": "Corrida",
-  "data": "16/07/2026",
-  "etapa": "10ª Etapa",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "11",
-    "nome": "Candelore",
-    "melhor_volta": "53.598"
-   },
-   {
-    "pos": "2",
-    "kart": "06",
-    "nome": "Magrao",
-    "melhor_volta": "54.034"
-   },
-   {
-    "pos": "3",
-    "kart": "22",
-    "nome": "Paulo Braga",
-    "melhor_volta": "54.083"
-   },
-   {
-    "pos": "4",
-    "kart": "18",
-    "nome": "Rogerio",
-    "melhor_volta": "54.608"
-   },
-   {
-    "pos": "5",
-    "kart": "8",
-    "nome": "Pietro",
-    "melhor_volta": "54.443"
-   },
-   {
-    "pos": "6",
-    "kart": "29",
-    "nome": "Lira",
-    "melhor_volta": "54.771"
-   },
-   {
-    "pos": "7",
-    "kart": "14",
-    "nome": "Luiz Felipe",
-    "melhor_volta": "54.533"
-   },
-   {
-    "pos": "8",
-    "kart": "28",
-    "nome": "Ltm",
-    "melhor_volta": "54.746"
-   },
-   {
-    "pos": "9",
-    "kart": "13",
-    "nome": "Carlos Magno",
-    "melhor_volta": "55.716"
-   },
-   {
-    "pos": "NC",
-    "kart": "25",
-    "nome": "Caim",
-    "melhor_volta": "55.834"
-   },
-   {
-    "pos": "NC",
-    "kart": "30",
-    "nome": "Enezio",
-    "melhor_volta": "55.994"
-   },
-   {
-    "pos": "NC",
-    "kart": "16",
-    "nome": "Caim",
-    "melhor_volta": "55.430"
-   },
-   {
-    "pos": "NC",
-    "kart": "24",
-    "nome": "Enezio",
-    "melhor_volta": "1:01.516"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 1 - 1a Bateria",
-  "tipo": "Corrida",
-  "data": "09/05/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "22",
-    "nome": "Luiz Felipe",
-    "melhor_volta": "35.411"
-   },
-   {
-    "pos": "2",
-    "kart": "28",
-    "nome": "Gustavo Gondim",
-    "melhor_volta": "35.425"
-   },
-   {
-    "pos": "3",
-    "kart": "11",
-    "nome": "Magrao",
-    "melhor_volta": "35.656"
-   },
-   {
-    "pos": "4",
-    "kart": "5",
-    "nome": "G. Filho",
-    "melhor_volta": "35.634"
-   },
-   {
-    "pos": "5",
-    "kart": "29",
-    "nome": "Nickholas",
-    "melhor_volta": "35.669"
-   },
-   {
-    "pos": "6",
-    "kart": "13",
-    "nome": "Roniel",
-    "melhor_volta": "36.255"
-   },
-   {
-    "pos": "7",
-    "kart": "30",
-    "nome": "Agostinho Neto",
-    "melhor_volta": "36.236"
-   },
-   {
-    "pos": "8",
-    "kart": "21",
-    "nome": "Leonardo Fidelis",
-    "melhor_volta": "36.168"
-   },
-   {
-    "pos": "9",
-    "kart": "26",
-    "nome": "Carlos Silva",
-    "melhor_volta": "36.827"
-   },
-   {
-    "pos": "10",
-    "kart": "15",
-    "nome": "Agostinho Tozzo",
-    "melhor_volta": "37.043"
-   },
-   {
-    "pos": "11",
-    "kart": "8",
-    "nome": "Pietro",
-    "melhor_volta": "37.324"
-   },
-   {
-    "pos": "12",
-    "kart": "24",
-    "nome": "Gabriel Alves",
-    "melhor_volta": "37.353"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 1 - 2a Bateria",
-  "tipo": "Corrida",
-  "data": "09/05/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "28",
-    "nome": "Pietro",
-    "melhor_volta": "35.393"
-   },
-   {
-    "pos": "2",
-    "kart": "5",
-    "nome": "Carlos Silva",
-    "melhor_volta": "35.437"
-   },
-   {
-    "pos": "3",
-    "kart": "22",
-    "nome": "Gabriel Alves",
-    "melhor_volta": "35.698"
-   },
-   {
-    "pos": "4",
-    "kart": "11",
-    "nome": "Agostinho Tozzo",
-    "melhor_volta": "36.239"
-   },
-   {
-    "pos": "5",
-    "kart": "15",
-    "nome": "Magrao",
-    "melhor_volta": "36.234"
-   },
-   {
-    "pos": "6",
-    "kart": "24",
-    "nome": "Luiz Felipe",
-    "melhor_volta": "36.407"
-   },
-   {
-    "pos": "7",
-    "kart": "30",
-    "nome": "Roniel",
-    "melhor_volta": "35.963"
-   },
-   {
-    "pos": "8",
-    "kart": "21",
-    "nome": "Nickholas",
-    "melhor_volta": "36.128"
-   },
-   {
-    "pos": "9",
-    "kart": "26",
-    "nome": "G. Filho",
-    "melhor_volta": "36.714"
-   },
-   {
-    "pos": "10",
-    "kart": "29",
-    "nome": "Leonardo Fidelis",
-    "melhor_volta": "36.390"
-   },
-   {
-    "pos": "11",
-    "kart": "8",
-    "nome": "Gustavo Gondim",
-    "melhor_volta": "37.159"
-   },
-   {
-    "pos": "NC",
-    "kart": "13",
-    "nome": "Agostinho Neto",
-    "melhor_volta": "36.302"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 2 - Tomada de Tempo",
-  "tipo": "Tomada de tempo",
-  "data": "09/05/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "28",
-    "nome": "Jonathan Ribeiro",
-    "melhor_volta": "36.362"
-   },
-   {
-    "pos": "2",
-    "kart": "30",
-    "nome": "Douglas Calixto",
-    "melhor_volta": "36.413"
-   },
-   {
-    "pos": "3",
-    "kart": "23",
-    "nome": "Fernando Adorno",
-    "melhor_volta": "36.482"
-   },
-   {
-    "pos": "4",
-    "kart": "18",
-    "nome": "Rafael Lira",
-    "melhor_volta": "36.606"
-   },
-   {
-    "pos": "5",
-    "kart": "13",
-    "nome": "Paulo Braga",
-    "melhor_volta": "36.861"
-   },
-   {
-    "pos": "6",
-    "kart": "15",
-    "nome": "Geraldo Neto",
-    "melhor_volta": "37.149"
-   },
-   {
-    "pos": "7",
-    "kart": "11",
-    "nome": "Francisco Silva",
-    "melhor_volta": "37.381"
-   },
-   {
-    "pos": "8",
-    "kart": "26",
-    "nome": "Joao Carlos Carvalho",
-    "melhor_volta": "37.385"
-   },
-   {
-    "pos": "9",
-    "kart": "1",
-    "nome": "Eduardo Paiva",
-    "melhor_volta": "37.963"
-   },
-   {
-    "pos": "10",
-    "kart": "21",
-    "nome": "Joao Pedro F. Alves",
-    "melhor_volta": "40.838"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 2 - 1a Bateria",
-  "tipo": "Corrida",
-  "data": "09/05/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "28",
-    "nome": "Jonathan Ribeiro",
-    "melhor_volta": "35.601"
-   },
-   {
-    "pos": "2",
-    "kart": "30",
-    "nome": "Douglas Calixto",
-    "melhor_volta": "35.873"
-   },
-   {
-    "pos": "3",
-    "kart": "23",
-    "nome": "Fernando Adorno",
-    "melhor_volta": "35.709"
-   },
-   {
-    "pos": "4",
-    "kart": "18",
-    "nome": "Rafael Lira",
-    "melhor_volta": "35.571"
-   },
-   {
-    "pos": "5",
-    "kart": "11",
-    "nome": "Francisco Silva",
-    "melhor_volta": "36.410"
-   },
-   {
-    "pos": "6",
-    "kart": "13",
-    "nome": "Paulo Braga",
-    "melhor_volta": "35.724"
-   },
-   {
-    "pos": "7",
-    "kart": "26",
-    "nome": "Joao Carlos Carvalho",
-    "melhor_volta": "36.614"
-   },
-   {
-    "pos": "8",
-    "kart": "21",
-    "nome": "Joao Pedro F. Alves",
-    "melhor_volta": "36.599"
-   },
-   {
-    "pos": "9",
-    "kart": "1",
-    "nome": "Eduardo Paiva",
-    "melhor_volta": "37.038"
-   },
-   {
-    "pos": "10",
-    "kart": "15",
-    "nome": "Geraldo Neto",
-    "melhor_volta": "36.006"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 2 - 2a Bateria",
-  "tipo": "Corrida",
-  "data": "09/05/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "28",
-    "nome": "Geraldo Neto",
-    "melhor_volta": "35.409"
-   },
-   {
-    "pos": "2",
-    "kart": "11",
-    "nome": "Paulo Braga",
-    "melhor_volta": "35.517"
-   },
-   {
-    "pos": "3",
-    "kart": "30",
-    "nome": "Eduardo Paiva",
-    "melhor_volta": "35.927"
-   },
-   {
-    "pos": "4",
-    "kart": "21",
-    "nome": "Fernando Adorno",
-    "melhor_volta": "35.454"
-   },
-   {
-    "pos": "5",
-    "kart": "15",
-    "nome": "Jonathan Ribeiro",
-    "melhor_volta": "35.966"
-   },
-   {
-    "pos": "6",
-    "kart": "18",
-    "nome": "Joao Carlos Carvalho",
-    "melhor_volta": "35.924"
-   },
-   {
-    "pos": "7",
-    "kart": "26",
-    "nome": "Rafael Lira",
-    "melhor_volta": "36.010"
-   },
-   {
-    "pos": "8",
-    "kart": "13",
-    "nome": "Francisco Silva",
-    "melhor_volta": "36.966"
-   },
-   {
-    "pos": "9",
-    "kart": "01",
-    "nome": "Douglas Calixto",
-    "melhor_volta": "36.994"
-   },
-   {
-    "pos": "10",
-    "kart": "23",
-    "nome": "Joao Pedro F. Alves",
-    "melhor_volta": "36.995"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 3 - 1a Bateria",
-  "tipo": "Corrida",
-  "data": "09/05/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "22",
-    "nome": "Gabriel Candelore",
-    "melhor_volta": "35.086"
-   },
-   {
-    "pos": "2",
-    "kart": "28",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "35.699"
-   },
-   {
-    "pos": "3",
-    "kart": "11",
-    "nome": "Andre Antoniassi",
-    "melhor_volta": "35.588"
-   },
-   {
-    "pos": "4",
-    "kart": "5",
-    "nome": "Fernando Vilefort",
-    "melhor_volta": "35.271"
-   },
-   {
-    "pos": "5",
-    "kart": "26",
-    "nome": "Caio Alexander",
-    "melhor_volta": "35.985"
-   },
-   {
-    "pos": "6",
-    "kart": "29",
-    "nome": "Joao Vitor Moura",
-    "melhor_volta": "36.034"
-   },
-   {
-    "pos": "7",
-    "kart": "15",
-    "nome": "Antonio Lazaro",
-    "melhor_volta": "36.322"
-   },
-   {
-    "pos": "8",
-    "kart": "25",
-    "nome": "William Jr.",
-    "melhor_volta": "36.241"
-   },
-   {
-    "pos": "9",
-    "kart": "23",
-    "nome": "Antonio Carvalho",
-    "melhor_volta": "35.792"
-   },
-   {
-    "pos": "10",
-    "kart": "30",
-    "nome": "Rogerio B.",
-    "melhor_volta": "35.861"
-   },
-   {
-    "pos": "11",
-    "kart": "13",
-    "nome": "Elias Hoffmann",
-    "melhor_volta": "37.528"
-   }
-  ],
-  "_melhor_volta_impressa": "Gabriel Candelore 35.086"
- },
- {
-  "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 3 - 2a Bateria",
-  "tipo": "Corrida",
-  "data": "09/05/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "28",
-    "nome": "Rogerio B.",
-    "melhor_volta": "35.489"
-   },
-   {
-    "pos": "2",
-    "kart": "25",
-    "nome": "Fernando Vilefort",
-    "melhor_volta": "35.433"
-   },
-   {
-    "pos": "3",
-    "kart": "23",
-    "nome": "Andre Antoniassi",
-    "melhor_volta": "35.446"
-   },
-   {
-    "pos": "4",
-    "kart": "29",
-    "nome": "Joao Vitor Moura",
-    "melhor_volta": "36.090"
-   },
-   {
-    "pos": "5",
-    "kart": "11",
-    "nome": "Antonio Carvalho",
-    "melhor_volta": "36.345"
-   },
-   {
-    "pos": "6",
-    "kart": "26",
-    "nome": "Antonio Lazaro",
-    "melhor_volta": "36.085"
-   },
-   {
-    "pos": "7",
-    "kart": "22",
-    "nome": "Elias Hoffmann",
-    "melhor_volta": "36.303"
-   },
-   {
-    "pos": "8",
-    "kart": "15",
-    "nome": "Caio Alexander",
-    "melhor_volta": "36.061"
-   },
-   {
-    "pos": "9",
-    "kart": "5",
-    "nome": "William Jr.",
-    "melhor_volta": "35.503"
-   },
-   {
-    "pos": "10",
-    "kart": "21",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "35.420"
-   },
-   {
-    "pos": "NC",
-    "kart": "13",
-    "nome": "Gabriel Candelore",
-    "melhor_volta": "35.852"
-   }
-  ],
-  "_melhor_volta_impressa": "Luciano Ltm 35.420"
- },
- {
-  "tracado": "Traçado 8 — Sentido Normal (890m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 1 - 1a Bateria",
-  "tipo": "Corrida",
-  "data": "27/06/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "29",
-    "nome": "Luiz Felipe",
-    "melhor_volta": "54.779"
-   },
-   {
-    "pos": "2",
-    "kart": "20",
-    "nome": "Eduardo Paiva",
-    "melhor_volta": "54.723"
-   },
-   {
-    "pos": "3",
-    "kart": "16",
-    "nome": "Enezio",
-    "melhor_volta": "54.845"
-   },
-   {
-    "pos": "4",
-    "kart": "26",
-    "nome": "G. Filho",
-    "melhor_volta": "54.466"
-   },
-   {
-    "pos": "5",
-    "kart": "23",
-    "nome": "Carlos Alexandre",
-    "melhor_volta": "54.785"
-   },
-   {
-    "pos": "6",
-    "kart": "6",
-    "nome": "Joao Carlos Carvalho",
-    "melhor_volta": "55.171"
-   },
-   {
-    "pos": "7",
-    "kart": "21",
-    "nome": "Rafael Lira",
-    "melhor_volta": "55.839"
-   },
-   {
-    "pos": "8",
-    "kart": "14",
-    "nome": "Douglas Calixto",
-    "melhor_volta": "55.896"
-   },
-   {
-    "pos": "9",
-    "kart": "28",
-    "nome": "Willian Jr.",
-    "melhor_volta": "56.474"
-   },
-   {
-    "pos": "10",
-    "kart": "27",
-    "nome": "Leonardo Fidelis",
-    "melhor_volta": "57.325"
-   },
-   {
-    "pos": "11",
-    "kart": "18",
-    "nome": "Fernando Vilefort",
-    "melhor_volta": "54.866"
-   },
-   {
-    "pos": "NC",
-    "kart": "22",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "55.812"
-   }
-  ],
-  "_melhor_volta_impressa": "G. Filho 54.466"
- },
- {
-  "tracado": "Traçado 8 — Sentido Normal (890m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 2 - 1a Bateria",
-  "tipo": "Corrida",
-  "data": "27/06/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "28",
-    "nome": "Paulo Braga",
-    "melhor_volta": "53.868"
-   },
-   {
-    "pos": "2",
-    "kart": "11",
-    "nome": "Gabriel Candelore",
-    "melhor_volta": "53.686"
-   },
-   {
-    "pos": "3",
-    "kart": "20",
-    "nome": "Gustavo Gondim",
-    "melhor_volta": "53.693"
-   },
-   {
-    "pos": "4",
-    "kart": "18",
-    "nome": "Jonathan Ribeiro",
-    "melhor_volta": "54.479"
-   },
-   {
-    "pos": "5",
-    "kart": "26",
-    "nome": "Agostinho Neto",
-    "melhor_volta": "54.248"
-   },
-   {
-    "pos": "6",
-    "kart": "16",
-    "nome": "Fernando Adorno",
-    "melhor_volta": "54.144"
-   },
-   {
-    "pos": "7",
-    "kart": "06",
-    "nome": "Antonio Lazaro",
-    "melhor_volta": "55.015"
-   },
-   {
-    "pos": "8",
-    "kart": "29",
-    "nome": "Antonio Carvalho",
-    "melhor_volta": "55.037"
-   },
-   {
-    "pos": "9",
-    "kart": "23",
-    "nome": "Francisco Silva",
-    "melhor_volta": "55.021"
-   },
-   {
-    "pos": "10",
-    "kart": "14",
-    "nome": "Joao Pedro F. Alves",
-    "melhor_volta": "57.212"
-   },
-   {
-    "pos": "11",
-    "kart": "27",
-    "nome": "Alcindo",
-    "melhor_volta": "55.786"
-   }
-  ],
-  "_melhor_volta_impressa": "Gabriel Candelore 53.686"
- },
- {
-  "tracado": "Traçado 8 — Sentido Normal (890m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 3 - 1a Bateria",
-  "tipo": "Corrida",
-  "data": "27/06/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "22",
-    "nome": "Magrao",
-    "melhor_volta": "53.671"
-   },
-   {
-    "pos": "2",
-    "kart": "28",
-    "nome": "Rogerio B.",
-    "melhor_volta": "53.870"
-   },
-   {
-    "pos": "3",
-    "kart": "20",
-    "nome": "Caio Alexander",
-    "melhor_volta": "53.852"
-   },
-   {
-    "pos": "4",
-    "kart": "14",
-    "nome": "Marcelo Abreu",
-    "melhor_volta": "53.822"
-   },
-   {
-    "pos": "5",
-    "kart": "16",
-    "nome": "Roniel",
-    "melhor_volta": "54.245"
-   },
-   {
-    "pos": "6",
-    "kart": "27",
-    "nome": "Pietro",
-    "melhor_volta": "54.583"
-   },
-   {
-    "pos": "7",
-    "kart": "29",
-    "nome": "Nickholas R.",
-    "melhor_volta": "54.339"
-   },
-   {
-    "pos": "8",
-    "kart": "18",
-    "nome": "Joao Vitor",
-    "melhor_volta": "54.867"
-   },
-   {
-    "pos": "9",
-    "kart": "23",
-    "nome": "Agostinho Tozzo",
-    "melhor_volta": "54.928"
-   },
-   {
-    "pos": "10",
-    "kart": "26",
-    "nome": "Elias Hoffmann",
-    "melhor_volta": "55.933"
-   },
-   {
-    "pos": "11",
-    "kart": "11",
-    "nome": "Gilberto M.",
-    "melhor_volta": "58.437"
-   },
-   {
-    "pos": "12",
-    "kart": "8",
-    "nome": "Geraldo Neto",
-    "melhor_volta": "54.011"
-   }
-  ],
-  "_melhor_volta_impressa": "Magrao 53.671"
- },
- {
-  "tracado": "Traçado 8 — Sentido Normal (890m)",
-  "evento": "Indoor Sem O Bronze",
-  "bateria": "Bateria 01",
-  "tipo": "Corrida",
-  "data": "25/06/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "26",
-    "nome": "Candelore",
-    "melhor_volta": "53.145"
-   },
-   {
-    "pos": "2",
-    "kart": "18",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "53.876"
-   },
-   {
-    "pos": "3",
-    "kart": "11",
-    "nome": "Pietro",
-    "melhor_volta": "53.992"
-   },
-   {
-    "pos": "4",
-    "kart": "29",
-    "nome": "Rogerio",
-    "melhor_volta": "54.022"
-   },
-   {
-    "pos": "5",
-    "kart": "22",
-    "nome": "Nickholas",
-    "melhor_volta": "54.139"
-   },
-   {
-    "pos": "6",
-    "kart": "15",
-    "nome": "Eduardo",
-    "melhor_volta": "54.360"
-   },
-   {
-    "pos": "7",
-    "kart": "27",
-    "nome": "Joao Carlos",
-    "melhor_volta": "55.116"
-   },
-   {
-    "pos": "8",
-    "kart": "28",
-    "nome": "Antonio",
-    "melhor_volta": "54.415"
-   },
-   {
-    "pos": "NC",
-    "kart": "16",
-    "nome": "Geraldo",
-    "melhor_volta": "53.325"
-   },
-   {
-    "pos": "NC",
-    "kart": "13",
-    "nome": "Geraldo",
-    "melhor_volta": "55.096"
-   }
-  ],
-  "_melhor_volta_impressa": "Candelore 53.145"
- },
- {
-  "tracado": "Traçado 8 — Sentido Normal (890m)",
-  "evento": "Indoor Sem O Bronze",
-  "bateria": "Bateria 02",
-  "tipo": "Corrida",
-  "data": "25/06/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "26",
-    "nome": "Geraldo",
-    "melhor_volta": "53.221"
-   },
-   {
-    "pos": "2",
-    "kart": "22",
-    "nome": "Pietro",
-    "melhor_volta": "53.806"
-   },
-   {
-    "pos": "3",
-    "kart": "16",
-    "nome": "Jonathan",
-    "melhor_volta": "53.728"
-   },
-   {
-    "pos": "4",
-    "kart": "11",
-    "nome": "Rogerio",
-    "melhor_volta": "53.914"
-   },
-   {
-    "pos": "5",
-    "kart": "155",
-    "nome": "Joao Carlos",
-    "melhor_volta": "54.114"
-   },
-   {
-    "pos": "6",
-    "kart": "11",
-    "nome": "Nickholas",
-    "melhor_volta": "54.613"
-   },
-   {
-    "pos": "7",
-    "kart": "6",
-    "nome": "Fernando",
-    "melhor_volta": "54.510"
-   },
-   {
-    "pos": "8",
-    "kart": "27",
-    "nome": "Antonio L.",
-    "melhor_volta": "55.404"
-   },
-   {
-    "pos": "9",
-    "kart": "14",
-    "nome": "Eduardo",
-    "melhor_volta": "55.668"
-   },
-   {
-    "pos": "10",
-    "kart": "29",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "55.247"
-   }
-  ],
-  "_melhor_volta_impressa": "Geraldo 53.221",
-  "_nota": "'Competidor 4' (kart 4, NC, 03:42.153) EXCLUIDO: e placeholder de competidor nao identificado, nao um piloto. Incluir criaria piloto fantasma."
- },
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
-  "bateria": "Tomada de Tempo",
-  "tipo": "Classificação",
-  "data": "18/07/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "16",
-    "nome": "Magrao",
-    "melhor_volta": "54.380"
-   },
-   {
-    "pos": "2",
-    "kart": "26",
-    "nome": "Paulo Braga",
-    "melhor_volta": "54.789"
-   },
-   {
-    "pos": "3",
-    "kart": "18",
-    "nome": "Narigas",
-    "melhor_volta": "55.203"
-   },
-   {
-    "pos": "4",
-    "kart": "20",
-    "nome": "Rogerio T.",
-    "melhor_volta": "55.324"
-   },
-   {
-    "pos": "5",
-    "kart": "22",
-    "nome": "Torsian",
-    "melhor_volta": "55.324"
-   },
-   {
-    "pos": "6",
-    "kart": "29",
-    "nome": "Enezio",
-    "melhor_volta": "55.484"
-   },
-   {
-    "pos": "7",
-    "kart": "23",
-    "nome": "Picachu",
-    "melhor_volta": "55.600"
-   },
-   {
-    "pos": "8",
-    "kart": "28",
-    "nome": "Dede",
-    "melhor_volta": "55.679"
-   },
-   {
-    "pos": "9",
-    "kart": "13",
-    "nome": "Marcelo Goes",
-    "melhor_volta": "55.710"
-   },
-   {
-    "pos": "10",
-    "kart": "27",
-    "nome": "Luciano Gil",
-    "melhor_volta": "55.776"
-   },
-   {
-    "pos": "11",
-    "kart": "14",
-    "nome": "Agostinho Tozzo",
-    "melhor_volta": "55.911"
-   },
-   {
-    "pos": "12",
-    "kart": "15",
-    "nome": "Alisson Noronha",
-    "melhor_volta": "56.012"
-   },
-   {
-    "pos": "13",
-    "kart": "8",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "56.181"
-   },
-   {
-    "pos": "14",
-    "kart": "06",
-    "nome": "Caim",
-    "melhor_volta": "56.804"
-   },
-   {
-    "pos": "15",
-    "kart": "11",
-    "nome": "Carlos Magno",
-    "melhor_volta": "57.091"
-   },
-   {
-    "pos": "16",
-    "kart": "21",
-    "nome": "Eduardo Melo",
-    "melhor_volta": "57.572"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
-  "bateria": "Bateria 01",
-  "tipo": "Corrida",
-  "data": "18/07/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "26",
-    "nome": "Paulo Braga",
-    "melhor_volta": "53.533"
-   },
-   {
-    "pos": "2",
-    "kart": "16",
-    "nome": "Magrao",
-    "melhor_volta": "53.657"
-   },
-   {
-    "pos": "3",
-    "kart": "20",
-    "nome": "Rogerio T.",
-    "melhor_volta": "54.071"
-   },
-   {
-    "pos": "4",
-    "kart": "22",
-    "nome": "Torsian",
-    "melhor_volta": "54.328"
-   },
-   {
-    "pos": "5",
-    "kart": "29",
-    "nome": "Enezio",
-    "melhor_volta": "55.027"
-   },
-   {
-    "pos": "6",
-    "kart": "15",
-    "nome": "Alisson Noronha",
-    "melhor_volta": "54.768"
-   },
-   {
-    "pos": "7",
-    "kart": "28",
-    "nome": "Dede",
-    "melhor_volta": "54.555"
-   },
-   {
-    "pos": "8",
-    "kart": "18",
-    "nome": "Narigas",
-    "melhor_volta": "54.436"
-   },
-   {
-    "pos": "9",
-    "kart": "13",
-    "nome": "Marcelo Goes",
-    "melhor_volta": "54.803"
-   },
-   {
-    "pos": "10",
-    "kart": "23",
-    "nome": "Picachu",
-    "melhor_volta": "55.792"
-   },
-   {
-    "pos": "11",
-    "kart": "8",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "54.966"
-   },
-   {
-    "pos": "12",
-    "kart": "27",
-    "nome": "Luciano Gil",
-    "melhor_volta": "55.721"
-   },
-   {
-    "pos": "13",
-    "kart": "06",
-    "nome": "Caim",
-    "melhor_volta": "55.489"
-   },
-   {
-    "pos": "14",
-    "kart": "14",
-    "nome": "Agostinho Tozzo",
-    "melhor_volta": "55.424"
-   },
-   {
-    "pos": "15",
-    "kart": "21",
-    "nome": "Eduardo Melo",
-    "melhor_volta": "55.675"
-   },
-   {
-    "pos": "16",
-    "kart": "11",
-    "nome": "Carlos Magno",
-    "melhor_volta": "55.967"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
-  "bateria": "Bateria 02",
-  "tipo": "Corrida",
-  "data": "18/07/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "29",
-    "nome": "Luciano Gil",
-    "melhor_volta": "54.995"
-   },
-   {
-    "pos": "2",
-    "kart": "20",
-    "nome": "Agostinho Tozzo",
-    "melhor_volta": "54.996"
-   },
-   {
-    "pos": "3",
-    "kart": "22",
-    "nome": "Caim",
-    "melhor_volta": "55.007"
-   },
-   {
-    "pos": "4",
-    "kart": "11",
-    "nome": "Paulo Braga",
-    "melhor_volta": "54.810"
-   },
-   {
-    "pos": "5",
-    "kart": "15",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "55.004"
-   },
-   {
-    "pos": "6",
-    "kart": "14",
-    "nome": "Rogerio B.",
-    "melhor_volta": "54.499"
-   },
-   {
-    "pos": "7",
-    "kart": "8",
-    "nome": "Alisson Noronha",
-    "melhor_volta": "54.648"
-   },
-   {
-    "pos": "8",
-    "kart": "13",
-    "nome": "Narigas",
-    "melhor_volta": "54.439"
-   },
-   {
-    "pos": "9",
-    "kart": "23",
-    "nome": "Dede",
-    "melhor_volta": "54.715"
-   },
-   {
-    "pos": "10",
-    "kart": "26",
-    "nome": "Carlos Magno",
-    "melhor_volta": "54.945"
-   },
-   {
-    "pos": "11",
-    "kart": "6",
-    "nome": "Torsian",
-    "melhor_volta": "55.009"
-   },
-   {
-    "pos": "12",
-    "kart": "16",
-    "nome": "Eduardo Melo",
-    "melhor_volta": "54.953"
-   },
-   {
-    "pos": "13",
-    "kart": "18",
-    "nome": "Marcelo Goes",
-    "melhor_volta": "55.137"
-   },
-   {
-    "pos": "14",
-    "kart": "21",
-    "nome": "Magrao",
-    "melhor_volta": "54.725"
-   },
-   {
-    "pos": "15",
-    "kart": "27",
-    "nome": "Enezio",
-    "melhor_volta": "56.955"
-   },
-   {
-    "pos": "EX",
-    "kart": "28",
-    "nome": "Picachu",
-    "melhor_volta": "55.234"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 10 — Anti-Horário (780m)",
-  "evento": "Indoor Sem O Bronze",
-  "bateria": "Bateria 07",
-  "tipo": "Corrida",
-  "data": "22/07/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "133",
-    "nome": "Candelore",
-    "melhor_volta": "44.829"
-   },
-   {
-    "pos": "2",
-    "kart": "28",
-    "nome": "Lira",
-    "melhor_volta": "45.175"
-   },
-   {
-    "pos": "3",
-    "kart": "14",
-    "nome": "Luiz Lira",
-    "melhor_volta": "45.146"
-   },
-   {
-    "pos": "4",
-    "kart": "21",
-    "nome": "Paulo Braga",
-    "melhor_volta": "45.960"
-   },
-   {
-    "pos": "5",
-    "kart": "15",
-    "nome": "Pietro",
-    "melhor_volta": "45.705"
-   },
-   {
-    "pos": "6",
-    "kart": "29",
-    "nome": "Rogerio B.",
-    "melhor_volta": "46.208"
-   },
-   {
-    "pos": "7",
-    "kart": "11",
-    "nome": "Ltm",
-    "melhor_volta": "46.204"
-   },
-   {
-    "pos": "8",
-    "kart": "8",
-    "nome": "Gilberto",
-    "melhor_volta": "48.162"
-   },
-   {
-    "pos": "9",
-    "kart": "22",
-    "nome": "Caim",
-    "melhor_volta": "46.722"
-   },
-   {
-    "pos": "NC",
-    "kart": "25",
-    "nome": "Caporezo",
-    "melhor_volta": "49.057"
-   },
-   {
-    "pos": "NC",
-    "kart": "188",
-    "nome": "Torsian",
-    "melhor_volta": "46.785"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 6 — Anti-Horário (835m)",
-  "evento": "Indoor Sem O Bronze",
-  "bateria": "Bateria 04",
-  "tipo": "Corrida",
-  "data": "30/07/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "18",
-    "nome": "Candelore",
-    "melhor_volta": "47.418"
-   },
-   {
-    "pos": "2",
-    "kart": "16",
-    "nome": "Lira",
-    "melhor_volta": "47.348"
-   },
-   {
-    "pos": "3",
-    "kart": "22",
-    "nome": "Caio",
-    "melhor_volta": "47.520"
-   },
-   {
-    "pos": "4",
-    "kart": "15",
-    "nome": "Ltm",
-    "melhor_volta": "47.570"
-   },
-   {
-    "pos": "5",
-    "kart": "11",
-    "nome": "Magrao",
-    "melhor_volta": "47.923"
-   },
-   {
-    "pos": "6",
-    "kart": "28",
-    "nome": "Enezio",
-    "melhor_volta": "47.990"
-   },
-   {
-    "pos": "7",
-    "kart": "14",
-    "nome": "Cadu",
-    "melhor_volta": "47.957"
-   },
-   {
-    "pos": "8",
-    "kart": "20",
-    "nome": "Rogerio",
-    "melhor_volta": "48.277"
-   },
-   {
-    "pos": "9",
-    "kart": "4",
-    "nome": "Alexandre",
-    "melhor_volta": "48.461"
-   },
-   {
-    "pos": "10",
-    "kart": "23",
-    "nome": "Pedro",
-    "melhor_volta": "48.066"
-   },
-   {
-    "pos": "11",
-    "kart": "29",
-    "nome": "Pietro",
-    "melhor_volta": "49.184"
-   },
-   {
-    "pos": "12",
-    "kart": "30",
-    "nome": "Fernando",
-    "melhor_volta": "48.586"
-   },
-   {
-    "pos": "NC",
-    "kart": "26",
-    "nome": "Arthur",
-    "melhor_volta": "47.461"
-   },
-   {
-    "pos": "NC",
-    "kart": "25",
-    "nome": "Arthur B.",
-    "melhor_volta": "50.284"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 6 — Anti-Horário (835m)",
-  "evento": "Indoor Sem O Bronze",
-  "bateria": "Bateria 04",
-  "tipo": "Corrida",
-  "data": "06/08/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "15",
-    "nome": "Pietro",
-    "melhor_volta": "47.342"
-   },
-   {
-    "pos": "2",
-    "kart": "18",
-    "nome": "Candelore",
-    "melhor_volta": "47.741"
-   },
-   {
-    "pos": "3",
-    "kart": "11",
-    "nome": "Rafael Lira",
-    "melhor_volta": "47.676"
-   },
-   {
-    "pos": "4",
-    "kart": "28",
-    "nome": "Paulo Braga",
-    "melhor_volta": "48.558"
-   },
-   {
-    "pos": "5",
-    "kart": "20",
-    "nome": "Douglas",
-    "melhor_volta": "48.233"
-   },
-   {
-    "pos": "6",
-    "kart": "16",
-    "nome": "Geraldo",
-    "melhor_volta": "47.322"
-   },
-   {
-    "pos": "7",
-    "kart": "25",
-    "nome": "Agostinho",
-    "melhor_volta": "50.045"
-   },
-   {
-    "pos": "8",
-    "kart": "27",
-    "nome": "Pedro S.",
-    "melhor_volta": "50.053"
-   },
-   {
-    "pos": "9",
-    "kart": "23",
-    "nome": "Fernando",
-    "melhor_volta": "48.236"
-   },
-   {
-    "pos": "10",
-    "kart": "22",
-    "nome": "Big Foot",
-    "melhor_volta": "48.222"
-   },
-   {
-    "pos": "12",
-    "kart": "13",
-    "nome": "E. Paiva",
-    "melhor_volta": "48.329"
-   },
-   {
-    "pos": "13",
-    "kart": "6",
-    "nome": "Luiz Lira",
-    "melhor_volta": "47.612"
-   },
-   {
-    "pos": "NC",
-    "kart": "14",
-    "nome": "Rogerio B.",
-    "melhor_volta": "47.916"
-   },
-   {
-    "pos": "NC",
-    "kart": "4",
-    "nome": "Cadu",
-    "melhor_volta": "48.481"
-   },
-   {
-    "pos": "NC",
-    "kart": "21",
-    "nome": "Candelore",
-    "melhor_volta": "49.473"
-   },
-   {
-    "pos": "NC",
-    "kart": "29",
-    "nome": "Caio",
-    "melhor_volta": "48.522"
-   }
-  ],
-  "_nota": "'Competidor 26' (kart 26, pos 11, 46.723 -- estava batendo o recorde geral do Tracado 6 por engano) e 'Competidor 19' (kart 19, NC, 2:21.498) EXCLUIDOS: mesmo padrao ja tratado na folha de 25/06 -- placeholder de competidor nao identificado no sistema LapTime, nao um piloto real. Incluir criaria piloto fantasma / recorde falso."
- },
- {
-  "tracado": "Traçado 6 — Anti-Horário (835m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 1 - Tomada de Tempo",
-  "tipo": "Tomada de tempo",
-  "data": "08/08/2026",
-  "etapa": "1a Etapa (2o semestre)",
-  "resultados": [
-   {
-    "pos": "2",
-    "kart": "26",
-    "nome": "Paulo Braga",
-    "melhor_volta": "48.014"
-   },
-   {
-    "pos": "3",
-    "kart": "6",
-    "nome": "Rafael Lira",
-    "melhor_volta": "48.788"
-   },
-   {
-    "pos": "4",
-    "kart": "14",
-    "nome": "Luciano Garcia",
-    "melhor_volta": "48.975"
-   },
-   {
-    "pos": "5",
-    "kart": "23",
-    "nome": "Agostinho Tozzo",
-    "melhor_volta": "49.157"
-   },
-   {
-    "pos": "6",
-    "kart": "25",
-    "nome": "Gabriel Candelore",
-    "melhor_volta": "49.394"
-   },
-   {
-    "pos": "7",
-    "kart": "8",
-    "nome": "Luiz Felipe",
-    "melhor_volta": "49.395"
-   },
-   {
-    "pos": "8",
-    "kart": "15",
-    "nome": "Magrao",
-    "melhor_volta": "49.434"
-   },
-   {
-    "pos": "9",
-    "kart": "13",
-    "nome": "Fernando Vilefort",
-    "melhor_volta": "49.656"
-   },
-   {
-    "pos": "10",
-    "kart": "18",
-    "nome": "Carlos Alexandre",
-    "melhor_volta": "49.746"
-   },
-   {
-    "pos": "11",
-    "kart": "22",
-    "nome": "Rogerio B.",
-    "melhor_volta": "50.129"
-   },
-   {
-    "pos": "12",
-    "kart": "27",
-    "nome": "Geraldo Ferreria",
-    "melhor_volta": "52.022"
-   }
-  ],
-  "_melhor_volta_impressa": "Caio Alexsander 00:05.646 (ANOMALO, ver _nota)",
-  "_nota": "Caio Alexsander (kart 20, POS 1 impresso) EXCLUIDO desta Tomada de Tempo: a folha registra TMV 00:05.646 (volta 3 de 5) e TMV2 00:07.543 (volta 4) -- fisicamente impossivel num tracado de 835m (resto da folha fica 48-52s, e as baterias do mesmo Grupo 1 confirmam ele na faixa normal). Erro de sensor/transponder na tomada de tempo. Ele aparece normal nas baterias 1 e 2 (kart 20 e 14). POS impressos 2-12 mantidos como na folha (sem renumerar) para nao adulterar o documento oficial."
- },
- {
-  "tracado": "Traçado 6 — Anti-Horário (835m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 1 - 1a Bateria",
-  "tipo": "Corrida",
-  "data": "08/08/2026",
-  "etapa": "1a Etapa (2o semestre)",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "26",
-    "nome": "Paulo Braga",
-    "melhor_volta": "47.469"
-   },
-   {
-    "pos": "2",
-    "kart": "20",
-    "nome": "Caio Alexander",
-    "melhor_volta": "47.986"
-   },
-   {
-    "pos": "3",
-    "kart": "6",
-    "nome": "Rafael Lira",
-    "melhor_volta": "48.024"
-   },
-   {
-    "pos": "4",
-    "kart": "25",
-    "nome": "Gabriel Candelore",
-    "melhor_volta": "47.959"
-   },
-   {
-    "pos": "5",
-    "kart": "13",
-    "nome": "Fernando Vilefort",
-    "melhor_volta": "48.028"
-   },
-   {
-    "pos": "6",
-    "kart": "23",
-    "nome": "Agostinho Tozzo",
-    "melhor_volta": "48.595"
-   },
-   {
-    "pos": "7",
-    "kart": "27",
-    "nome": "Geraldo Ferreria",
-    "melhor_volta": "48.367"
-   },
-   {
-    "pos": "8",
-    "kart": "18",
-    "nome": "Carlos Alexandre",
-    "melhor_volta": "48.421"
-   },
-   {
-    "pos": "9",
-    "kart": "8",
-    "nome": "Luiz Felipe",
-    "melhor_volta": "48.543"
-   },
-   {
-    "pos": "10",
-    "kart": "15",
-    "nome": "Magrao",
-    "melhor_volta": "48.136"
-   },
-   {
-    "pos": "11",
-    "kart": "14",
-    "nome": "Luciano Garcia",
-    "melhor_volta": "48.476"
-   },
-   {
-    "pos": "12",
-    "kart": "22",
-    "nome": "Rogerio B.",
-    "melhor_volta": "50.578"
-   }
-  ],
-  "_melhor_volta_impressa": "Paulo Braga 00:47.469"
- },
- {
-  "tracado": "Traçado 6 — Anti-Horário (835m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 1 - 2a Bateria",
-  "tipo": "Corrida",
-  "data": "08/08/2026",
-  "etapa": "1a Etapa (2o semestre)",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "25",
-    "nome": "Luiz Felipe",
-    "melhor_volta": "47.752"
-   },
-   {
-    "pos": "2",
-    "kart": "23",
-    "nome": "Geraldo Ferreria",
-    "melhor_volta": "47.707"
-   },
-   {
-    "pos": "3",
-    "kart": "26",
-    "nome": "Rogerio B.",
-    "melhor_volta": "47.692"
-   },
-   {
-    "pos": "4",
-    "kart": "14",
-    "nome": "Caio Alexander",
-    "melhor_volta": "48.065"
-   },
-   {
-    "pos": "5",
-    "kart": "18",
-    "nome": "Fernando Vilefort",
-    "melhor_volta": "48.343"
-   },
-   {
-    "pos": "6",
-    "kart": "13",
-    "nome": "Carlos Alexandre",
-    "melhor_volta": "48.238"
-   },
-   {
-    "pos": "7",
-    "kart": "8",
-    "nome": "Gabriel Candelore",
-    "melhor_volta": "48.527"
-   },
-   {
-    "pos": "8",
-    "kart": "6",
-    "nome": "Magrao",
-    "melhor_volta": "47.915"
-   },
-   {
-    "pos": "9",
-    "kart": "27",
-    "nome": "Agostinho Tozzo",
-    "melhor_volta": "49.600"
-   },
-   {
-    "pos": "10",
-    "kart": "22",
-    "nome": "Paulo Braga",
-    "melhor_volta": "51.150"
-   },
-   {
-    "pos": "NC",
-    "kart": "15",
-    "nome": "Rafael Lira",
-    "melhor_volta": "48.531"
-   },
-   {
-    "pos": "NC",
-    "kart": "20",
-    "nome": "Luciano Garcia",
-    "melhor_volta": "52.108"
-   }
-  ],
-  "_melhor_volta_impressa": "Rogerio B. 00:47.692",
-  "_nota": "Observacao da prova (impressa): 'COMPETIDOR NUMERAL 15 FOI DESCLASSIFICADO POR MOTIVO DE TOQUE NOS KARTS ADVERSARIOS E OBTEVE VANTAGEM' -- Rafael Lira (kart 15), NC oficial na folha. Tempo mantido no banco (e o melhor-volta dele, so a classificacao da corrida que foi anulada)."
- },
- {
-  "tracado": "Traçado 6 — Anti-Horário (835m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 2 - 1a Bateria",
-  "tipo": "Corrida",
-  "data": "08/08/2026",
-  "etapa": "1a Etapa (2o semestre)",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "26",
-    "nome": "Pietro A.",
-    "melhor_volta": "47.391"
-   },
-   {
-    "pos": "2",
-    "kart": "21",
-    "nome": "Antonio Lazaro",
-    "melhor_volta": "47.897"
-   },
-   {
-    "pos": "3",
-    "kart": "25",
-    "nome": "Nikolas",
-    "melhor_volta": "48.120"
-   },
-   {
-    "pos": "4",
-    "kart": "13",
-    "nome": "Douglas Calixto",
-    "melhor_volta": "48.145"
-   },
-   {
-    "pos": "5",
-    "kart": "15",
-    "nome": "Roniel",
-    "melhor_volta": "48.492"
-   },
-   {
-    "pos": "6",
-    "kart": "18",
-    "nome": "Antonio Neto",
-    "melhor_volta": "48.222"
-   },
-   {
-    "pos": "7",
-    "kart": "24",
-    "nome": "Cadu",
-    "melhor_volta": "48.716"
-   },
-   {
-    "pos": "8",
-    "kart": "27",
-    "nome": "Pedro Kuhn",
-    "melhor_volta": "48.150"
-   },
-   {
-    "pos": "9",
-    "kart": "20",
-    "nome": "G. Filho",
-    "melhor_volta": "49.151"
-   },
-   {
-    "pos": "10",
-    "kart": "8",
-    "nome": "Fernando Adorno",
-    "melhor_volta": "49.272"
-   },
-   {
-    "pos": "11",
-    "kart": "11",
-    "nome": "Eduardo Paiva",
-    "melhor_volta": "49.272"
-   },
-   {
-    "pos": "12",
-    "kart": "6",
-    "nome": "Joao Carvalho",
-    "melhor_volta": "48.921"
-   },
-   {
-    "pos": "13",
-    "kart": "14",
-    "nome": "Pedro Silveira",
-    "melhor_volta": "49.197"
-   }
-  ],
-  "_melhor_volta_impressa": "Pietro A. 00:47.391",
-  "_nota": "Pietro A. = Pietro (alias). P1 na bateria, melhor volta absoluta das 4 folhas limpas do dia. 'Joao Carvalho' (kart 6/21) NAO foi juntado com 'Joao Carlos Carvalho' existente no banco -- nomes parecidos mas incompletos, ambiguo, perguntar ao Pietro. 'Nikolas' tambem NAO foi juntado com 'Nickholas'/'Nickholas R.' existentes -- grafia bem diferente, sem evidencia de ser a mesma pessoa."
- },
- {
-  "tracado": "Traçado 6 — Anti-Horário (835m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 2 - 2a Bateria",
-  "tipo": "Corrida",
-  "data": "08/08/2026",
-  "etapa": "1a Etapa (2o semestre)",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "21",
-    "nome": "Joao Carvalho",
-    "melhor_volta": "48.053"
-   },
-   {
-    "pos": "2",
-    "kart": "24",
-    "nome": "Cadu",
-    "melhor_volta": "48.367"
-   },
-   {
-    "pos": "3",
-    "kart": "25",
-    "nome": "Eduardo Paiva",
-    "melhor_volta": "48.557"
-   },
-   {
-    "pos": "4",
-    "kart": "15",
-    "nome": "G. Filho",
-    "melhor_volta": "48.494"
-   },
-   {
-    "pos": "5",
-    "kart": "13",
-    "nome": "Fernando Adorno",
-    "melhor_volta": "48.815"
-   },
-   {
-    "pos": "6",
-    "kart": "18",
-    "nome": "Pedro Kuhn",
-    "melhor_volta": "48.497"
-   },
-   {
-    "pos": "7",
-    "kart": "14",
-    "nome": "Pietro A.",
-    "melhor_volta": "48.195"
-   },
-   {
-    "pos": "8",
-    "kart": "20",
-    "nome": "Roniel",
-    "melhor_volta": "48.227"
-   },
-   {
-    "pos": "9",
-    "kart": "11",
-    "nome": "Nikolas",
-    "melhor_volta": "48.772"
-   },
-   {
-    "pos": "10",
-    "kart": "6",
-    "nome": "Antonio Lazaro",
-    "melhor_volta": "48.866"
-   },
-   {
-    "pos": "11",
-    "kart": "8",
-    "nome": "Douglas Calixto",
-    "melhor_volta": "48.935"
-   },
-   {
-    "pos": "12",
-    "kart": "26",
-    "nome": "Pedro Silveira",
-    "melhor_volta": "47.959"
-   },
-   {
-    "pos": "13",
-    "kart": "27",
-    "nome": "Antonio Neto",
-    "melhor_volta": "48.867"
-   }
-  ],
-  "_melhor_volta_impressa": "Pedro Silveira 00:47.959",
-  "_nota": "Observacao da prova (impressa): 'COMPETIDOR NUMERAL 24 PENALIZADO COM -2 PONTOS, MOTIVO: TOQUE EM KART ADVERSARIO' -- Cadu (kart 24), penalidade de pontos na classificacao da prova, NAO desclassificacao; tempo e POS mantidos como impressos."
- },
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Indoor Sem O Bronze",
-  "bateria": "Bateria 01",
-  "tipo": "Corrida",
-  "data": "13/08/2026",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "21",
-    "nome": "Rafael Lira",
-    "melhor_volta": "52.783"
-   },
-   {
-    "pos": "2",
-    "kart": "25",
-    "nome": "Paulo Braga",
-    "melhor_volta": "53.492"
-   },
-   {
-    "pos": "3",
-    "kart": "22",
-    "nome": "Candelore",
-    "melhor_volta": "53.235"
-   },
-   {
-    "pos": "4",
-    "kart": "18",
-    "nome": "Thiago Araujo",
-    "melhor_volta": "53.890"
-   },
-   {
-    "pos": "5",
-    "kart": "6",
-    "nome": "Magrao",
-    "melhor_volta": "53.972"
-   },
-   {
-    "pos": "6",
-    "kart": "20",
-    "nome": "Rogerio",
-    "melhor_volta": "54.158"
-   },
-   {
-    "pos": "7",
-    "kart": "28",
-    "nome": "Luciano Gil",
-    "melhor_volta": "54.507"
-   },
-   {
-    "pos": "8",
-    "kart": "24",
-    "nome": "Douglas",
-    "melhor_volta": "54.566"
-   },
-   {
-    "pos": "9",
-    "kart": "14",
-    "nome": "Cadu",
-    "melhor_volta": "55.076"
-   },
-   {
-    "pos": "10",
-    "kart": "13",
-    "nome": "Caim",
-    "melhor_volta": "56.022"
-   },
-   {
-    "pos": "11",
-    "kart": "11",
-    "nome": "Torsian",
-    "melhor_volta": "54.416"
-   },
-   {
-    "pos": "12",
-    "kart": "29",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "54.888"
-   },
-   {
-    "pos": "NC",
-    "kart": "27",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "56.420"
-   }
-  ],
-  "_melhor_volta_impressa": "Rafael Lira 00:52.783"
- },
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Desafio Dinossauros Senior x Veteranos - Grupo 1",
-  "tipo": "Treino Oficial",
-  "data": "15/08/2026",
-  "bateria": "Tomada de Tempo",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "20",
-    "nome": "Paulo Braga",
-    "melhor_volta": "54.481"
-   },
-   {
-    "pos": "2",
-    "kart": "21",
-    "nome": "Antonio Costa",
-    "melhor_volta": "54.578"
-   },
-   {
-    "pos": "3",
-    "kart": "25",
-    "nome": "Daniel",
-    "melhor_volta": "54.638"
-   },
-   {
-    "pos": "4",
-    "kart": "16",
-    "nome": "Luciano Gil",
-    "melhor_volta": "54.699"
-   },
-   {
-    "pos": "5",
-    "kart": "24",
-    "nome": "Agostinho Tozzo",
-    "melhor_volta": "54.987"
-   },
-   {
-    "pos": "6",
-    "kart": "15",
-    "nome": "Magrao",
-    "melhor_volta": "55.043"
-   },
-   {
-    "pos": "7",
-    "kart": "29",
-    "nome": "Carlos Senju",
-    "melhor_volta": "55.134"
-   },
-   {
-    "pos": "8",
-    "kart": "18",
-    "nome": "P.h.",
-    "melhor_volta": "55.341"
-   },
-   {
-    "pos": "9",
-    "kart": "14",
-    "nome": "Enezio",
-    "melhor_volta": "55.430"
-   },
-   {
-    "pos": "10",
-    "kart": "13",
-    "nome": "Torsian",
-    "melhor_volta": "55.441"
-   },
-   {
-    "pos": "11",
-    "kart": "11",
-    "nome": "Fernando Adorno",
-    "melhor_volta": "55.486"
-   },
-   {
-    "pos": "12",
-    "kart": "6",
-    "nome": "Geraldo",
-    "melhor_volta": "55.731"
-   },
-   {
-    "pos": "13",
-    "kart": "4",
-    "nome": "Rogerio B.",
-    "melhor_volta": "55.795"
-   },
-   {
-    "pos": "14",
-    "kart": "22",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "55.810"
-   },
-   {
-    "pos": "15",
-    "kart": "26",
-    "nome": "Caim",
-    "melhor_volta": "56.014"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Desafio Dinossauros Senior x Veteranos - Grupo 1",
-  "tipo": "Treino Oficial",
-  "data": "15/08/2026",
-  "bateria": "1ª Bateria",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "21",
-    "nome": "Antonio Costa",
-    "melhor_volta": "53.521"
-   },
-   {
-    "pos": "2",
-    "kart": "25",
-    "nome": "Daniel",
-    "melhor_volta": "53.720"
-   },
-   {
-    "pos": "3",
-    "kart": "16",
-    "nome": "Luciano Gil",
-    "melhor_volta": "53.535"
-   },
-   {
-    "pos": "4",
-    "kart": "20",
-    "nome": "Paulo Braga",
-    "melhor_volta": "53.872"
-   },
-   {
-    "pos": "5",
-    "kart": "15",
-    "nome": "Magrao",
-    "melhor_volta": "53.855"
-   },
-   {
-    "pos": "6",
-    "kart": "18",
-    "nome": "P.h.",
-    "melhor_volta": "54.698"
-   },
-   {
-    "pos": "7",
-    "kart": "14",
-    "nome": "Enezio",
-    "melhor_volta": "54.872"
-   },
-   {
-    "pos": "8",
-    "kart": "26",
-    "nome": "Caim",
-    "melhor_volta": "53.894"
-   },
-   {
-    "pos": "9",
-    "kart": "13",
-    "nome": "Torsian",
-    "melhor_volta": "54.542"
-   },
-   {
-    "pos": "10",
-    "kart": "4",
-    "nome": "Rogerio B.",
-    "melhor_volta": "55.007"
-   },
-   {
-    "pos": "11",
-    "kart": "22",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "54.721"
-   },
-   {
-    "pos": "12",
-    "kart": "24",
-    "nome": "Agostinho Tozzo",
-    "melhor_volta": "54.843"
-   },
-   {
-    "pos": "13",
-    "kart": "6",
-    "nome": "Geraldo",
-    "melhor_volta": "54.318"
-   },
-   {
-    "pos": "14",
-    "kart": "29",
-    "nome": "Carlos Senju",
-    "melhor_volta": "55.376"
-   },
-   {
-    "pos": "NC",
-    "kart": "11",
-    "nome": "Fernando Adorno",
-    "melhor_volta": "55.741"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Desafio Dinossauros Senior x Veteranos - Grupo 1",
-  "tipo": "Treino Oficial",
-  "data": "15/08/2026",
-  "bateria": "2ª Bateria",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "16",
-    "nome": "Geraldo",
-    "melhor_volta": "53.638"
-   },
-   {
-    "pos": "2",
-    "kart": "22",
-    "nome": "Magrao",
-    "melhor_volta": "53.693"
-   },
-   {
-    "pos": "3",
-    "kart": "25",
-    "nome": "Carlos Senju",
-    "melhor_volta": "54.797"
-   },
-   {
-    "pos": "4",
-    "kart": "24",
-    "nome": "Paulo Braga",
-    "melhor_volta": "54.440"
-   },
-   {
-    "pos": "5",
-    "kart": "18",
-    "nome": "Rogerio B.",
-    "melhor_volta": "55.018"
-   },
-   {
-    "pos": "6",
-    "kart": "4",
-    "nome": "P.h.",
-    "melhor_volta": "54.594"
-   },
-   {
-    "pos": "7",
-    "kart": "21",
-    "nome": "Fernando Adorno",
-    "melhor_volta": "54.302"
-   },
-   {
-    "pos": "8",
-    "kart": "29",
-    "nome": "Daniel",
-    "melhor_volta": "54.368"
-   },
-   {
-    "pos": "9",
-    "kart": "8",
-    "nome": "Antonio Costa",
-    "melhor_volta": "55.222"
-   },
-   {
-    "pos": "10",
-    "kart": "6",
-    "nome": "Luciano Gil",
-    "melhor_volta": "55.178"
-   },
-   {
-    "pos": "11",
-    "kart": "20",
-    "nome": "Agostinho Tozzo",
-    "melhor_volta": "55.439"
-   },
-   {
-    "pos": "12",
-    "kart": "26",
-    "nome": "Caim",
-    "melhor_volta": "55.809"
-   },
-   {
-    "pos": "NC",
-    "kart": "14",
-    "nome": "Enezio",
-    "melhor_volta": "54.865"
-   },
-   {
-    "pos": "NC",
-    "kart": "1",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "56.132"
-   },
-   {
-    "pos": "NC",
-    "kart": "27",
-    "nome": "Torsian",
-    "melhor_volta": "55.984"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 2 - Tomada de Tempo",
-  "tipo": "Tomada de tempo",
-  "data": "12/09/2026",
-  "etapa": "6a Etapa (2o semestre)",
-  "_melhor_volta_impressa": "Pedro Rabaioli 00:54.234",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "13",
-    "nome": "Pedro Rabaioli",
-    "melhor_volta": "54.234"
-   },
-   {
-    "pos": "2",
-    "kart": "27",
-    "nome": "Douglas Calixto",
-    "melhor_volta": "55.003"
-   },
-   {
-    "pos": "3",
-    "kart": "21",
-    "nome": "Pedro Kuhn",
-    "melhor_volta": "55.056"
-   },
-   {
-    "pos": "4",
-    "kart": "15",
-    "nome": "Nickholas",
-    "melhor_volta": "55.323"
-   },
-   {
-    "pos": "5",
-    "kart": "16",
-    "nome": "Kadu",
-    "melhor_volta": "55.640"
-   },
-   {
-    "pos": "6",
-    "kart": "8",
-    "nome": "Joao Carlos",
-    "melhor_volta": "55.642"
-   },
-   {
-    "pos": "7",
-    "kart": "23",
-    "nome": "Antonio Neto",
-    "melhor_volta": "55.800"
-   },
-   {
-    "pos": "8",
-    "kart": "26",
-    "nome": "Eduardo Paiva",
-    "melhor_volta": "56.126"
-   },
-   {
-    "pos": "9",
-    "kart": "28",
-    "nome": "Antonio Lazaro",
-    "melhor_volta": "56.367"
-   },
-   {
-    "pos": "10",
-    "kart": "22",
-    "nome": "Fernando Adorno",
-    "melhor_volta": "57.208"
-   },
-   {
-    "pos": "11",
-    "kart": "12",
-    "nome": "Pedro Silveira",
-    "melhor_volta": "57.883"
-   },
-   {
-    "pos": "12",
-    "kart": "24",
-    "nome": "Gustavo Soma",
-    "melhor_volta": "58.171"
-   }
-  ],
-  "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias)."
- },
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 2 - 1a Bateria",
-  "tipo": "Corrida",
-  "data": "12/09/2026",
-  "etapa": "6a Etapa (2o semestre)",
-  "_melhor_volta_impressa": "Pedro Rabaioli 00:53.606",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "13",
-    "nome": "Pedro Rabaioli",
-    "melhor_volta": "53.606"
-   },
-   {
-    "pos": "2",
-    "kart": "27",
-    "nome": "Douglas Calixto",
-    "melhor_volta": "53.725"
-   },
-   {
-    "pos": "3",
-    "kart": "21",
-    "nome": "Pedro Kuhn",
-    "melhor_volta": "54.335"
-   },
-   {
-    "pos": "4",
-    "kart": "23",
-    "nome": "Antonio Neto",
-    "melhor_volta": "54.185"
-   },
-   {
-    "pos": "5",
-    "kart": "15",
-    "nome": "Nickholas",
-    "melhor_volta": "54.870"
-   },
-   {
-    "pos": "6",
-    "kart": "16",
-    "nome": "Kadu",
-    "melhor_volta": "54.629"
-   },
-   {
-    "pos": "7",
-    "kart": "22",
-    "nome": "Fernando Adorno",
-    "melhor_volta": "54.868"
-   },
-   {
-    "pos": "8",
-    "kart": "28",
-    "nome": "Antonio Lazaro",
-    "melhor_volta": "55.186"
-   },
-   {
-    "pos": "9",
-    "kart": "26",
-    "nome": "Eduardo Paiva",
-    "melhor_volta": "54.460"
-   },
-   {
-    "pos": "10",
-    "kart": "12",
-    "nome": "Pedro Silveira",
-    "melhor_volta": "55.212"
-   },
-   {
-    "pos": "11",
-    "kart": "24",
-    "nome": "Gustavo Soma",
-    "melhor_volta": "56.762"
-   },
-   {
-    "pos": "12",
-    "kart": "30",
-    "nome": "Joao Carlos",
-    "melhor_volta": "55.197"
-   },
-   {
-    "pos": "NC",
-    "kart": "29",
-    "nome": "G. Filho",
-    "melhor_volta": "65.290"
-   }
-  ],
-  "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias). Observacoes impressas: kart 22 (Fernando Adorno) penalizado por ultrapassar em bandeira amarela; kart 29 (G. Filho) DESCLASSIFICADO por entrar nos boxes na contramao — pos NC, tempo 65.290 mantido como impresso (2 voltas)."
- },
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 2 - 2a Bateria",
-  "tipo": "Corrida",
-  "data": "12/09/2026",
-  "etapa": "6a Etapa (2o semestre)",
-  "_melhor_volta_impressa": "Pedro Rabaioli 00:53.884",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "13",
-    "nome": "Joao Carlos",
-    "melhor_volta": "54.589"
-   },
-   {
-    "pos": "2",
-    "kart": "21",
-    "nome": "Pedro Silveira",
-    "melhor_volta": "54.695"
-   },
-   {
-    "pos": "3",
-    "kart": "30",
-    "nome": "Pedro Rabaioli",
-    "melhor_volta": "53.884"
-   },
-   {
-    "pos": "4",
-    "kart": "26",
-    "nome": "Antonio Neto",
-    "melhor_volta": "54.343"
-   },
-   {
-    "pos": "5",
-    "kart": "16",
-    "nome": "Fernando Adorno",
-    "melhor_volta": "54.603"
-   },
-   {
-    "pos": "6",
-    "kart": "29",
-    "nome": "G. Filho",
-    "melhor_volta": "54.166"
-   },
-   {
-    "pos": "7",
-    "kart": "22",
-    "nome": "Kadu",
-    "melhor_volta": "54.668"
-   },
-   {
-    "pos": "8",
-    "kart": "23",
-    "nome": "Eduardo Paiva",
-    "melhor_volta": "54.936"
-   },
-   {
-    "pos": "9",
-    "kart": "12",
-    "nome": "Pedro Kuhn",
-    "melhor_volta": "54.794"
-   },
-   {
-    "pos": "10",
-    "kart": "24",
-    "nome": "Douglas Calixto",
-    "melhor_volta": "54.692"
-   },
-   {
-    "pos": "11",
-    "kart": "28",
-    "nome": "Nickholas",
-    "melhor_volta": "54.770"
-   },
-   {
-    "pos": "12",
-    "kart": "15",
-    "nome": "Antonio Lazaro",
-    "melhor_volta": "54.721"
-   },
-   {
-    "pos": "13",
-    "kart": "27",
-    "nome": "Gustavo Soma",
-    "melhor_volta": "55.295"
-   }
-  ],
-  "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias). Grid invertido. Pietro largou de tras, P3, melhor volta da prova."
- },
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 1 - 1a Bateria",
-  "tipo": "Corrida",
-  "data": "12/09/2026",
-  "etapa": "6a Etapa (2o semestre)",
-  "_melhor_volta_impressa": "Gabriel Candelore 00:53.547",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "27",
-    "nome": "Gabriel Candelore",
-    "melhor_volta": "53.547"
-   },
-   {
-    "pos": "2",
-    "kart": "23",
-    "nome": "Caio Alexander",
-    "melhor_volta": "53.824"
-   },
-   {
-    "pos": "3",
-    "kart": "13",
-    "nome": "Paulo Braga",
-    "melhor_volta": "53.962"
-   },
-   {
-    "pos": "4",
-    "kart": "26",
-    "nome": "Geraldo Neto",
-    "melhor_volta": "54.015"
-   },
-   {
-    "pos": "5",
-    "kart": "22",
-    "nome": "Magrao",
-    "melhor_volta": "53.922"
-   },
-   {
-    "pos": "6",
-    "kart": "11",
-    "nome": "Enezio",
-    "melhor_volta": "54.235"
-   },
-   {
-    "pos": "7",
-    "kart": "20",
-    "nome": "Luiz Felipe",
-    "melhor_volta": "54.830"
-   },
-   {
-    "pos": "8",
-    "kart": "28",
-    "nome": "Rafael Lira",
-    "melhor_volta": "54.582"
-   },
-   {
-    "pos": "9",
-    "kart": "8",
-    "nome": "Fernando Vilefort",
-    "melhor_volta": "54.339"
-   },
-   {
-    "pos": "10",
-    "kart": "24",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "54.822"
-   },
-   {
-    "pos": "11",
-    "kart": "12",
-    "nome": "Gustavo Gondim",
-    "melhor_volta": "54.911"
-   },
-   {
-    "pos": "12",
-    "kart": "16",
-    "nome": "Carlos Alexandre",
-    "melhor_volta": "54.618"
-   },
-   {
-    "pos": "13",
-    "kart": "15",
-    "nome": "Ph",
-    "melhor_volta": "54.550"
-   },
-   {
-    "pos": "14",
-    "kart": "21",
-    "nome": "Rogerio B.",
-    "melhor_volta": "54.779"
-   }
-  ],
-  "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias). Observacao impressa: kart 28 (Rafael Lira) penalizado por toque no kart adversario. 'Ph' = P.h. (alias)."
- },
- {
-  "tracado": "Traçado 9 — Anti-Horário (900m)",
-  "evento": "Competikar Rental Kart",
-  "bateria": "Grupo 1 - 2a Bateria",
-  "tipo": "Corrida",
-  "data": "12/09/2026",
-  "etapa": "6a Etapa (2o semestre)",
-  "_melhor_volta_impressa": "Magrao 00:47.773 (ANOMALO, ver _nota)",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "27",
-    "nome": "Rogerio B.",
-    "melhor_volta": "53.618"
-   },
-   {
-    "pos": "2",
-    "kart": "23",
-    "nome": "Ph",
-    "melhor_volta": "53.799"
-   },
-   {
-    "pos": "3",
-    "kart": "11",
-    "nome": "Fernando Vilefort",
-    "melhor_volta": "53.605"
-   },
-   {
-    "pos": "4",
-    "kart": "13",
-    "nome": "Carlos Alexandre",
-    "melhor_volta": "54.190"
-   },
-   {
-    "pos": "5",
-    "kart": "24",
-    "nome": "Magrao",
-    "melhor_volta": "54.421"
-   },
-   {
-    "pos": "6",
-    "kart": "8",
-    "nome": "Enezio",
-    "melhor_volta": "54.235"
-   },
-   {
-    "pos": "7",
-    "kart": "12",
-    "nome": "Geraldo Neto",
-    "melhor_volta": "54.482"
-   },
-   {
-    "pos": "8",
-    "kart": "15",
-    "nome": "Caio Alexander",
-    "melhor_volta": "54.477"
-   },
-   {
-    "pos": "9",
-    "kart": "26",
-    "nome": "Gustavo Gondim",
-    "melhor_volta": "54.461"
-   },
-   {
-    "pos": "10",
-    "kart": "21",
-    "nome": "Gabriel Candelore",
-    "melhor_volta": "54.078"
-   },
-   {
-    "pos": "11",
-    "kart": "16",
-    "nome": "Paulo Braga",
-    "melhor_volta": "54.062"
-   },
-   {
-    "pos": "12",
-    "kart": "28",
-    "nome": "Luiz Felipe",
-    "melhor_volta": "54.766"
-   },
-   {
-    "pos": "13",
-    "kart": "20",
-    "nome": "Rafael Lira",
-    "melhor_volta": "54.382"
-   },
-   {
-    "pos": "14",
-    "kart": "22",
-    "nome": "Luciano Ltm",
-    "melhor_volta": "55.043"
-   }
-  ],
-  "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias). Magrao: TMV impresso 47.773 e impossivel na pista de 900m (~54s) — erro de cronometragem; gravado o TMV2 dele (54.421, volta 7) como melhor volta."
- },
- {
-  "tracado": "Traçado 1 — Anti-Horário (1280m)",
-  "evento": "Indoor Sem O Bronze",
-  "tipo": "Corrida",
-  "data": "24/09/2026",
-  "bateria": "Bateria 01",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "11",
-    "nome": "Candelore",
-    "melhor_volta": "1:16.071"
-   },
-   {
-    "pos": "2",
-    "kart": "6",
-    "nome": "Paulo Braga",
-    "melhor_volta": "1:16.878"
-   },
-   {
-    "pos": "3",
-    "kart": "27",
-    "nome": "Torsian",
-    "melhor_volta": "1:16.470"
-   },
-   {
-    "pos": "4",
-    "kart": "26",
-    "nome": "Pietro",
-    "melhor_volta": "1:16.942"
-   },
-   {
-    "pos": "5",
-    "kart": "28",
-    "nome": "Luciano Gil",
-    "melhor_volta": "1:17.437"
-   },
-   {
-    "pos": "6",
-    "kart": "30",
-    "nome": "Carlos Magno",
-    "melhor_volta": "1:17.666"
-   },
-   {
-    "pos": "7",
-    "kart": "25",
-    "nome": "Lira",
-    "melhor_volta": "1:17.458"
-   },
-   {
-    "pos": "8",
-    "kart": "29",
-    "nome": "Pedro Silveira",
-    "melhor_volta": "1:17.872"
-   },
-   {
-    "pos": "9",
-    "kart": "13",
-    "nome": "Ltm",
-    "melhor_volta": "1:17.805"
-   },
-   {
-    "pos": "10",
-    "kart": "21",
-    "nome": "Rogerio B.",
-    "melhor_volta": "1:18.098"
-   },
-   {
-    "pos": "11",
-    "kart": "14",
-    "nome": "Ze Antonio",
-    "melhor_volta": "1:18.821"
-   },
-   {
-    "pos": "12",
-    "kart": "20",
-    "nome": "Enezio",
-    "melhor_volta": "1:18.372"
-   },
-   {
-    "pos": "13",
-    "kart": "22",
-    "nome": "Fernando Adorno",
-    "melhor_volta": "1:18.615"
-   },
-   {
-    "pos": "14",
-    "kart": "15",
-    "nome": "Bocardi",
-    "melhor_volta": "1:19.191"
-   },
-   {
-    "pos": "15",
-    "kart": "24",
-    "nome": "Caim",
-    "melhor_volta": "1:18.258"
-   },
-   {
-    "pos": "NC",
-    "kart": "16",
-    "nome": "Luis Fernando",
-    "melhor_volta": "1:18.619"
-   }
-  ]
- },
- {
-  "tracado": "Traçado 1 — Anti-Horário (1280m)",
-  "evento": "Indoor Sem O Bronze",
-  "tipo": "Corrida",
-  "data": "24/09/2026",
-  "bateria": "Bateria 02",
-  "resultados": [
-   {
-    "pos": "1",
-    "kart": "27",
-    "nome": "Alexandre",
-    "melhor_volta": "1:15.875"
-   },
-   {
-    "pos": "2",
-    "kart": "30",
-    "nome": "Magrao",
-    "melhor_volta": "1:15.875"
-   },
-   {
-    "pos": "3",
-    "kart": "11",
-    "nome": "Pietro",
-    "melhor_volta": "1:16.136"
-   },
-   {
-    "pos": "4",
-    "kart": "25",
-    "nome": "Lira",
-    "melhor_volta": "1:17.337"
-   },
-   {
-    "pos": "5",
-    "kart": "28",
-    "nome": "Caio",
-    "melhor_volta": "1:17.718"
-   },
-   {
-    "pos": "NC",
-    "kart": "26",
-    "nome": "Ltm",
-    "melhor_volta": "1:17.953"
-   }
-  ]
- }
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Indoor Sem O Bronze",
+    "bateria": "Bateria 04",
+    "tipo": "Corrida",
+    "data": "08/07/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "23",
+        "nome": "Pietro",
+        "melhor_volta": "54.147"
+      },
+      {
+        "pos": "2",
+        "kart": "20",
+        "nome": "Candelore",
+        "melhor_volta": "54.244"
+      },
+      {
+        "pos": "3",
+        "kart": "13",
+        "nome": "Rogerio",
+        "melhor_volta": "54.343"
+      },
+      {
+        "pos": "4",
+        "kart": "28",
+        "nome": "Lira",
+        "melhor_volta": "54.310"
+      },
+      {
+        "pos": "5",
+        "kart": "11",
+        "nome": "Ltm",
+        "melhor_volta": "54.795"
+      },
+      {
+        "pos": "6",
+        "kart": "06",
+        "nome": "Gustavo",
+        "melhor_volta": "55.813"
+      },
+      {
+        "pos": "NC",
+        "kart": "27",
+        "nome": "Caim",
+        "melhor_volta": "55.507"
+      },
+      {
+        "pos": "NC",
+        "kart": "14",
+        "nome": "Torsian",
+        "melhor_volta": "55.244"
+      },
+      {
+        "pos": "NC",
+        "kart": "21",
+        "nome": "Torsian",
+        "melhor_volta": "56.450"
+      },
+      {
+        "pos": "NC",
+        "kart": "24",
+        "nome": "Caim",
+        "melhor_volta": "1:19.130"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Indoor Sem O Bronze",
+    "bateria": "Bateria 03",
+    "tipo": "Corrida",
+    "data": "16/07/2026",
+    "etapa": "10ª Etapa",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "11",
+        "nome": "Candelore",
+        "melhor_volta": "53.598"
+      },
+      {
+        "pos": "2",
+        "kart": "06",
+        "nome": "Magrao",
+        "melhor_volta": "54.034"
+      },
+      {
+        "pos": "3",
+        "kart": "22",
+        "nome": "Paulo Braga",
+        "melhor_volta": "54.083"
+      },
+      {
+        "pos": "4",
+        "kart": "18",
+        "nome": "Rogerio",
+        "melhor_volta": "54.608"
+      },
+      {
+        "pos": "5",
+        "kart": "8",
+        "nome": "Pietro",
+        "melhor_volta": "54.443"
+      },
+      {
+        "pos": "6",
+        "kart": "29",
+        "nome": "Lira",
+        "melhor_volta": "54.771"
+      },
+      {
+        "pos": "7",
+        "kart": "14",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "54.533"
+      },
+      {
+        "pos": "8",
+        "kart": "28",
+        "nome": "Ltm",
+        "melhor_volta": "54.746"
+      },
+      {
+        "pos": "9",
+        "kart": "13",
+        "nome": "Carlos Magno",
+        "melhor_volta": "55.716"
+      },
+      {
+        "pos": "NC",
+        "kart": "25",
+        "nome": "Caim",
+        "melhor_volta": "55.834"
+      },
+      {
+        "pos": "NC",
+        "kart": "30",
+        "nome": "Enezio",
+        "melhor_volta": "55.994"
+      },
+      {
+        "pos": "NC",
+        "kart": "16",
+        "nome": "Caim",
+        "melhor_volta": "55.430"
+      },
+      {
+        "pos": "NC",
+        "kart": "24",
+        "nome": "Enezio",
+        "melhor_volta": "1:01.516"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 1 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "09/05/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "22",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "35.411"
+      },
+      {
+        "pos": "2",
+        "kart": "28",
+        "nome": "Gustavo Gondim",
+        "melhor_volta": "35.425"
+      },
+      {
+        "pos": "3",
+        "kart": "11",
+        "nome": "Magrao",
+        "melhor_volta": "35.656"
+      },
+      {
+        "pos": "4",
+        "kart": "5",
+        "nome": "G. Filho",
+        "melhor_volta": "35.634"
+      },
+      {
+        "pos": "5",
+        "kart": "29",
+        "nome": "Nickholas",
+        "melhor_volta": "35.669"
+      },
+      {
+        "pos": "6",
+        "kart": "13",
+        "nome": "Roniel",
+        "melhor_volta": "36.255"
+      },
+      {
+        "pos": "7",
+        "kart": "30",
+        "nome": "Agostinho Neto",
+        "melhor_volta": "36.236"
+      },
+      {
+        "pos": "8",
+        "kart": "21",
+        "nome": "Leonardo Fidelis",
+        "melhor_volta": "36.168"
+      },
+      {
+        "pos": "9",
+        "kart": "26",
+        "nome": "Carlos Silva",
+        "melhor_volta": "36.827"
+      },
+      {
+        "pos": "10",
+        "kart": "15",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "37.043"
+      },
+      {
+        "pos": "11",
+        "kart": "8",
+        "nome": "Pietro",
+        "melhor_volta": "37.324"
+      },
+      {
+        "pos": "12",
+        "kart": "24",
+        "nome": "Gabriel Alves",
+        "melhor_volta": "37.353"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 1 - 2a Bateria",
+    "tipo": "Corrida",
+    "data": "09/05/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "28",
+        "nome": "Pietro",
+        "melhor_volta": "35.393"
+      },
+      {
+        "pos": "2",
+        "kart": "5",
+        "nome": "Carlos Silva",
+        "melhor_volta": "35.437"
+      },
+      {
+        "pos": "3",
+        "kart": "22",
+        "nome": "Gabriel Alves",
+        "melhor_volta": "35.698"
+      },
+      {
+        "pos": "4",
+        "kart": "11",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "36.239"
+      },
+      {
+        "pos": "5",
+        "kart": "15",
+        "nome": "Magrao",
+        "melhor_volta": "36.234"
+      },
+      {
+        "pos": "6",
+        "kart": "24",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "36.407"
+      },
+      {
+        "pos": "7",
+        "kart": "30",
+        "nome": "Roniel",
+        "melhor_volta": "35.963"
+      },
+      {
+        "pos": "8",
+        "kart": "21",
+        "nome": "Nickholas",
+        "melhor_volta": "36.128"
+      },
+      {
+        "pos": "9",
+        "kart": "26",
+        "nome": "G. Filho",
+        "melhor_volta": "36.714"
+      },
+      {
+        "pos": "10",
+        "kart": "29",
+        "nome": "Leonardo Fidelis",
+        "melhor_volta": "36.390"
+      },
+      {
+        "pos": "11",
+        "kart": "8",
+        "nome": "Gustavo Gondim",
+        "melhor_volta": "37.159"
+      },
+      {
+        "pos": "NC",
+        "kart": "13",
+        "nome": "Agostinho Neto",
+        "melhor_volta": "36.302"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - Tomada de Tempo",
+    "tipo": "Tomada de tempo",
+    "data": "09/05/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "28",
+        "nome": "Jonathan Ribeiro",
+        "melhor_volta": "36.362"
+      },
+      {
+        "pos": "2",
+        "kart": "30",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "36.413"
+      },
+      {
+        "pos": "3",
+        "kart": "23",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "36.482"
+      },
+      {
+        "pos": "4",
+        "kart": "18",
+        "nome": "Rafael Lira",
+        "melhor_volta": "36.606"
+      },
+      {
+        "pos": "5",
+        "kart": "13",
+        "nome": "Paulo Braga",
+        "melhor_volta": "36.861"
+      },
+      {
+        "pos": "6",
+        "kart": "15",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "37.149"
+      },
+      {
+        "pos": "7",
+        "kart": "11",
+        "nome": "Francisco Silva",
+        "melhor_volta": "37.381"
+      },
+      {
+        "pos": "8",
+        "kart": "26",
+        "nome": "Joao Carlos Carvalho",
+        "melhor_volta": "37.385"
+      },
+      {
+        "pos": "9",
+        "kart": "1",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "37.963"
+      },
+      {
+        "pos": "10",
+        "kart": "21",
+        "nome": "Joao Pedro F. Alves",
+        "melhor_volta": "40.838"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "09/05/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "28",
+        "nome": "Jonathan Ribeiro",
+        "melhor_volta": "35.601"
+      },
+      {
+        "pos": "2",
+        "kart": "30",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "35.873"
+      },
+      {
+        "pos": "3",
+        "kart": "23",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "35.709"
+      },
+      {
+        "pos": "4",
+        "kart": "18",
+        "nome": "Rafael Lira",
+        "melhor_volta": "35.571"
+      },
+      {
+        "pos": "5",
+        "kart": "11",
+        "nome": "Francisco Silva",
+        "melhor_volta": "36.410"
+      },
+      {
+        "pos": "6",
+        "kart": "13",
+        "nome": "Paulo Braga",
+        "melhor_volta": "35.724"
+      },
+      {
+        "pos": "7",
+        "kart": "26",
+        "nome": "Joao Carlos Carvalho",
+        "melhor_volta": "36.614"
+      },
+      {
+        "pos": "8",
+        "kart": "21",
+        "nome": "Joao Pedro F. Alves",
+        "melhor_volta": "36.599"
+      },
+      {
+        "pos": "9",
+        "kart": "1",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "37.038"
+      },
+      {
+        "pos": "10",
+        "kart": "15",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "36.006"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - 2a Bateria",
+    "tipo": "Corrida",
+    "data": "09/05/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "28",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "35.409"
+      },
+      {
+        "pos": "2",
+        "kart": "11",
+        "nome": "Paulo Braga",
+        "melhor_volta": "35.517"
+      },
+      {
+        "pos": "3",
+        "kart": "30",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "35.927"
+      },
+      {
+        "pos": "4",
+        "kart": "21",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "35.454"
+      },
+      {
+        "pos": "5",
+        "kart": "15",
+        "nome": "Jonathan Ribeiro",
+        "melhor_volta": "35.966"
+      },
+      {
+        "pos": "6",
+        "kart": "18",
+        "nome": "Joao Carlos Carvalho",
+        "melhor_volta": "35.924"
+      },
+      {
+        "pos": "7",
+        "kart": "26",
+        "nome": "Rafael Lira",
+        "melhor_volta": "36.010"
+      },
+      {
+        "pos": "8",
+        "kart": "13",
+        "nome": "Francisco Silva",
+        "melhor_volta": "36.966"
+      },
+      {
+        "pos": "9",
+        "kart": "01",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "36.994"
+      },
+      {
+        "pos": "10",
+        "kart": "23",
+        "nome": "Joao Pedro F. Alves",
+        "melhor_volta": "36.995"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 3 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "09/05/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "22",
+        "nome": "Gabriel Candelore",
+        "melhor_volta": "35.086"
+      },
+      {
+        "pos": "2",
+        "kart": "28",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "35.699"
+      },
+      {
+        "pos": "3",
+        "kart": "11",
+        "nome": "Andre Antoniassi",
+        "melhor_volta": "35.588"
+      },
+      {
+        "pos": "4",
+        "kart": "5",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "35.271"
+      },
+      {
+        "pos": "5",
+        "kart": "26",
+        "nome": "Caio Alexander",
+        "melhor_volta": "35.985"
+      },
+      {
+        "pos": "6",
+        "kart": "29",
+        "nome": "Joao Vitor Moura",
+        "melhor_volta": "36.034"
+      },
+      {
+        "pos": "7",
+        "kart": "15",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "36.322"
+      },
+      {
+        "pos": "8",
+        "kart": "25",
+        "nome": "William Jr.",
+        "melhor_volta": "36.241"
+      },
+      {
+        "pos": "9",
+        "kart": "23",
+        "nome": "Antonio Carvalho",
+        "melhor_volta": "35.792"
+      },
+      {
+        "pos": "10",
+        "kart": "30",
+        "nome": "Rogerio B.",
+        "melhor_volta": "35.861"
+      },
+      {
+        "pos": "11",
+        "kart": "13",
+        "nome": "Elias Hoffmann",
+        "melhor_volta": "37.528"
+      }
+    ],
+    "_melhor_volta_impressa": "Gabriel Candelore 35.086"
+  },
+  {
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 3 - 2a Bateria",
+    "tipo": "Corrida",
+    "data": "09/05/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "28",
+        "nome": "Rogerio B.",
+        "melhor_volta": "35.489"
+      },
+      {
+        "pos": "2",
+        "kart": "25",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "35.433"
+      },
+      {
+        "pos": "3",
+        "kart": "23",
+        "nome": "Andre Antoniassi",
+        "melhor_volta": "35.446"
+      },
+      {
+        "pos": "4",
+        "kart": "29",
+        "nome": "Joao Vitor Moura",
+        "melhor_volta": "36.090"
+      },
+      {
+        "pos": "5",
+        "kart": "11",
+        "nome": "Antonio Carvalho",
+        "melhor_volta": "36.345"
+      },
+      {
+        "pos": "6",
+        "kart": "26",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "36.085"
+      },
+      {
+        "pos": "7",
+        "kart": "22",
+        "nome": "Elias Hoffmann",
+        "melhor_volta": "36.303"
+      },
+      {
+        "pos": "8",
+        "kart": "15",
+        "nome": "Caio Alexander",
+        "melhor_volta": "36.061"
+      },
+      {
+        "pos": "9",
+        "kart": "5",
+        "nome": "William Jr.",
+        "melhor_volta": "35.503"
+      },
+      {
+        "pos": "10",
+        "kart": "21",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "35.420"
+      },
+      {
+        "pos": "NC",
+        "kart": "13",
+        "nome": "Gabriel Candelore",
+        "melhor_volta": "35.852"
+      }
+    ],
+    "_melhor_volta_impressa": "Luciano Ltm 35.420"
+  },
+  {
+    "tracado": "Traçado 8 — Sentido Normal (890m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 1 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "27/06/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "29",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "54.779"
+      },
+      {
+        "pos": "2",
+        "kart": "20",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "54.723"
+      },
+      {
+        "pos": "3",
+        "kart": "16",
+        "nome": "Enezio",
+        "melhor_volta": "54.845"
+      },
+      {
+        "pos": "4",
+        "kart": "26",
+        "nome": "G. Filho",
+        "melhor_volta": "54.466"
+      },
+      {
+        "pos": "5",
+        "kart": "23",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "54.785"
+      },
+      {
+        "pos": "6",
+        "kart": "6",
+        "nome": "Joao Carlos Carvalho",
+        "melhor_volta": "55.171"
+      },
+      {
+        "pos": "7",
+        "kart": "21",
+        "nome": "Rafael Lira",
+        "melhor_volta": "55.839"
+      },
+      {
+        "pos": "8",
+        "kart": "14",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "55.896"
+      },
+      {
+        "pos": "9",
+        "kart": "28",
+        "nome": "Willian Jr.",
+        "melhor_volta": "56.474"
+      },
+      {
+        "pos": "10",
+        "kart": "27",
+        "nome": "Leonardo Fidelis",
+        "melhor_volta": "57.325"
+      },
+      {
+        "pos": "11",
+        "kart": "18",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "54.866"
+      },
+      {
+        "pos": "NC",
+        "kart": "22",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "55.812"
+      }
+    ],
+    "_melhor_volta_impressa": "G. Filho 54.466"
+  },
+  {
+    "tracado": "Traçado 8 — Sentido Normal (890m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "27/06/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "28",
+        "nome": "Paulo Braga",
+        "melhor_volta": "53.868"
+      },
+      {
+        "pos": "2",
+        "kart": "11",
+        "nome": "Gabriel Candelore",
+        "melhor_volta": "53.686"
+      },
+      {
+        "pos": "3",
+        "kart": "20",
+        "nome": "Gustavo Gondim",
+        "melhor_volta": "53.693"
+      },
+      {
+        "pos": "4",
+        "kart": "18",
+        "nome": "Jonathan Ribeiro",
+        "melhor_volta": "54.479"
+      },
+      {
+        "pos": "5",
+        "kart": "26",
+        "nome": "Agostinho Neto",
+        "melhor_volta": "54.248"
+      },
+      {
+        "pos": "6",
+        "kart": "16",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "54.144"
+      },
+      {
+        "pos": "7",
+        "kart": "06",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "55.015"
+      },
+      {
+        "pos": "8",
+        "kart": "29",
+        "nome": "Antonio Carvalho",
+        "melhor_volta": "55.037"
+      },
+      {
+        "pos": "9",
+        "kart": "23",
+        "nome": "Francisco Silva",
+        "melhor_volta": "55.021"
+      },
+      {
+        "pos": "10",
+        "kart": "14",
+        "nome": "Joao Pedro F. Alves",
+        "melhor_volta": "57.212"
+      },
+      {
+        "pos": "11",
+        "kart": "27",
+        "nome": "Alcindo",
+        "melhor_volta": "55.786"
+      }
+    ],
+    "_melhor_volta_impressa": "Gabriel Candelore 53.686"
+  },
+  {
+    "tracado": "Traçado 8 — Sentido Normal (890m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 3 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "27/06/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "22",
+        "nome": "Magrao",
+        "melhor_volta": "53.671"
+      },
+      {
+        "pos": "2",
+        "kart": "28",
+        "nome": "Rogerio B.",
+        "melhor_volta": "53.870"
+      },
+      {
+        "pos": "3",
+        "kart": "20",
+        "nome": "Caio Alexander",
+        "melhor_volta": "53.852"
+      },
+      {
+        "pos": "4",
+        "kart": "14",
+        "nome": "Marcelo Abreu",
+        "melhor_volta": "53.822"
+      },
+      {
+        "pos": "5",
+        "kart": "16",
+        "nome": "Roniel",
+        "melhor_volta": "54.245"
+      },
+      {
+        "pos": "6",
+        "kart": "27",
+        "nome": "Pietro",
+        "melhor_volta": "54.583"
+      },
+      {
+        "pos": "7",
+        "kart": "29",
+        "nome": "Nickholas R.",
+        "melhor_volta": "54.339"
+      },
+      {
+        "pos": "8",
+        "kart": "18",
+        "nome": "Joao Vitor",
+        "melhor_volta": "54.867"
+      },
+      {
+        "pos": "9",
+        "kart": "23",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "54.928"
+      },
+      {
+        "pos": "10",
+        "kart": "26",
+        "nome": "Elias Hoffmann",
+        "melhor_volta": "55.933"
+      },
+      {
+        "pos": "11",
+        "kart": "11",
+        "nome": "Gilberto M.",
+        "melhor_volta": "58.437"
+      },
+      {
+        "pos": "12",
+        "kart": "8",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "54.011"
+      }
+    ],
+    "_melhor_volta_impressa": "Magrao 53.671"
+  },
+  {
+    "tracado": "Traçado 8 — Sentido Normal (890m)",
+    "evento": "Indoor Sem O Bronze",
+    "bateria": "Bateria 01",
+    "tipo": "Corrida",
+    "data": "25/06/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "26",
+        "nome": "Candelore",
+        "melhor_volta": "53.145"
+      },
+      {
+        "pos": "2",
+        "kart": "18",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "53.876"
+      },
+      {
+        "pos": "3",
+        "kart": "11",
+        "nome": "Pietro",
+        "melhor_volta": "53.992"
+      },
+      {
+        "pos": "4",
+        "kart": "29",
+        "nome": "Rogerio",
+        "melhor_volta": "54.022"
+      },
+      {
+        "pos": "5",
+        "kart": "22",
+        "nome": "Nickholas",
+        "melhor_volta": "54.139"
+      },
+      {
+        "pos": "6",
+        "kart": "15",
+        "nome": "Eduardo",
+        "melhor_volta": "54.360"
+      },
+      {
+        "pos": "7",
+        "kart": "27",
+        "nome": "Joao Carlos",
+        "melhor_volta": "55.116"
+      },
+      {
+        "pos": "8",
+        "kart": "28",
+        "nome": "Antonio",
+        "melhor_volta": "54.415"
+      },
+      {
+        "pos": "NC",
+        "kart": "16",
+        "nome": "Geraldo",
+        "melhor_volta": "53.325"
+      },
+      {
+        "pos": "NC",
+        "kart": "13",
+        "nome": "Geraldo",
+        "melhor_volta": "55.096"
+      }
+    ],
+    "_melhor_volta_impressa": "Candelore 53.145"
+  },
+  {
+    "tracado": "Traçado 8 — Sentido Normal (890m)",
+    "evento": "Indoor Sem O Bronze",
+    "bateria": "Bateria 02",
+    "tipo": "Corrida",
+    "data": "25/06/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "26",
+        "nome": "Geraldo",
+        "melhor_volta": "53.221"
+      },
+      {
+        "pos": "2",
+        "kart": "22",
+        "nome": "Pietro",
+        "melhor_volta": "53.806"
+      },
+      {
+        "pos": "3",
+        "kart": "16",
+        "nome": "Jonathan",
+        "melhor_volta": "53.728"
+      },
+      {
+        "pos": "4",
+        "kart": "11",
+        "nome": "Rogerio",
+        "melhor_volta": "53.914"
+      },
+      {
+        "pos": "5",
+        "kart": "155",
+        "nome": "Joao Carlos",
+        "melhor_volta": "54.114"
+      },
+      {
+        "pos": "6",
+        "kart": "11",
+        "nome": "Nickholas",
+        "melhor_volta": "54.613"
+      },
+      {
+        "pos": "7",
+        "kart": "6",
+        "nome": "Fernando",
+        "melhor_volta": "54.510"
+      },
+      {
+        "pos": "8",
+        "kart": "27",
+        "nome": "Antonio L.",
+        "melhor_volta": "55.404"
+      },
+      {
+        "pos": "9",
+        "kart": "14",
+        "nome": "Eduardo",
+        "melhor_volta": "55.668"
+      },
+      {
+        "pos": "10",
+        "kart": "29",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "55.247"
+      }
+    ],
+    "_melhor_volta_impressa": "Geraldo 53.221",
+    "_nota": "'Competidor 4' (kart 4, NC, 03:42.153) EXCLUIDO: e placeholder de competidor nao identificado, nao um piloto. Incluir criaria piloto fantasma."
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
+    "bateria": "Tomada de Tempo",
+    "tipo": "Classificação",
+    "data": "18/07/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "16",
+        "nome": "Magrao",
+        "melhor_volta": "54.380"
+      },
+      {
+        "pos": "2",
+        "kart": "26",
+        "nome": "Paulo Braga",
+        "melhor_volta": "54.789"
+      },
+      {
+        "pos": "3",
+        "kart": "18",
+        "nome": "Narigas",
+        "melhor_volta": "55.203"
+      },
+      {
+        "pos": "4",
+        "kart": "20",
+        "nome": "Rogerio T.",
+        "melhor_volta": "55.324"
+      },
+      {
+        "pos": "5",
+        "kart": "22",
+        "nome": "Torsian",
+        "melhor_volta": "55.324"
+      },
+      {
+        "pos": "6",
+        "kart": "29",
+        "nome": "Enezio",
+        "melhor_volta": "55.484"
+      },
+      {
+        "pos": "7",
+        "kart": "23",
+        "nome": "Picachu",
+        "melhor_volta": "55.600"
+      },
+      {
+        "pos": "8",
+        "kart": "28",
+        "nome": "Dede",
+        "melhor_volta": "55.679"
+      },
+      {
+        "pos": "9",
+        "kart": "13",
+        "nome": "Marcelo Goes",
+        "melhor_volta": "55.710"
+      },
+      {
+        "pos": "10",
+        "kart": "27",
+        "nome": "Luciano Gil",
+        "melhor_volta": "55.776"
+      },
+      {
+        "pos": "11",
+        "kart": "14",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "55.911"
+      },
+      {
+        "pos": "12",
+        "kart": "15",
+        "nome": "Alisson Noronha",
+        "melhor_volta": "56.012"
+      },
+      {
+        "pos": "13",
+        "kart": "8",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "56.181"
+      },
+      {
+        "pos": "14",
+        "kart": "06",
+        "nome": "Caim",
+        "melhor_volta": "56.804"
+      },
+      {
+        "pos": "15",
+        "kart": "11",
+        "nome": "Carlos Magno",
+        "melhor_volta": "57.091"
+      },
+      {
+        "pos": "16",
+        "kart": "21",
+        "nome": "Eduardo Melo",
+        "melhor_volta": "57.572"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
+    "bateria": "Bateria 01",
+    "tipo": "Corrida",
+    "data": "18/07/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "26",
+        "nome": "Paulo Braga",
+        "melhor_volta": "53.533"
+      },
+      {
+        "pos": "2",
+        "kart": "16",
+        "nome": "Magrao",
+        "melhor_volta": "53.657"
+      },
+      {
+        "pos": "3",
+        "kart": "20",
+        "nome": "Rogerio T.",
+        "melhor_volta": "54.071"
+      },
+      {
+        "pos": "4",
+        "kart": "22",
+        "nome": "Torsian",
+        "melhor_volta": "54.328"
+      },
+      {
+        "pos": "5",
+        "kart": "29",
+        "nome": "Enezio",
+        "melhor_volta": "55.027"
+      },
+      {
+        "pos": "6",
+        "kart": "15",
+        "nome": "Alisson Noronha",
+        "melhor_volta": "54.768"
+      },
+      {
+        "pos": "7",
+        "kart": "28",
+        "nome": "Dede",
+        "melhor_volta": "54.555"
+      },
+      {
+        "pos": "8",
+        "kart": "18",
+        "nome": "Narigas",
+        "melhor_volta": "54.436"
+      },
+      {
+        "pos": "9",
+        "kart": "13",
+        "nome": "Marcelo Goes",
+        "melhor_volta": "54.803"
+      },
+      {
+        "pos": "10",
+        "kart": "23",
+        "nome": "Picachu",
+        "melhor_volta": "55.792"
+      },
+      {
+        "pos": "11",
+        "kart": "8",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "54.966"
+      },
+      {
+        "pos": "12",
+        "kart": "27",
+        "nome": "Luciano Gil",
+        "melhor_volta": "55.721"
+      },
+      {
+        "pos": "13",
+        "kart": "06",
+        "nome": "Caim",
+        "melhor_volta": "55.489"
+      },
+      {
+        "pos": "14",
+        "kart": "14",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "55.424"
+      },
+      {
+        "pos": "15",
+        "kart": "21",
+        "nome": "Eduardo Melo",
+        "melhor_volta": "55.675"
+      },
+      {
+        "pos": "16",
+        "kart": "11",
+        "nome": "Carlos Magno",
+        "melhor_volta": "55.967"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Desafio Senior x Graduados Dinossauro (Etapa 10)",
+    "bateria": "Bateria 02",
+    "tipo": "Corrida",
+    "data": "18/07/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "29",
+        "nome": "Luciano Gil",
+        "melhor_volta": "54.995"
+      },
+      {
+        "pos": "2",
+        "kart": "20",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "54.996"
+      },
+      {
+        "pos": "3",
+        "kart": "22",
+        "nome": "Caim",
+        "melhor_volta": "55.007"
+      },
+      {
+        "pos": "4",
+        "kart": "11",
+        "nome": "Paulo Braga",
+        "melhor_volta": "54.810"
+      },
+      {
+        "pos": "5",
+        "kart": "15",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "55.004"
+      },
+      {
+        "pos": "6",
+        "kart": "14",
+        "nome": "Rogerio B.",
+        "melhor_volta": "54.499"
+      },
+      {
+        "pos": "7",
+        "kart": "8",
+        "nome": "Alisson Noronha",
+        "melhor_volta": "54.648"
+      },
+      {
+        "pos": "8",
+        "kart": "13",
+        "nome": "Narigas",
+        "melhor_volta": "54.439"
+      },
+      {
+        "pos": "9",
+        "kart": "23",
+        "nome": "Dede",
+        "melhor_volta": "54.715"
+      },
+      {
+        "pos": "10",
+        "kart": "26",
+        "nome": "Carlos Magno",
+        "melhor_volta": "54.945"
+      },
+      {
+        "pos": "11",
+        "kart": "6",
+        "nome": "Torsian",
+        "melhor_volta": "55.009"
+      },
+      {
+        "pos": "12",
+        "kart": "16",
+        "nome": "Eduardo Melo",
+        "melhor_volta": "54.953"
+      },
+      {
+        "pos": "13",
+        "kart": "18",
+        "nome": "Marcelo Goes",
+        "melhor_volta": "55.137"
+      },
+      {
+        "pos": "14",
+        "kart": "21",
+        "nome": "Magrao",
+        "melhor_volta": "54.725"
+      },
+      {
+        "pos": "15",
+        "kart": "27",
+        "nome": "Enezio",
+        "melhor_volta": "56.955"
+      },
+      {
+        "pos": "EX",
+        "kart": "28",
+        "nome": "Picachu",
+        "melhor_volta": "55.234"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 10 — Anti-Horário (780m)",
+    "evento": "Indoor Sem O Bronze",
+    "bateria": "Bateria 07",
+    "tipo": "Corrida",
+    "data": "22/07/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "133",
+        "nome": "Candelore",
+        "melhor_volta": "44.829"
+      },
+      {
+        "pos": "2",
+        "kart": "28",
+        "nome": "Lira",
+        "melhor_volta": "45.175"
+      },
+      {
+        "pos": "3",
+        "kart": "14",
+        "nome": "Luiz Lira",
+        "melhor_volta": "45.146"
+      },
+      {
+        "pos": "4",
+        "kart": "21",
+        "nome": "Paulo Braga",
+        "melhor_volta": "45.960"
+      },
+      {
+        "pos": "5",
+        "kart": "15",
+        "nome": "Pietro",
+        "melhor_volta": "45.705"
+      },
+      {
+        "pos": "6",
+        "kart": "29",
+        "nome": "Rogerio B.",
+        "melhor_volta": "46.208"
+      },
+      {
+        "pos": "7",
+        "kart": "11",
+        "nome": "Ltm",
+        "melhor_volta": "46.204"
+      },
+      {
+        "pos": "8",
+        "kart": "8",
+        "nome": "Gilberto",
+        "melhor_volta": "48.162"
+      },
+      {
+        "pos": "9",
+        "kart": "22",
+        "nome": "Caim",
+        "melhor_volta": "46.722"
+      },
+      {
+        "pos": "NC",
+        "kart": "25",
+        "nome": "Caporezo",
+        "melhor_volta": "49.057"
+      },
+      {
+        "pos": "NC",
+        "kart": "188",
+        "nome": "Torsian",
+        "melhor_volta": "46.785"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 6 — Anti-Horário (835m)",
+    "evento": "Indoor Sem O Bronze",
+    "bateria": "Bateria 04",
+    "tipo": "Corrida",
+    "data": "30/07/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "18",
+        "nome": "Candelore",
+        "melhor_volta": "47.418"
+      },
+      {
+        "pos": "2",
+        "kart": "16",
+        "nome": "Lira",
+        "melhor_volta": "47.348"
+      },
+      {
+        "pos": "3",
+        "kart": "22",
+        "nome": "Caio",
+        "melhor_volta": "47.520"
+      },
+      {
+        "pos": "4",
+        "kart": "15",
+        "nome": "Ltm",
+        "melhor_volta": "47.570"
+      },
+      {
+        "pos": "5",
+        "kart": "11",
+        "nome": "Magrao",
+        "melhor_volta": "47.923"
+      },
+      {
+        "pos": "6",
+        "kart": "28",
+        "nome": "Enezio",
+        "melhor_volta": "47.990"
+      },
+      {
+        "pos": "7",
+        "kart": "14",
+        "nome": "Cadu",
+        "melhor_volta": "47.957"
+      },
+      {
+        "pos": "8",
+        "kart": "20",
+        "nome": "Rogerio",
+        "melhor_volta": "48.277"
+      },
+      {
+        "pos": "9",
+        "kart": "4",
+        "nome": "Alexandre",
+        "melhor_volta": "48.461"
+      },
+      {
+        "pos": "10",
+        "kart": "23",
+        "nome": "Pedro",
+        "melhor_volta": "48.066"
+      },
+      {
+        "pos": "11",
+        "kart": "29",
+        "nome": "Pietro",
+        "melhor_volta": "49.184"
+      },
+      {
+        "pos": "12",
+        "kart": "30",
+        "nome": "Fernando",
+        "melhor_volta": "48.586"
+      },
+      {
+        "pos": "NC",
+        "kart": "26",
+        "nome": "Arthur",
+        "melhor_volta": "47.461"
+      },
+      {
+        "pos": "NC",
+        "kart": "25",
+        "nome": "Arthur B.",
+        "melhor_volta": "50.284"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 6 — Anti-Horário (835m)",
+    "evento": "Indoor Sem O Bronze",
+    "bateria": "Bateria 04",
+    "tipo": "Corrida",
+    "data": "06/08/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "15",
+        "nome": "Pietro",
+        "melhor_volta": "47.342"
+      },
+      {
+        "pos": "2",
+        "kart": "18",
+        "nome": "Candelore",
+        "melhor_volta": "47.741"
+      },
+      {
+        "pos": "3",
+        "kart": "11",
+        "nome": "Rafael Lira",
+        "melhor_volta": "47.676"
+      },
+      {
+        "pos": "4",
+        "kart": "28",
+        "nome": "Paulo Braga",
+        "melhor_volta": "48.558"
+      },
+      {
+        "pos": "5",
+        "kart": "20",
+        "nome": "Douglas",
+        "melhor_volta": "48.233"
+      },
+      {
+        "pos": "6",
+        "kart": "16",
+        "nome": "Geraldo",
+        "melhor_volta": "47.322"
+      },
+      {
+        "pos": "7",
+        "kart": "25",
+        "nome": "Agostinho",
+        "melhor_volta": "50.045"
+      },
+      {
+        "pos": "8",
+        "kart": "27",
+        "nome": "Pedro S.",
+        "melhor_volta": "50.053"
+      },
+      {
+        "pos": "9",
+        "kart": "23",
+        "nome": "Fernando",
+        "melhor_volta": "48.236"
+      },
+      {
+        "pos": "10",
+        "kart": "22",
+        "nome": "Big Foot",
+        "melhor_volta": "48.222"
+      },
+      {
+        "pos": "12",
+        "kart": "13",
+        "nome": "E. Paiva",
+        "melhor_volta": "48.329"
+      },
+      {
+        "pos": "13",
+        "kart": "6",
+        "nome": "Luiz Lira",
+        "melhor_volta": "47.612"
+      },
+      {
+        "pos": "NC",
+        "kart": "14",
+        "nome": "Rogerio B.",
+        "melhor_volta": "47.916"
+      },
+      {
+        "pos": "NC",
+        "kart": "4",
+        "nome": "Cadu",
+        "melhor_volta": "48.481"
+      },
+      {
+        "pos": "NC",
+        "kart": "21",
+        "nome": "Candelore",
+        "melhor_volta": "49.473"
+      },
+      {
+        "pos": "NC",
+        "kart": "29",
+        "nome": "Caio",
+        "melhor_volta": "48.522"
+      }
+    ],
+    "_nota": "'Competidor 26' (kart 26, pos 11, 46.723 -- estava batendo o recorde geral do Tracado 6 por engano) e 'Competidor 19' (kart 19, NC, 2:21.498) EXCLUIDOS: mesmo padrao ja tratado na folha de 25/06 -- placeholder de competidor nao identificado no sistema LapTime, nao um piloto real. Incluir criaria piloto fantasma / recorde falso."
+  },
+  {
+    "tracado": "Traçado 6 — Anti-Horário (835m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 1 - Tomada de Tempo",
+    "tipo": "Tomada de tempo",
+    "data": "08/08/2026",
+    "etapa": "1a Etapa (2o semestre)",
+    "resultados": [
+      {
+        "pos": "2",
+        "kart": "26",
+        "nome": "Paulo Braga",
+        "melhor_volta": "48.014"
+      },
+      {
+        "pos": "3",
+        "kart": "6",
+        "nome": "Rafael Lira",
+        "melhor_volta": "48.788"
+      },
+      {
+        "pos": "4",
+        "kart": "14",
+        "nome": "Luciano Garcia",
+        "melhor_volta": "48.975"
+      },
+      {
+        "pos": "5",
+        "kart": "23",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "49.157"
+      },
+      {
+        "pos": "6",
+        "kart": "25",
+        "nome": "Gabriel Candelore",
+        "melhor_volta": "49.394"
+      },
+      {
+        "pos": "7",
+        "kart": "8",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "49.395"
+      },
+      {
+        "pos": "8",
+        "kart": "15",
+        "nome": "Magrao",
+        "melhor_volta": "49.434"
+      },
+      {
+        "pos": "9",
+        "kart": "13",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "49.656"
+      },
+      {
+        "pos": "10",
+        "kart": "18",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "49.746"
+      },
+      {
+        "pos": "11",
+        "kart": "22",
+        "nome": "Rogerio B.",
+        "melhor_volta": "50.129"
+      },
+      {
+        "pos": "12",
+        "kart": "27",
+        "nome": "Geraldo Ferreria",
+        "melhor_volta": "52.022"
+      }
+    ],
+    "_melhor_volta_impressa": "Caio Alexsander 00:05.646 (ANOMALO, ver _nota)",
+    "_nota": "Caio Alexsander (kart 20, POS 1 impresso) EXCLUIDO desta Tomada de Tempo: a folha registra TMV 00:05.646 (volta 3 de 5) e TMV2 00:07.543 (volta 4) -- fisicamente impossivel num tracado de 835m (resto da folha fica 48-52s, e as baterias do mesmo Grupo 1 confirmam ele na faixa normal). Erro de sensor/transponder na tomada de tempo. Ele aparece normal nas baterias 1 e 2 (kart 20 e 14). POS impressos 2-12 mantidos como na folha (sem renumerar) para nao adulterar o documento oficial."
+  },
+  {
+    "tracado": "Traçado 6 — Anti-Horário (835m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 1 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "08/08/2026",
+    "etapa": "1a Etapa (2o semestre)",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "26",
+        "nome": "Paulo Braga",
+        "melhor_volta": "47.469"
+      },
+      {
+        "pos": "2",
+        "kart": "20",
+        "nome": "Caio Alexander",
+        "melhor_volta": "47.986"
+      },
+      {
+        "pos": "3",
+        "kart": "6",
+        "nome": "Rafael Lira",
+        "melhor_volta": "48.024"
+      },
+      {
+        "pos": "4",
+        "kart": "25",
+        "nome": "Gabriel Candelore",
+        "melhor_volta": "47.959"
+      },
+      {
+        "pos": "5",
+        "kart": "13",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "48.028"
+      },
+      {
+        "pos": "6",
+        "kart": "23",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "48.595"
+      },
+      {
+        "pos": "7",
+        "kart": "27",
+        "nome": "Geraldo Ferreria",
+        "melhor_volta": "48.367"
+      },
+      {
+        "pos": "8",
+        "kart": "18",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "48.421"
+      },
+      {
+        "pos": "9",
+        "kart": "8",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "48.543"
+      },
+      {
+        "pos": "10",
+        "kart": "15",
+        "nome": "Magrao",
+        "melhor_volta": "48.136"
+      },
+      {
+        "pos": "11",
+        "kart": "14",
+        "nome": "Luciano Garcia",
+        "melhor_volta": "48.476"
+      },
+      {
+        "pos": "12",
+        "kart": "22",
+        "nome": "Rogerio B.",
+        "melhor_volta": "50.578"
+      }
+    ],
+    "_melhor_volta_impressa": "Paulo Braga 00:47.469"
+  },
+  {
+    "tracado": "Traçado 6 — Anti-Horário (835m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 1 - 2a Bateria",
+    "tipo": "Corrida",
+    "data": "08/08/2026",
+    "etapa": "1a Etapa (2o semestre)",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "25",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "47.752"
+      },
+      {
+        "pos": "2",
+        "kart": "23",
+        "nome": "Geraldo Ferreria",
+        "melhor_volta": "47.707"
+      },
+      {
+        "pos": "3",
+        "kart": "26",
+        "nome": "Rogerio B.",
+        "melhor_volta": "47.692"
+      },
+      {
+        "pos": "4",
+        "kart": "14",
+        "nome": "Caio Alexander",
+        "melhor_volta": "48.065"
+      },
+      {
+        "pos": "5",
+        "kart": "18",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "48.343"
+      },
+      {
+        "pos": "6",
+        "kart": "13",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "48.238"
+      },
+      {
+        "pos": "7",
+        "kart": "8",
+        "nome": "Gabriel Candelore",
+        "melhor_volta": "48.527"
+      },
+      {
+        "pos": "8",
+        "kart": "6",
+        "nome": "Magrao",
+        "melhor_volta": "47.915"
+      },
+      {
+        "pos": "9",
+        "kart": "27",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "49.600"
+      },
+      {
+        "pos": "10",
+        "kart": "22",
+        "nome": "Paulo Braga",
+        "melhor_volta": "51.150"
+      },
+      {
+        "pos": "NC",
+        "kart": "15",
+        "nome": "Rafael Lira",
+        "melhor_volta": "48.531"
+      },
+      {
+        "pos": "NC",
+        "kart": "20",
+        "nome": "Luciano Garcia",
+        "melhor_volta": "52.108"
+      }
+    ],
+    "_melhor_volta_impressa": "Rogerio B. 00:47.692",
+    "_nota": "Observacao da prova (impressa): 'COMPETIDOR NUMERAL 15 FOI DESCLASSIFICADO POR MOTIVO DE TOQUE NOS KARTS ADVERSARIOS E OBTEVE VANTAGEM' -- Rafael Lira (kart 15), NC oficial na folha. Tempo mantido no banco (e o melhor-volta dele, so a classificacao da corrida que foi anulada)."
+  },
+  {
+    "tracado": "Traçado 6 — Anti-Horário (835m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "08/08/2026",
+    "etapa": "1a Etapa (2o semestre)",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "26",
+        "nome": "Pietro A.",
+        "melhor_volta": "47.391"
+      },
+      {
+        "pos": "2",
+        "kart": "21",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "47.897"
+      },
+      {
+        "pos": "3",
+        "kart": "25",
+        "nome": "Nikolas",
+        "melhor_volta": "48.120"
+      },
+      {
+        "pos": "4",
+        "kart": "13",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "48.145"
+      },
+      {
+        "pos": "5",
+        "kart": "15",
+        "nome": "Roniel",
+        "melhor_volta": "48.492"
+      },
+      {
+        "pos": "6",
+        "kart": "18",
+        "nome": "Antonio Neto",
+        "melhor_volta": "48.222"
+      },
+      {
+        "pos": "7",
+        "kart": "24",
+        "nome": "Cadu",
+        "melhor_volta": "48.716"
+      },
+      {
+        "pos": "8",
+        "kart": "27",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "48.150"
+      },
+      {
+        "pos": "9",
+        "kart": "20",
+        "nome": "G. Filho",
+        "melhor_volta": "49.151"
+      },
+      {
+        "pos": "10",
+        "kart": "8",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "49.272"
+      },
+      {
+        "pos": "11",
+        "kart": "11",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "49.272"
+      },
+      {
+        "pos": "12",
+        "kart": "6",
+        "nome": "Joao Carvalho",
+        "melhor_volta": "48.921"
+      },
+      {
+        "pos": "13",
+        "kart": "14",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "49.197"
+      }
+    ],
+    "_melhor_volta_impressa": "Pietro A. 00:47.391",
+    "_nota": "Pietro A. = Pietro (alias). P1 na bateria, melhor volta absoluta das 4 folhas limpas do dia. 'Joao Carvalho' (kart 6/21) NAO foi juntado com 'Joao Carlos Carvalho' existente no banco -- nomes parecidos mas incompletos, ambiguo, perguntar ao Pietro. 'Nikolas' tambem NAO foi juntado com 'Nickholas'/'Nickholas R.' existentes -- grafia bem diferente, sem evidencia de ser a mesma pessoa."
+  },
+  {
+    "tracado": "Traçado 6 — Anti-Horário (835m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - 2a Bateria",
+    "tipo": "Corrida",
+    "data": "08/08/2026",
+    "etapa": "1a Etapa (2o semestre)",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "21",
+        "nome": "Joao Carvalho",
+        "melhor_volta": "48.053"
+      },
+      {
+        "pos": "2",
+        "kart": "24",
+        "nome": "Cadu",
+        "melhor_volta": "48.367"
+      },
+      {
+        "pos": "3",
+        "kart": "25",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "48.557"
+      },
+      {
+        "pos": "4",
+        "kart": "15",
+        "nome": "G. Filho",
+        "melhor_volta": "48.494"
+      },
+      {
+        "pos": "5",
+        "kart": "13",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "48.815"
+      },
+      {
+        "pos": "6",
+        "kart": "18",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "48.497"
+      },
+      {
+        "pos": "7",
+        "kart": "14",
+        "nome": "Pietro A.",
+        "melhor_volta": "48.195"
+      },
+      {
+        "pos": "8",
+        "kart": "20",
+        "nome": "Roniel",
+        "melhor_volta": "48.227"
+      },
+      {
+        "pos": "9",
+        "kart": "11",
+        "nome": "Nikolas",
+        "melhor_volta": "48.772"
+      },
+      {
+        "pos": "10",
+        "kart": "6",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "48.866"
+      },
+      {
+        "pos": "11",
+        "kart": "8",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "48.935"
+      },
+      {
+        "pos": "12",
+        "kart": "26",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "47.959"
+      },
+      {
+        "pos": "13",
+        "kart": "27",
+        "nome": "Antonio Neto",
+        "melhor_volta": "48.867"
+      }
+    ],
+    "_melhor_volta_impressa": "Pedro Silveira 00:47.959",
+    "_nota": "Observacao da prova (impressa): 'COMPETIDOR NUMERAL 24 PENALIZADO COM -2 PONTOS, MOTIVO: TOQUE EM KART ADVERSARIO' -- Cadu (kart 24), penalidade de pontos na classificacao da prova, NAO desclassificacao; tempo e POS mantidos como impressos."
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Indoor Sem O Bronze",
+    "bateria": "Bateria 01",
+    "tipo": "Corrida",
+    "data": "13/08/2026",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "21",
+        "nome": "Rafael Lira",
+        "melhor_volta": "52.783"
+      },
+      {
+        "pos": "2",
+        "kart": "25",
+        "nome": "Paulo Braga",
+        "melhor_volta": "53.492"
+      },
+      {
+        "pos": "3",
+        "kart": "22",
+        "nome": "Candelore",
+        "melhor_volta": "53.235"
+      },
+      {
+        "pos": "4",
+        "kart": "18",
+        "nome": "Thiago Araujo",
+        "melhor_volta": "53.890"
+      },
+      {
+        "pos": "5",
+        "kart": "6",
+        "nome": "Magrao",
+        "melhor_volta": "53.972"
+      },
+      {
+        "pos": "6",
+        "kart": "20",
+        "nome": "Rogerio",
+        "melhor_volta": "54.158"
+      },
+      {
+        "pos": "7",
+        "kart": "28",
+        "nome": "Luciano Gil",
+        "melhor_volta": "54.507"
+      },
+      {
+        "pos": "8",
+        "kart": "24",
+        "nome": "Douglas",
+        "melhor_volta": "54.566"
+      },
+      {
+        "pos": "9",
+        "kart": "14",
+        "nome": "Cadu",
+        "melhor_volta": "55.076"
+      },
+      {
+        "pos": "10",
+        "kart": "13",
+        "nome": "Caim",
+        "melhor_volta": "56.022"
+      },
+      {
+        "pos": "11",
+        "kart": "11",
+        "nome": "Torsian",
+        "melhor_volta": "54.416"
+      },
+      {
+        "pos": "12",
+        "kart": "29",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "54.888"
+      },
+      {
+        "pos": "NC",
+        "kart": "27",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "56.420"
+      }
+    ],
+    "_melhor_volta_impressa": "Rafael Lira 00:52.783"
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Desafio Dinossauros Senior x Veteranos - Grupo 1",
+    "tipo": "Treino Oficial",
+    "data": "15/08/2026",
+    "bateria": "Tomada de Tempo",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "20",
+        "nome": "Paulo Braga",
+        "melhor_volta": "54.481"
+      },
+      {
+        "pos": "2",
+        "kart": "21",
+        "nome": "Antonio Costa",
+        "melhor_volta": "54.578"
+      },
+      {
+        "pos": "3",
+        "kart": "25",
+        "nome": "Daniel",
+        "melhor_volta": "54.638"
+      },
+      {
+        "pos": "4",
+        "kart": "16",
+        "nome": "Luciano Gil",
+        "melhor_volta": "54.699"
+      },
+      {
+        "pos": "5",
+        "kart": "24",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "54.987"
+      },
+      {
+        "pos": "6",
+        "kart": "15",
+        "nome": "Magrao",
+        "melhor_volta": "55.043"
+      },
+      {
+        "pos": "7",
+        "kart": "29",
+        "nome": "Carlos Senju",
+        "melhor_volta": "55.134"
+      },
+      {
+        "pos": "8",
+        "kart": "18",
+        "nome": "P.h.",
+        "melhor_volta": "55.341"
+      },
+      {
+        "pos": "9",
+        "kart": "14",
+        "nome": "Enezio",
+        "melhor_volta": "55.430"
+      },
+      {
+        "pos": "10",
+        "kart": "13",
+        "nome": "Torsian",
+        "melhor_volta": "55.441"
+      },
+      {
+        "pos": "11",
+        "kart": "11",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "55.486"
+      },
+      {
+        "pos": "12",
+        "kart": "6",
+        "nome": "Geraldo",
+        "melhor_volta": "55.731"
+      },
+      {
+        "pos": "13",
+        "kart": "4",
+        "nome": "Rogerio B.",
+        "melhor_volta": "55.795"
+      },
+      {
+        "pos": "14",
+        "kart": "22",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "55.810"
+      },
+      {
+        "pos": "15",
+        "kart": "26",
+        "nome": "Caim",
+        "melhor_volta": "56.014"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Desafio Dinossauros Senior x Veteranos - Grupo 1",
+    "tipo": "Treino Oficial",
+    "data": "15/08/2026",
+    "bateria": "1ª Bateria",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "21",
+        "nome": "Antonio Costa",
+        "melhor_volta": "53.521"
+      },
+      {
+        "pos": "2",
+        "kart": "25",
+        "nome": "Daniel",
+        "melhor_volta": "53.720"
+      },
+      {
+        "pos": "3",
+        "kart": "16",
+        "nome": "Luciano Gil",
+        "melhor_volta": "53.535"
+      },
+      {
+        "pos": "4",
+        "kart": "20",
+        "nome": "Paulo Braga",
+        "melhor_volta": "53.872"
+      },
+      {
+        "pos": "5",
+        "kart": "15",
+        "nome": "Magrao",
+        "melhor_volta": "53.855"
+      },
+      {
+        "pos": "6",
+        "kart": "18",
+        "nome": "P.h.",
+        "melhor_volta": "54.698"
+      },
+      {
+        "pos": "7",
+        "kart": "14",
+        "nome": "Enezio",
+        "melhor_volta": "54.872"
+      },
+      {
+        "pos": "8",
+        "kart": "26",
+        "nome": "Caim",
+        "melhor_volta": "53.894"
+      },
+      {
+        "pos": "9",
+        "kart": "13",
+        "nome": "Torsian",
+        "melhor_volta": "54.542"
+      },
+      {
+        "pos": "10",
+        "kart": "4",
+        "nome": "Rogerio B.",
+        "melhor_volta": "55.007"
+      },
+      {
+        "pos": "11",
+        "kart": "22",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "54.721"
+      },
+      {
+        "pos": "12",
+        "kart": "24",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "54.843"
+      },
+      {
+        "pos": "13",
+        "kart": "6",
+        "nome": "Geraldo",
+        "melhor_volta": "54.318"
+      },
+      {
+        "pos": "14",
+        "kart": "29",
+        "nome": "Carlos Senju",
+        "melhor_volta": "55.376"
+      },
+      {
+        "pos": "NC",
+        "kart": "11",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "55.741"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Desafio Dinossauros Senior x Veteranos - Grupo 1",
+    "tipo": "Treino Oficial",
+    "data": "15/08/2026",
+    "bateria": "2ª Bateria",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "16",
+        "nome": "Geraldo",
+        "melhor_volta": "53.638"
+      },
+      {
+        "pos": "2",
+        "kart": "22",
+        "nome": "Magrao",
+        "melhor_volta": "53.693"
+      },
+      {
+        "pos": "3",
+        "kart": "25",
+        "nome": "Carlos Senju",
+        "melhor_volta": "54.797"
+      },
+      {
+        "pos": "4",
+        "kart": "24",
+        "nome": "Paulo Braga",
+        "melhor_volta": "54.440"
+      },
+      {
+        "pos": "5",
+        "kart": "18",
+        "nome": "Rogerio B.",
+        "melhor_volta": "55.018"
+      },
+      {
+        "pos": "6",
+        "kart": "4",
+        "nome": "P.h.",
+        "melhor_volta": "54.594"
+      },
+      {
+        "pos": "7",
+        "kart": "21",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "54.302"
+      },
+      {
+        "pos": "8",
+        "kart": "29",
+        "nome": "Daniel",
+        "melhor_volta": "54.368"
+      },
+      {
+        "pos": "9",
+        "kart": "8",
+        "nome": "Antonio Costa",
+        "melhor_volta": "55.222"
+      },
+      {
+        "pos": "10",
+        "kart": "6",
+        "nome": "Luciano Gil",
+        "melhor_volta": "55.178"
+      },
+      {
+        "pos": "11",
+        "kart": "20",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "55.439"
+      },
+      {
+        "pos": "12",
+        "kart": "26",
+        "nome": "Caim",
+        "melhor_volta": "55.809"
+      },
+      {
+        "pos": "NC",
+        "kart": "14",
+        "nome": "Enezio",
+        "melhor_volta": "54.865"
+      },
+      {
+        "pos": "NC",
+        "kart": "1",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "56.132"
+      },
+      {
+        "pos": "NC",
+        "kart": "27",
+        "nome": "Torsian",
+        "melhor_volta": "55.984"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - Tomada de Tempo",
+    "tipo": "Tomada de tempo",
+    "data": "12/09/2026",
+    "etapa": "6a Etapa (2o semestre)",
+    "_melhor_volta_impressa": "Pedro Rabaioli 00:54.234",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "13",
+        "nome": "Pedro Rabaioli",
+        "melhor_volta": "54.234"
+      },
+      {
+        "pos": "2",
+        "kart": "27",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "55.003"
+      },
+      {
+        "pos": "3",
+        "kart": "21",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "55.056"
+      },
+      {
+        "pos": "4",
+        "kart": "15",
+        "nome": "Nickholas",
+        "melhor_volta": "55.323"
+      },
+      {
+        "pos": "5",
+        "kart": "16",
+        "nome": "Kadu",
+        "melhor_volta": "55.640"
+      },
+      {
+        "pos": "6",
+        "kart": "8",
+        "nome": "Joao Carlos",
+        "melhor_volta": "55.642"
+      },
+      {
+        "pos": "7",
+        "kart": "23",
+        "nome": "Antonio Neto",
+        "melhor_volta": "55.800"
+      },
+      {
+        "pos": "8",
+        "kart": "26",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "56.126"
+      },
+      {
+        "pos": "9",
+        "kart": "28",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "56.367"
+      },
+      {
+        "pos": "10",
+        "kart": "22",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "57.208"
+      },
+      {
+        "pos": "11",
+        "kart": "12",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "57.883"
+      },
+      {
+        "pos": "12",
+        "kart": "24",
+        "nome": "Gustavo Soma",
+        "melhor_volta": "58.171"
+      }
+    ],
+    "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias)."
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "12/09/2026",
+    "etapa": "6a Etapa (2o semestre)",
+    "_melhor_volta_impressa": "Pedro Rabaioli 00:53.606",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "13",
+        "nome": "Pedro Rabaioli",
+        "melhor_volta": "53.606"
+      },
+      {
+        "pos": "2",
+        "kart": "27",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "53.725"
+      },
+      {
+        "pos": "3",
+        "kart": "21",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "54.335"
+      },
+      {
+        "pos": "4",
+        "kart": "23",
+        "nome": "Antonio Neto",
+        "melhor_volta": "54.185"
+      },
+      {
+        "pos": "5",
+        "kart": "15",
+        "nome": "Nickholas",
+        "melhor_volta": "54.870"
+      },
+      {
+        "pos": "6",
+        "kart": "16",
+        "nome": "Kadu",
+        "melhor_volta": "54.629"
+      },
+      {
+        "pos": "7",
+        "kart": "22",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "54.868"
+      },
+      {
+        "pos": "8",
+        "kart": "28",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "55.186"
+      },
+      {
+        "pos": "9",
+        "kart": "26",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "54.460"
+      },
+      {
+        "pos": "10",
+        "kart": "12",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "55.212"
+      },
+      {
+        "pos": "11",
+        "kart": "24",
+        "nome": "Gustavo Soma",
+        "melhor_volta": "56.762"
+      },
+      {
+        "pos": "12",
+        "kart": "30",
+        "nome": "Joao Carlos",
+        "melhor_volta": "55.197"
+      },
+      {
+        "pos": "NC",
+        "kart": "29",
+        "nome": "G. Filho",
+        "melhor_volta": "65.290"
+      }
+    ],
+    "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias). Observacoes impressas: kart 22 (Fernando Adorno) penalizado por ultrapassar em bandeira amarela; kart 29 (G. Filho) DESCLASSIFICADO por entrar nos boxes na contramao — pos NC, tempo 65.290 mantido como impresso (2 voltas)."
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 2 - 2a Bateria",
+    "tipo": "Corrida",
+    "data": "12/09/2026",
+    "etapa": "6a Etapa (2o semestre)",
+    "_melhor_volta_impressa": "Pedro Rabaioli 00:53.884",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "13",
+        "nome": "Joao Carlos",
+        "melhor_volta": "54.589"
+      },
+      {
+        "pos": "2",
+        "kart": "21",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "54.695"
+      },
+      {
+        "pos": "3",
+        "kart": "30",
+        "nome": "Pedro Rabaioli",
+        "melhor_volta": "53.884"
+      },
+      {
+        "pos": "4",
+        "kart": "26",
+        "nome": "Antonio Neto",
+        "melhor_volta": "54.343"
+      },
+      {
+        "pos": "5",
+        "kart": "16",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "54.603"
+      },
+      {
+        "pos": "6",
+        "kart": "29",
+        "nome": "G. Filho",
+        "melhor_volta": "54.166"
+      },
+      {
+        "pos": "7",
+        "kart": "22",
+        "nome": "Kadu",
+        "melhor_volta": "54.668"
+      },
+      {
+        "pos": "8",
+        "kart": "23",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "54.936"
+      },
+      {
+        "pos": "9",
+        "kart": "12",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "54.794"
+      },
+      {
+        "pos": "10",
+        "kart": "24",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "54.692"
+      },
+      {
+        "pos": "11",
+        "kart": "28",
+        "nome": "Nickholas",
+        "melhor_volta": "54.770"
+      },
+      {
+        "pos": "12",
+        "kart": "15",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "54.721"
+      },
+      {
+        "pos": "13",
+        "kart": "27",
+        "nome": "Gustavo Soma",
+        "melhor_volta": "55.295"
+      }
+    ],
+    "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias). Grid invertido. Pietro largou de tras, P3, melhor volta da prova."
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 1 - 1a Bateria",
+    "tipo": "Corrida",
+    "data": "12/09/2026",
+    "etapa": "6a Etapa (2o semestre)",
+    "_melhor_volta_impressa": "Gabriel Candelore 00:53.547",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "27",
+        "nome": "Gabriel Candelore",
+        "melhor_volta": "53.547"
+      },
+      {
+        "pos": "2",
+        "kart": "23",
+        "nome": "Caio Alexander",
+        "melhor_volta": "53.824"
+      },
+      {
+        "pos": "3",
+        "kart": "13",
+        "nome": "Paulo Braga",
+        "melhor_volta": "53.962"
+      },
+      {
+        "pos": "4",
+        "kart": "26",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "54.015"
+      },
+      {
+        "pos": "5",
+        "kart": "22",
+        "nome": "Magrao",
+        "melhor_volta": "53.922"
+      },
+      {
+        "pos": "6",
+        "kart": "11",
+        "nome": "Enezio",
+        "melhor_volta": "54.235"
+      },
+      {
+        "pos": "7",
+        "kart": "20",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "54.830"
+      },
+      {
+        "pos": "8",
+        "kart": "28",
+        "nome": "Rafael Lira",
+        "melhor_volta": "54.582"
+      },
+      {
+        "pos": "9",
+        "kart": "8",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "54.339"
+      },
+      {
+        "pos": "10",
+        "kart": "24",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "54.822"
+      },
+      {
+        "pos": "11",
+        "kart": "12",
+        "nome": "Gustavo Gondim",
+        "melhor_volta": "54.911"
+      },
+      {
+        "pos": "12",
+        "kart": "16",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "54.618"
+      },
+      {
+        "pos": "13",
+        "kart": "15",
+        "nome": "Ph",
+        "melhor_volta": "54.550"
+      },
+      {
+        "pos": "14",
+        "kart": "21",
+        "nome": "Rogerio B.",
+        "melhor_volta": "54.779"
+      }
+    ],
+    "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias). Observacao impressa: kart 28 (Rafael Lira) penalizado por toque no kart adversario. 'Ph' = P.h. (alias)."
+  },
+  {
+    "tracado": "Traçado 9 — Anti-Horário (900m)",
+    "evento": "Competikar Rental Kart",
+    "bateria": "Grupo 1 - 2a Bateria",
+    "tipo": "Corrida",
+    "data": "12/09/2026",
+    "etapa": "6a Etapa (2o semestre)",
+    "_melhor_volta_impressa": "Magrao 00:47.773 (ANOMALO, ver _nota)",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "27",
+        "nome": "Rogerio B.",
+        "melhor_volta": "53.618"
+      },
+      {
+        "pos": "2",
+        "kart": "23",
+        "nome": "Ph",
+        "melhor_volta": "53.799"
+      },
+      {
+        "pos": "3",
+        "kart": "11",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "53.605"
+      },
+      {
+        "pos": "4",
+        "kart": "13",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "54.190"
+      },
+      {
+        "pos": "5",
+        "kart": "24",
+        "nome": "Magrao",
+        "melhor_volta": "54.421"
+      },
+      {
+        "pos": "6",
+        "kart": "8",
+        "nome": "Enezio",
+        "melhor_volta": "54.235"
+      },
+      {
+        "pos": "7",
+        "kart": "12",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "54.482"
+      },
+      {
+        "pos": "8",
+        "kart": "15",
+        "nome": "Caio Alexander",
+        "melhor_volta": "54.477"
+      },
+      {
+        "pos": "9",
+        "kart": "26",
+        "nome": "Gustavo Gondim",
+        "melhor_volta": "54.461"
+      },
+      {
+        "pos": "10",
+        "kart": "21",
+        "nome": "Gabriel Candelore",
+        "melhor_volta": "54.078"
+      },
+      {
+        "pos": "11",
+        "kart": "16",
+        "nome": "Paulo Braga",
+        "melhor_volta": "54.062"
+      },
+      {
+        "pos": "12",
+        "kart": "28",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "54.766"
+      },
+      {
+        "pos": "13",
+        "kart": "20",
+        "nome": "Rafael Lira",
+        "melhor_volta": "54.382"
+      },
+      {
+        "pos": "14",
+        "kart": "22",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "55.043"
+      }
+    ],
+    "_nota": "6a etapa 12/09/2026, Kartodromo Jose Carlos Pace. Tracado = 9 (900m, anti-horario) confirmado pela ARTE OFICIAL da etapa que o Pietro mandou (tracados/2026-09-12-etapa6-competikar.jpg); Pietro mandou por audio adicionar como bateria oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. 'Pedro Rabaioli' = Pietro (alias). Magrao: TMV impresso 47.773 e impossivel na pista de 900m (~54s) — erro de cronometragem; gravado o TMV2 dele (54.421, volta 7) como melhor volta."
+  },
+  {
+    "tracado": "Traçado 1 — Anti-Horário (1280m)",
+    "evento": "Indoor Sem O Bronze",
+    "tipo": "Corrida",
+    "data": "24/09/2026",
+    "bateria": "Bateria 01",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "11",
+        "nome": "Candelore",
+        "melhor_volta": "1:16.071"
+      },
+      {
+        "pos": "2",
+        "kart": "6",
+        "nome": "Paulo Braga",
+        "melhor_volta": "1:16.878"
+      },
+      {
+        "pos": "3",
+        "kart": "27",
+        "nome": "Torsian",
+        "melhor_volta": "1:16.470"
+      },
+      {
+        "pos": "4",
+        "kart": "26",
+        "nome": "Pietro",
+        "melhor_volta": "1:16.942"
+      },
+      {
+        "pos": "5",
+        "kart": "28",
+        "nome": "Luciano Gil",
+        "melhor_volta": "1:17.437"
+      },
+      {
+        "pos": "6",
+        "kart": "30",
+        "nome": "Carlos Magno",
+        "melhor_volta": "1:17.666"
+      },
+      {
+        "pos": "7",
+        "kart": "25",
+        "nome": "Lira",
+        "melhor_volta": "1:17.458"
+      },
+      {
+        "pos": "8",
+        "kart": "29",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "1:17.872"
+      },
+      {
+        "pos": "9",
+        "kart": "13",
+        "nome": "Ltm",
+        "melhor_volta": "1:17.805"
+      },
+      {
+        "pos": "10",
+        "kart": "21",
+        "nome": "Rogerio B.",
+        "melhor_volta": "1:18.098"
+      },
+      {
+        "pos": "11",
+        "kart": "14",
+        "nome": "Ze Antonio",
+        "melhor_volta": "1:18.821"
+      },
+      {
+        "pos": "12",
+        "kart": "20",
+        "nome": "Enezio",
+        "melhor_volta": "1:18.372"
+      },
+      {
+        "pos": "13",
+        "kart": "22",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "1:18.615"
+      },
+      {
+        "pos": "14",
+        "kart": "15",
+        "nome": "Bocardi",
+        "melhor_volta": "1:19.191"
+      },
+      {
+        "pos": "15",
+        "kart": "24",
+        "nome": "Caim",
+        "melhor_volta": "1:18.258"
+      },
+      {
+        "pos": "NC",
+        "kart": "16",
+        "nome": "Luis Fernando",
+        "melhor_volta": "1:18.619"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 1 — Anti-Horário (1280m)",
+    "evento": "Indoor Sem O Bronze",
+    "tipo": "Corrida",
+    "data": "24/09/2026",
+    "bateria": "Bateria 02",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "27",
+        "nome": "Alexandre",
+        "melhor_volta": "1:15.875"
+      },
+      {
+        "pos": "2",
+        "kart": "30",
+        "nome": "Magrao",
+        "melhor_volta": "1:15.875"
+      },
+      {
+        "pos": "3",
+        "kart": "11",
+        "nome": "Pietro",
+        "melhor_volta": "1:16.136"
+      },
+      {
+        "pos": "4",
+        "kart": "25",
+        "nome": "Lira",
+        "melhor_volta": "1:17.337"
+      },
+      {
+        "pos": "5",
+        "kart": "28",
+        "nome": "Caio",
+        "melhor_volta": "1:17.718"
+      },
+      {
+        "pos": "NC",
+        "kart": "26",
+        "nome": "Ltm",
+        "melhor_volta": "1:17.953"
+      }
+    ]
+  }
 ]
