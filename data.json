@@ -1,22 +1,24 @@
 {
- "gerado_em": "2026-09-24",
+ "gerado_em": "2026-10-10",
  "fonte": "Folhas oficiais Competikar/LapTime confirmadas pelo Pietro",
  "meta": {
-  "total_sessoes": 36,
-  "total_sessoes_oficiais": 23,
+  "total_sessoes": 42,
+  "total_sessoes_oficiais": 29,
   "total_sessoes_treino": 13,
   "total_pilotos": 79,
   "total_pilotos_oficial": 57,
-  "total_resultados": 450,
+  "total_resultados": 524,
   "tracados": [
    "Traçado 1 — Anti-Horário (1280m)",
    "Traçado 10 — Anti-Horário (780m)",
+   "Traçado 11 — Sentido Horário (615m)",
    "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "Traçado 6 — Anti-Horário (835m)",
    "Traçado 8 — Sentido Normal (890m)",
    "Traçado 9 — Anti-Horário (900m)"
   ],
   "tracados_oficiais": [
+   "Traçado 11 — Sentido Horário (615m)",
    "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "Traçado 6 — Anti-Horário (835m)",
    "Traçado 8 — Sentido Normal (890m)",
@@ -43,6 +45,16 @@
    "data": "22/07/2026",
    "evento": "Indoor Sem O Bronze",
    "categoria": "Treino"
+  },
+  {
+   "tracado": "Traçado 11 — Sentido Horário (615m)",
+   "tempo": "35.517",
+   "seg": 35.517,
+   "piloto": "Douglas Calixto",
+   "kart": "16",
+   "data": "03/10/2026",
+   "evento": "Competikar Rental Kart",
+   "categoria": "Oficial"
   },
   {
    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -418,6 +430,283 @@
     "evento": "Indoor Sem O Bronze",
     "categoria": "Treino",
     "rank": 11
+   }
+  ],
+  "Traçado 11 — Sentido Horário (615m)": [
+   {
+    "piloto": "Douglas Calixto",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "35.517",
+    "seg": 35.517,
+    "kart": "16",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 1
+   },
+   {
+    "piloto": "Cadu",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "35.814",
+    "seg": 35.814,
+    "kart": "22",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 2
+   },
+   {
+    "piloto": "G. Filho",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "35.907",
+    "seg": 35.907,
+    "kart": "16",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 3
+   },
+   {
+    "piloto": "Fernando Adorno",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "35.933",
+    "seg": 35.933,
+    "kart": "26",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 4
+   },
+   {
+    "piloto": "Pietro",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "35.976",
+    "seg": 35.976,
+    "kart": "6",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 5
+   },
+   {
+    "piloto": "Pedro Kuhn",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.050",
+    "seg": 36.05,
+    "kart": "26",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 6
+   },
+   {
+    "piloto": "Joao Carlos Carvalho",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.082",
+    "seg": 36.082,
+    "kart": "27",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 7
+   },
+   {
+    "piloto": "Roniel Moreira",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.119",
+    "seg": 36.119,
+    "kart": "22",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 8
+   },
+   {
+    "piloto": "Antonio Neto",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.208",
+    "seg": 36.208,
+    "kart": "06",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 9
+   },
+   {
+    "piloto": "Antonio Lazaro",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.312",
+    "seg": 36.312,
+    "kart": "29",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 10
+   },
+   {
+    "piloto": "Rafael Lira",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.355",
+    "seg": 36.355,
+    "kart": "30",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 11
+   },
+   {
+    "piloto": "Carlos Alexandre",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.489",
+    "seg": 36.489,
+    "kart": "25",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 12
+   },
+   {
+    "piloto": "Pedro Silveira",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.689",
+    "seg": 36.689,
+    "kart": "14",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 13
+   },
+   {
+    "piloto": "Gabriel Candelore",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.767",
+    "seg": 36.767,
+    "kart": "13",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 14
+   },
+   {
+    "piloto": "Luiz Felipe",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.792",
+    "seg": 36.792,
+    "kart": "14",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 15
+   },
+   {
+    "piloto": "Magrao",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.817",
+    "seg": 36.817,
+    "kart": "1",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 16
+   },
+   {
+    "piloto": "Agostinho Tozzo",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.818",
+    "seg": 36.818,
+    "kart": "27",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 17
+   },
+   {
+    "piloto": "Fernando Vilefort",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.968",
+    "seg": 36.968,
+    "kart": "6",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 18
+   },
+   {
+    "piloto": "Rogerio Belivacqua",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "36.976",
+    "seg": 36.976,
+    "kart": "26",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 19
+   },
+   {
+    "piloto": "Luciano Ltm",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "37.084",
+    "seg": 37.084,
+    "kart": "22",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 20
+   },
+   {
+    "piloto": "Gustavo Gondim",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "37.130",
+    "seg": 37.13,
+    "kart": "21",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 21
+   },
+   {
+    "piloto": "Geraldo Neto",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "37.233",
+    "seg": 37.233,
+    "kart": "4",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 22
+   },
+   {
+    "piloto": "Caio Alexander",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "37.236",
+    "seg": 37.236,
+    "kart": "24",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 23
+   },
+   {
+    "piloto": "Enezio",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "37.239",
+    "seg": 37.239,
+    "kart": "16",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 24
+   },
+   {
+    "piloto": "Paulo Braga",
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "37.534",
+    "seg": 37.534,
+    "kart": "28",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial",
+    "rank": 25
    }
   ],
   "Traçado 13 — Curtinho Curva da Árvore (550m)": [
@@ -2175,9 +2464,17 @@
      "kart": "11",
      "evento": "Indoor Sem O Bronze",
      "categoria": "Treino"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.767",
+     "seg": 36.767,
+     "data": "03/10/2026",
+     "kart": "13",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 17,
+   "aparicoes": 20,
    "melhor_geral": "35.086",
    "melhor_geral_seg": 35.086,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2218,9 +2515,17 @@
      "kart": "11",
      "evento": "Competikar Rental Kart",
      "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.968",
+     "seg": 36.968,
+     "data": "03/10/2026",
+     "kart": "6",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 8,
+   "aparicoes": 11,
    "melhor_geral": "35.271",
    "melhor_geral_seg": 35.271,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2277,9 +2582,17 @@
      "kart": "11",
      "evento": "Indoor Sem O Bronze",
      "categoria": "Treino"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "35.976",
+     "seg": 35.976,
+     "data": "03/10/2026",
+     "kart": "6",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 17,
+   "aparicoes": 20,
    "melhor_geral": "35.393",
    "melhor_geral_seg": 35.393,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2320,9 +2633,17 @@
      "kart": "16",
      "evento": "Desafio Dinossauros Senior x Veteranos - Grupo 1",
      "categoria": "Treino"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "37.233",
+     "seg": 37.233,
+     "data": "03/10/2026",
+     "kart": "4",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 13,
+   "aparicoes": 16,
    "melhor_geral": "35.409",
    "melhor_geral_seg": 35.409,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2363,9 +2684,17 @@
      "kart": "25",
      "evento": "Competikar Rental Kart",
      "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.792",
+     "seg": 36.792,
+     "data": "03/10/2026",
+     "kart": "14",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 9,
+   "aparicoes": 12,
    "melhor_geral": "35.411",
    "melhor_geral_seg": 35.411,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2422,9 +2751,17 @@
      "kart": "13",
      "evento": "Indoor Sem O Bronze",
      "categoria": "Treino"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "37.084",
+     "seg": 37.084,
+     "data": "03/10/2026",
+     "kart": "22",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 21,
+   "aparicoes": 24,
    "melhor_geral": "35.420",
    "melhor_geral_seg": 35.42,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2457,9 +2794,17 @@
      "kart": "20",
      "evento": "Competikar Rental Kart",
      "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "37.130",
+     "seg": 37.13,
+     "data": "03/10/2026",
+     "kart": "21",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 6,
+   "aparicoes": 8,
    "melhor_geral": "35.425",
    "melhor_geral_seg": 35.425,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2546,9 +2891,17 @@
      "kart": "22",
      "evento": "Indoor Sem O Bronze",
      "categoria": "Treino"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "35.933",
+     "seg": 35.933,
+     "data": "03/10/2026",
+     "kart": "26",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 13,
+   "aparicoes": 16,
    "melhor_geral": "35.454",
    "melhor_geral_seg": 35.454,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2605,9 +2958,17 @@
      "kart": "21",
      "evento": "Indoor Sem O Bronze",
      "categoria": "Treino"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.976",
+     "seg": 36.976,
+     "data": "03/10/2026",
+     "kart": "26",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 21,
+   "aparicoes": 24,
    "melhor_geral": "35.489",
    "melhor_geral_seg": 35.489,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -2691,13 +3052,72 @@
      "kart": "6",
      "evento": "Indoor Sem O Bronze",
      "categoria": "Treino"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "37.534",
+     "seg": 37.534,
+     "data": "03/10/2026",
+     "kart": "28",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 20,
+   "aparicoes": 23,
    "melhor_geral": "35.517",
    "melhor_geral_seg": 35.517,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
    "rank_geral": 13
+  },
+  {
+   "nome": "Douglas Calixto",
+   "kart": "16",
+   "por_tracado": {
+    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
+     "tempo": "35.873",
+     "seg": 35.873,
+     "data": "09/05/2026",
+     "kart": "30",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 8 — Sentido Normal (890m)": {
+     "tempo": "55.896",
+     "seg": 55.896,
+     "data": "27/06/2026",
+     "kart": "14",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 6 — Anti-Horário (835m)": {
+     "tempo": "48.145",
+     "seg": 48.145,
+     "data": "08/08/2026",
+     "kart": "13",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "53.725",
+     "seg": 53.725,
+     "data": "12/09/2026",
+     "kart": "27",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "35.517",
+     "seg": 35.517,
+     "data": "03/10/2026",
+     "kart": "16",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    }
+   },
+   "aparicoes": 12,
+   "melhor_geral": "35.517",
+   "melhor_geral_seg": 35.517,
+   "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+   "rank_geral": 14
   },
   {
    "nome": "Rafael Lira",
@@ -2750,13 +3170,21 @@
      "kart": "25",
      "evento": "Indoor Sem O Bronze",
      "categoria": "Treino"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.355",
+     "seg": 36.355,
+     "data": "03/10/2026",
+     "kart": "30",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 17,
+   "aparicoes": 20,
    "melhor_geral": "35.571",
    "melhor_geral_seg": 35.571,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 14
+   "rank_geral": 15
   },
   {
    "nome": "Jonathan Ribeiro",
@@ -2783,7 +3211,7 @@
    "melhor_geral": "35.601",
    "melhor_geral_seg": 35.601,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 15
+   "rank_geral": 16
   },
   {
    "nome": "G. Filho",
@@ -2820,13 +3248,21 @@
      "kart": "29",
      "evento": "Competikar Rental Kart",
      "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "35.907",
+     "seg": 35.907,
+     "data": "03/10/2026",
+     "kart": "16",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 7,
+   "aparicoes": 10,
    "melhor_geral": "35.634",
    "melhor_geral_seg": 35.634,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 16
+   "rank_geral": 17
   },
   {
    "nome": "Magrao",
@@ -2871,13 +3307,21 @@
      "kart": "30",
      "evento": "Indoor Sem O Bronze",
      "categoria": "Treino"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.817",
+     "seg": 36.817,
+     "data": "03/10/2026",
+     "kart": "1",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 18,
+   "aparicoes": 21,
    "melhor_geral": "35.656",
    "melhor_geral_seg": 35.656,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 17
+   "rank_geral": 18
   },
   {
    "nome": "Nickholas R.",
@@ -2920,7 +3364,7 @@
    "melhor_geral": "35.669",
    "melhor_geral_seg": 35.669,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 18
+   "rank_geral": 19
   },
   {
    "nome": "Gabriel Alves",
@@ -2939,7 +3383,7 @@
    "melhor_geral": "35.698",
    "melhor_geral_seg": 35.698,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 19
+   "rank_geral": 20
   },
   {
    "nome": "Antonio Carvalho",
@@ -2966,50 +3410,42 @@
    "melhor_geral": "35.792",
    "melhor_geral_seg": 35.792,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 20
+   "rank_geral": 21
   },
   {
-   "nome": "Douglas Calixto",
-   "kart": "30",
+   "nome": "Cadu",
+   "kart": "22",
    "por_tracado": {
-    "Traçado 13 — Curtinho Curva da Árvore (550m)": {
-     "tempo": "35.873",
-     "seg": 35.873,
-     "data": "09/05/2026",
-     "kart": "30",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    },
-    "Traçado 8 — Sentido Normal (890m)": {
-     "tempo": "55.896",
-     "seg": 55.896,
-     "data": "27/06/2026",
-     "kart": "14",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    },
     "Traçado 6 — Anti-Horário (835m)": {
-     "tempo": "48.145",
-     "seg": 48.145,
-     "data": "08/08/2026",
-     "kart": "13",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
+     "tempo": "47.957",
+     "seg": 47.957,
+     "data": "30/07/2026",
+     "kart": "14",
+     "evento": "Indoor Sem O Bronze",
+     "categoria": "Treino"
     },
     "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "53.725",
-     "seg": 53.725,
+     "tempo": "54.629",
+     "seg": 54.629,
      "data": "12/09/2026",
-     "kart": "27",
+     "kart": "16",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "35.814",
+     "seg": 35.814,
+     "data": "03/10/2026",
+     "kart": "22",
      "evento": "Competikar Rental Kart",
      "categoria": "Oficial"
     }
    },
-   "aparicoes": 9,
-   "melhor_geral": "35.873",
-   "melhor_geral_seg": 35.873,
-   "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 21
+   "aparicoes": 11,
+   "melhor_geral": "35.814",
+   "melhor_geral_seg": 35.814,
+   "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+   "rank_geral": 22
   },
   {
    "nome": "Joao Carlos Carvalho",
@@ -3046,13 +3482,21 @@
      "kart": "13",
      "evento": "Competikar Rental Kart",
      "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.082",
+     "seg": 36.082,
+     "data": "03/10/2026",
+     "kart": "27",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 11,
+   "aparicoes": 14,
    "melhor_geral": "35.924",
    "melhor_geral_seg": 35.924,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 22
+   "rank_geral": 23
   },
   {
    "nome": "Eduardo Paiva",
@@ -3095,7 +3539,7 @@
    "melhor_geral": "35.927",
    "melhor_geral_seg": 35.927,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 23
+   "rank_geral": 24
   },
   {
    "nome": "Roniel Moreira",
@@ -3124,13 +3568,21 @@
      "kart": "20",
      "evento": "Competikar Rental Kart",
      "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.119",
+     "seg": 36.119,
+     "data": "03/10/2026",
+     "kart": "22",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 5,
+   "aparicoes": 8,
    "melhor_geral": "35.963",
    "melhor_geral_seg": 35.963,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 24
+   "rank_geral": 25
   },
   {
    "nome": "Caio Alexander",
@@ -3167,13 +3619,21 @@
      "kart": "23",
      "evento": "Competikar Rental Kart",
      "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "37.236",
+     "seg": 37.236,
+     "data": "03/10/2026",
+     "kart": "24",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 7,
+   "aparicoes": 10,
    "melhor_geral": "35.985",
    "melhor_geral_seg": 35.985,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 25
+   "rank_geral": 26
   },
   {
    "nome": "Joao Vitor Moura",
@@ -3200,7 +3660,42 @@
    "melhor_geral": "36.034",
    "melhor_geral_seg": 36.034,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 26
+   "rank_geral": 27
+  },
+  {
+   "nome": "Pedro Kuhn",
+   "kart": "26",
+   "por_tracado": {
+    "Traçado 6 — Anti-Horário (835m)": {
+     "tempo": "48.150",
+     "seg": 48.15,
+     "data": "08/08/2026",
+     "kart": "27",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.335",
+     "seg": 54.335,
+     "data": "12/09/2026",
+     "kart": "21",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.050",
+     "seg": 36.05,
+     "data": "03/10/2026",
+     "kart": "26",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    }
+   },
+   "aparicoes": 8,
+   "melhor_geral": "36.050",
+   "melhor_geral_seg": 36.05,
+   "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+   "rank_geral": 28
   },
   {
    "nome": "Antonio Lazaro",
@@ -3237,13 +3732,21 @@
      "kart": "15",
      "evento": "Competikar Rental Kart",
      "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.312",
+     "seg": 36.312,
+     "data": "03/10/2026",
+     "kart": "29",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 9,
+   "aparicoes": 12,
    "melhor_geral": "36.085",
    "melhor_geral_seg": 36.085,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 27
+   "rank_geral": 29
   },
   {
    "nome": "Leonardo Fidelis",
@@ -3270,7 +3773,42 @@
    "melhor_geral": "36.168",
    "melhor_geral_seg": 36.168,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 28
+   "rank_geral": 30
+  },
+  {
+   "nome": "Antonio Neto",
+   "kart": "06",
+   "por_tracado": {
+    "Traçado 6 — Anti-Horário (835m)": {
+     "tempo": "48.222",
+     "seg": 48.222,
+     "data": "08/08/2026",
+     "kart": "18",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.185",
+     "seg": 54.185,
+     "data": "12/09/2026",
+     "kart": "23",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.208",
+     "seg": 36.208,
+     "data": "03/10/2026",
+     "kart": "06",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    }
+   },
+   "aparicoes": 8,
+   "melhor_geral": "36.208",
+   "melhor_geral_seg": 36.208,
+   "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+   "rank_geral": 31
   },
   {
    "nome": "Agostinho Neto",
@@ -3297,7 +3835,7 @@
    "melhor_geral": "36.236",
    "melhor_geral_seg": 36.236,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 29
+   "rank_geral": 32
   },
   {
    "nome": "Agostinho Tozzo",
@@ -3334,13 +3872,21 @@
      "kart": "23",
      "evento": "Competikar Rental Kart",
      "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.818",
+     "seg": 36.818,
+     "data": "03/10/2026",
+     "kart": "27",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
     }
    },
-   "aparicoes": 12,
+   "aparicoes": 15,
    "melhor_geral": "36.239",
    "melhor_geral_seg": 36.239,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 30
+   "rank_geral": 33
   },
   {
    "nome": "Elias Hoffmann",
@@ -3367,7 +3913,7 @@
    "melhor_geral": "36.303",
    "melhor_geral_seg": 36.303,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 31
+   "rank_geral": 34
   },
   {
    "nome": "Francisco Silva",
@@ -3394,7 +3940,50 @@
    "melhor_geral": "36.410",
    "melhor_geral_seg": 36.41,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 32
+   "rank_geral": 35
+  },
+  {
+   "nome": "Carlos Alexandre",
+   "kart": "25",
+   "por_tracado": {
+    "Traçado 8 — Sentido Normal (890m)": {
+     "tempo": "54.785",
+     "seg": 54.785,
+     "data": "27/06/2026",
+     "kart": "23",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 6 — Anti-Horário (835m)": {
+     "tempo": "48.238",
+     "seg": 48.238,
+     "data": "08/08/2026",
+     "kart": "13",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.190",
+     "seg": 54.19,
+     "data": "12/09/2026",
+     "kart": "13",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.489",
+     "seg": 36.489,
+     "data": "03/10/2026",
+     "kart": "25",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    }
+   },
+   "aparicoes": 9,
+   "melhor_geral": "36.489",
+   "melhor_geral_seg": 36.489,
+   "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+   "rank_geral": 36
   },
   {
    "nome": "Joao Pedro F. Alves",
@@ -3421,7 +4010,101 @@
    "melhor_geral": "36.599",
    "melhor_geral_seg": 36.599,
    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-   "rank_geral": 33
+   "rank_geral": 37
+  },
+  {
+   "nome": "Pedro Silveira",
+   "kart": "14",
+   "por_tracado": {
+    "Traçado 6 — Anti-Horário (835m)": {
+     "tempo": "47.959",
+     "seg": 47.959,
+     "data": "08/08/2026",
+     "kart": "26",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.695",
+     "seg": 54.695,
+     "data": "12/09/2026",
+     "kart": "21",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 1 — Anti-Horário (1280m)": {
+     "tempo": "1:17.872",
+     "seg": 77.872,
+     "data": "24/09/2026",
+     "kart": "29",
+     "evento": "Indoor Sem O Bronze",
+     "categoria": "Treino"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "36.689",
+     "seg": 36.689,
+     "data": "03/10/2026",
+     "kart": "14",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    }
+   },
+   "aparicoes": 9,
+   "melhor_geral": "36.689",
+   "melhor_geral_seg": 36.689,
+   "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+   "rank_geral": 38
+  },
+  {
+   "nome": "Enezio",
+   "kart": "16",
+   "por_tracado": {
+    "Traçado 9 — Anti-Horário (900m)": {
+     "tempo": "54.235",
+     "seg": 54.235,
+     "data": "12/09/2026",
+     "kart": "11",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 8 — Sentido Normal (890m)": {
+     "tempo": "54.845",
+     "seg": 54.845,
+     "data": "27/06/2026",
+     "kart": "16",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    },
+    "Traçado 6 — Anti-Horário (835m)": {
+     "tempo": "47.990",
+     "seg": 47.99,
+     "data": "30/07/2026",
+     "kart": "28",
+     "evento": "Indoor Sem O Bronze",
+     "categoria": "Treino"
+    },
+    "Traçado 1 — Anti-Horário (1280m)": {
+     "tempo": "1:18.372",
+     "seg": 78.372,
+     "data": "24/09/2026",
+     "kart": "20",
+     "evento": "Indoor Sem O Bronze",
+     "categoria": "Treino"
+    },
+    "Traçado 11 — Sentido Horário (615m)": {
+     "tempo": "37.239",
+     "seg": 37.239,
+     "data": "03/10/2026",
+     "kart": "16",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial"
+    }
+   },
+   "aparicoes": 16,
+   "melhor_geral": "37.239",
+   "melhor_geral_seg": 37.239,
+   "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+   "rank_geral": 39
   },
   {
    "nome": "Luiz Lira",
@@ -3448,7 +4131,7 @@
    "melhor_geral": "45.146",
    "melhor_geral_seg": 45.146,
    "melhor_geral_tracado": "Traçado 10 — Anti-Horário (780m)",
-   "rank_geral": 34
+   "rank_geral": 40
   },
   {
    "nome": "Caim",
@@ -3483,7 +4166,7 @@
    "melhor_geral": "46.722",
    "melhor_geral_seg": 46.722,
    "melhor_geral_tracado": "Traçado 10 — Anti-Horário (780m)",
-   "rank_geral": 35
+   "rank_geral": 41
   },
   {
    "nome": "Torsian",
@@ -3518,7 +4201,7 @@
    "melhor_geral": "46.785",
    "melhor_geral_seg": 46.785,
    "melhor_geral_tracado": "Traçado 10 — Anti-Horário (780m)",
-   "rank_geral": 36
+   "rank_geral": 42
   },
   {
    "nome": "Arthur",
@@ -3537,7 +4220,7 @@
    "melhor_geral": "47.461",
    "melhor_geral_seg": 47.461,
    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-   "rank_geral": 37
+   "rank_geral": 43
   },
   {
    "nome": "Caio",
@@ -3564,7 +4247,7 @@
    "melhor_geral": "47.520",
    "melhor_geral_seg": 47.52,
    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-   "rank_geral": 38
+   "rank_geral": 44
   },
   {
    "nome": "Geraldo Ferreria",
@@ -3583,112 +4266,7 @@
    "melhor_geral": "47.707",
    "melhor_geral_seg": 47.707,
    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-   "rank_geral": 39
-  },
-  {
-   "nome": "Cadu",
-   "kart": "14",
-   "por_tracado": {
-    "Traçado 6 — Anti-Horário (835m)": {
-     "tempo": "47.957",
-     "seg": 47.957,
-     "data": "30/07/2026",
-     "kart": "14",
-     "evento": "Indoor Sem O Bronze",
-     "categoria": "Treino"
-    },
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.629",
-     "seg": 54.629,
-     "data": "12/09/2026",
-     "kart": "16",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    }
-   },
-   "aparicoes": 8,
-   "melhor_geral": "47.957",
-   "melhor_geral_seg": 47.957,
-   "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-   "rank_geral": 40
-  },
-  {
-   "nome": "Pedro Silveira",
-   "kart": "26",
-   "por_tracado": {
-    "Traçado 6 — Anti-Horário (835m)": {
-     "tempo": "47.959",
-     "seg": 47.959,
-     "data": "08/08/2026",
-     "kart": "26",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    },
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.695",
-     "seg": 54.695,
-     "data": "12/09/2026",
-     "kart": "21",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    },
-    "Traçado 1 — Anti-Horário (1280m)": {
-     "tempo": "1:17.872",
-     "seg": 77.872,
-     "data": "24/09/2026",
-     "kart": "29",
-     "evento": "Indoor Sem O Bronze",
-     "categoria": "Treino"
-    }
-   },
-   "aparicoes": 6,
-   "melhor_geral": "47.959",
-   "melhor_geral_seg": 47.959,
-   "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-   "rank_geral": 41
-  },
-  {
-   "nome": "Enezio",
-   "kart": "28",
-   "por_tracado": {
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.235",
-     "seg": 54.235,
-     "data": "12/09/2026",
-     "kart": "11",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    },
-    "Traçado 8 — Sentido Normal (890m)": {
-     "tempo": "54.845",
-     "seg": 54.845,
-     "data": "27/06/2026",
-     "kart": "16",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    },
-    "Traçado 6 — Anti-Horário (835m)": {
-     "tempo": "47.990",
-     "seg": 47.99,
-     "data": "30/07/2026",
-     "kart": "28",
-     "evento": "Indoor Sem O Bronze",
-     "categoria": "Treino"
-    },
-    "Traçado 1 — Anti-Horário (1280m)": {
-     "tempo": "1:18.372",
-     "seg": 78.372,
-     "data": "24/09/2026",
-     "kart": "20",
-     "evento": "Indoor Sem O Bronze",
-     "categoria": "Treino"
-    }
-   },
-   "aparicoes": 13,
-   "melhor_geral": "47.990",
-   "melhor_geral_seg": 47.99,
-   "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-   "rank_geral": 42
+   "rank_geral": 45
   },
   {
    "nome": "Pedro",
@@ -3707,34 +4285,7 @@
    "melhor_geral": "48.066",
    "melhor_geral_seg": 48.066,
    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-   "rank_geral": 43
-  },
-  {
-   "nome": "Pedro Kuhn",
-   "kart": "27",
-   "por_tracado": {
-    "Traçado 6 — Anti-Horário (835m)": {
-     "tempo": "48.150",
-     "seg": 48.15,
-     "data": "08/08/2026",
-     "kart": "27",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    },
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.335",
-     "seg": 54.335,
-     "data": "12/09/2026",
-     "kart": "21",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    }
-   },
-   "aparicoes": 5,
-   "melhor_geral": "48.150",
-   "melhor_geral_seg": 48.15,
-   "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-   "rank_geral": 44
+   "rank_geral": 46
   },
   {
    "nome": "Gilberto",
@@ -3753,7 +4304,7 @@
    "melhor_geral": "48.162",
    "melhor_geral_seg": 48.162,
    "melhor_geral_tracado": "Traçado 10 — Anti-Horário (780m)",
-   "rank_geral": 45
+   "rank_geral": 47
   },
   {
    "nome": "Big Foot",
@@ -3772,34 +4323,7 @@
    "melhor_geral": "48.222",
    "melhor_geral_seg": 48.222,
    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-   "rank_geral": 46
-  },
-  {
-   "nome": "Antonio Neto",
-   "kart": "18",
-   "por_tracado": {
-    "Traçado 6 — Anti-Horário (835m)": {
-     "tempo": "48.222",
-     "seg": 48.222,
-     "data": "08/08/2026",
-     "kart": "18",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    },
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.185",
-     "seg": 54.185,
-     "data": "12/09/2026",
-     "kart": "23",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    }
-   },
-   "aparicoes": 5,
-   "melhor_geral": "48.222",
-   "melhor_geral_seg": 48.222,
-   "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-   "rank_geral": 47
+   "rank_geral": 48
   },
   {
    "nome": "Douglas",
@@ -3826,7 +4350,7 @@
    "melhor_geral": "48.233",
    "melhor_geral_seg": 48.233,
    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-   "rank_geral": 48
+   "rank_geral": 49
   },
   {
    "nome": "Fernando",
@@ -3852,41 +4376,6 @@
    "aparicoes": 3,
    "melhor_geral": "48.236",
    "melhor_geral_seg": 48.236,
-   "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-   "rank_geral": 49
-  },
-  {
-   "nome": "Carlos Alexandre",
-   "kart": "13",
-   "por_tracado": {
-    "Traçado 8 — Sentido Normal (890m)": {
-     "tempo": "54.785",
-     "seg": 54.785,
-     "data": "27/06/2026",
-     "kart": "23",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    },
-    "Traçado 6 — Anti-Horário (835m)": {
-     "tempo": "48.238",
-     "seg": 48.238,
-     "data": "08/08/2026",
-     "kart": "13",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    },
-    "Traçado 9 — Anti-Horário (900m)": {
-     "tempo": "54.190",
-     "seg": 54.19,
-     "data": "12/09/2026",
-     "kart": "13",
-     "evento": "Competikar Rental Kart",
-     "categoria": "Oficial"
-    }
-   },
-   "aparicoes": 6,
-   "melhor_geral": "48.238",
-   "melhor_geral_seg": 48.238,
    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
    "rank_geral": 50
   },
@@ -4469,6 +4958,16 @@
  "oficial": {
   "recordes_por_tracado": [
    {
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "tempo": "35.517",
+    "seg": 35.517,
+    "piloto": "Douglas Calixto",
+    "kart": "16",
+    "data": "03/10/2026",
+    "evento": "Competikar Rental Kart",
+    "categoria": "Oficial"
+   },
+   {
     "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "tempo": "35.086",
     "seg": 35.086,
@@ -4510,6 +5009,283 @@
    }
   ],
   "leaderboard_por_tracado": {
+   "Traçado 11 — Sentido Horário (615m)": [
+    {
+     "piloto": "Douglas Calixto",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "35.517",
+     "seg": 35.517,
+     "kart": "16",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 1
+    },
+    {
+     "piloto": "Cadu",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "35.814",
+     "seg": 35.814,
+     "kart": "22",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 2
+    },
+    {
+     "piloto": "G. Filho",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "35.907",
+     "seg": 35.907,
+     "kart": "16",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 3
+    },
+    {
+     "piloto": "Fernando Adorno",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "35.933",
+     "seg": 35.933,
+     "kart": "26",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 4
+    },
+    {
+     "piloto": "Pietro",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "35.976",
+     "seg": 35.976,
+     "kart": "6",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 5
+    },
+    {
+     "piloto": "Pedro Kuhn",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.050",
+     "seg": 36.05,
+     "kart": "26",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 6
+    },
+    {
+     "piloto": "Joao Carlos Carvalho",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.082",
+     "seg": 36.082,
+     "kart": "27",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 7
+    },
+    {
+     "piloto": "Roniel Moreira",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.119",
+     "seg": 36.119,
+     "kart": "22",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 8
+    },
+    {
+     "piloto": "Antonio Neto",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.208",
+     "seg": 36.208,
+     "kart": "06",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 9
+    },
+    {
+     "piloto": "Antonio Lazaro",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.312",
+     "seg": 36.312,
+     "kart": "29",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 10
+    },
+    {
+     "piloto": "Rafael Lira",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.355",
+     "seg": 36.355,
+     "kart": "30",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 11
+    },
+    {
+     "piloto": "Carlos Alexandre",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.489",
+     "seg": 36.489,
+     "kart": "25",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 12
+    },
+    {
+     "piloto": "Pedro Silveira",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.689",
+     "seg": 36.689,
+     "kart": "14",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 13
+    },
+    {
+     "piloto": "Gabriel Candelore",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.767",
+     "seg": 36.767,
+     "kart": "13",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 14
+    },
+    {
+     "piloto": "Luiz Felipe",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.792",
+     "seg": 36.792,
+     "kart": "14",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 15
+    },
+    {
+     "piloto": "Magrao",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.817",
+     "seg": 36.817,
+     "kart": "1",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 16
+    },
+    {
+     "piloto": "Agostinho Tozzo",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.818",
+     "seg": 36.818,
+     "kart": "27",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 17
+    },
+    {
+     "piloto": "Fernando Vilefort",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.968",
+     "seg": 36.968,
+     "kart": "6",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 18
+    },
+    {
+     "piloto": "Rogerio Belivacqua",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "36.976",
+     "seg": 36.976,
+     "kart": "26",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 19
+    },
+    {
+     "piloto": "Luciano Ltm",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "37.084",
+     "seg": 37.084,
+     "kart": "22",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 20
+    },
+    {
+     "piloto": "Gustavo Gondim",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "37.130",
+     "seg": 37.13,
+     "kart": "21",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 21
+    },
+    {
+     "piloto": "Geraldo Neto",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "37.233",
+     "seg": 37.233,
+     "kart": "4",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 22
+    },
+    {
+     "piloto": "Caio Alexander",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "37.236",
+     "seg": 37.236,
+     "kart": "24",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 23
+    },
+    {
+     "piloto": "Enezio",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "37.239",
+     "seg": 37.239,
+     "kart": "16",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 24
+    },
+    {
+     "piloto": "Paulo Braga",
+     "tracado": "Traçado 11 — Sentido Horário (615m)",
+     "tempo": "37.534",
+     "seg": 37.534,
+     "kart": "28",
+     "data": "03/10/2026",
+     "evento": "Competikar Rental Kart",
+     "categoria": "Oficial",
+     "rank": 25
+    }
+   ],
    "Traçado 13 — Curtinho Curva da Árvore (550m)": [
     {
      "piloto": "Gabriel Candelore",
@@ -6007,9 +6783,17 @@
       "kart": "27",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.767",
+      "seg": 36.767,
+      "data": "03/10/2026",
+      "kart": "13",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 8,
+    "aparicoes": 11,
     "melhor_geral": "35.086",
     "melhor_geral_seg": 35.086,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -6050,9 +6834,17 @@
       "kart": "11",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.968",
+      "seg": 36.968,
+      "data": "03/10/2026",
+      "kart": "6",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 8,
+    "aparicoes": 11,
     "melhor_geral": "35.271",
     "melhor_geral_seg": 35.271,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -6093,9 +6885,17 @@
       "kart": "13",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "35.976",
+      "seg": 35.976,
+      "data": "03/10/2026",
+      "kart": "6",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 8,
+    "aparicoes": 11,
     "melhor_geral": "35.393",
     "melhor_geral_seg": 35.393,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -6128,9 +6928,17 @@
       "kart": "26",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "37.233",
+      "seg": 37.233,
+      "data": "03/10/2026",
+      "kart": "4",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 6,
+    "aparicoes": 9,
     "melhor_geral": "35.409",
     "melhor_geral_seg": 35.409,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -6171,9 +6979,17 @@
       "kart": "28",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.792",
+      "seg": 36.792,
+      "data": "03/10/2026",
+      "kart": "14",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 8,
+    "aparicoes": 11,
     "melhor_geral": "35.411",
     "melhor_geral_seg": 35.411,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -6206,9 +7022,17 @@
       "kart": "24",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "37.084",
+      "seg": 37.084,
+      "data": "03/10/2026",
+      "kart": "22",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 8,
+    "aparicoes": 11,
     "melhor_geral": "35.420",
     "melhor_geral_seg": 35.42,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -6241,9 +7065,17 @@
       "kart": "26",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "37.130",
+      "seg": 37.13,
+      "data": "03/10/2026",
+      "kart": "21",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 5,
+    "aparicoes": 7,
     "melhor_geral": "35.425",
     "melhor_geral_seg": 35.425,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -6322,9 +7154,17 @@
       "kart": "16",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "35.933",
+      "seg": 35.933,
+      "data": "03/10/2026",
+      "kart": "26",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 9,
+    "aparicoes": 12,
     "melhor_geral": "35.454",
     "melhor_geral_seg": 35.454,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -6365,9 +7205,17 @@
       "kart": "26",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.976",
+      "seg": 36.976,
+      "data": "03/10/2026",
+      "kart": "26",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 9,
+    "aparicoes": 12,
     "melhor_geral": "35.489",
     "melhor_geral_seg": 35.489,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
@@ -6399,6 +7247,57 @@
     "melhor_geral_seg": 35.503,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
     "rank_geral": 12
+   },
+   {
+    "nome": "Douglas Calixto",
+    "kart": "16",
+    "por_tracado": {
+     "Traçado 13 — Curtinho Curva da Árvore (550m)": {
+      "tempo": "35.873",
+      "seg": 35.873,
+      "data": "09/05/2026",
+      "kart": "30",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 8 — Sentido Normal (890m)": {
+      "tempo": "55.896",
+      "seg": 55.896,
+      "data": "27/06/2026",
+      "kart": "14",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 6 — Anti-Horário (835m)": {
+      "tempo": "48.145",
+      "seg": 48.145,
+      "data": "08/08/2026",
+      "kart": "13",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 9 — Anti-Horário (900m)": {
+      "tempo": "53.725",
+      "seg": 53.725,
+      "data": "12/09/2026",
+      "kart": "27",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "35.517",
+      "seg": 35.517,
+      "data": "03/10/2026",
+      "kart": "16",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     }
+    },
+    "aparicoes": 12,
+    "melhor_geral": "35.517",
+    "melhor_geral_seg": 35.517,
+    "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+    "rank_geral": 13
    },
    {
     "nome": "Paulo Braga",
@@ -6435,13 +7334,21 @@
       "kart": "26",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "37.534",
+      "seg": 37.534,
+      "data": "03/10/2026",
+      "kart": "28",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 12,
+    "aparicoes": 15,
     "melhor_geral": "35.517",
     "melhor_geral_seg": 35.517,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 13
+    "rank_geral": 14
    },
    {
     "nome": "Rafael Lira",
@@ -6478,13 +7385,21 @@
       "kart": "20",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.355",
+      "seg": 36.355,
+      "data": "03/10/2026",
+      "kart": "30",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 9,
+    "aparicoes": 12,
     "melhor_geral": "35.571",
     "melhor_geral_seg": 35.571,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 14
+    "rank_geral": 15
    },
    {
     "nome": "Jonathan Ribeiro",
@@ -6511,7 +7426,7 @@
     "melhor_geral": "35.601",
     "melhor_geral_seg": 35.601,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 15
+    "rank_geral": 16
    },
    {
     "nome": "G. Filho",
@@ -6548,13 +7463,21 @@
       "kart": "29",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "35.907",
+      "seg": 35.907,
+      "data": "03/10/2026",
+      "kart": "16",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 7,
+    "aparicoes": 10,
     "melhor_geral": "35.634",
     "melhor_geral_seg": 35.634,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 16
+    "rank_geral": 17
    },
    {
     "nome": "Magrao",
@@ -6591,13 +7514,21 @@
       "kart": "6",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.817",
+      "seg": 36.817,
+      "data": "03/10/2026",
+      "kart": "1",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 11,
+    "aparicoes": 14,
     "melhor_geral": "35.656",
     "melhor_geral_seg": 35.656,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 17
+    "rank_geral": 18
    },
    {
     "nome": "Nickholas R.",
@@ -6640,7 +7571,7 @@
     "melhor_geral": "35.669",
     "melhor_geral_seg": 35.669,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 18
+    "rank_geral": 19
    },
    {
     "nome": "Gabriel Alves",
@@ -6659,7 +7590,7 @@
     "melhor_geral": "35.698",
     "melhor_geral_seg": 35.698,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 19
+    "rank_geral": 20
    },
    {
     "nome": "Antonio Carvalho",
@@ -6686,50 +7617,42 @@
     "melhor_geral": "35.792",
     "melhor_geral_seg": 35.792,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 20
+    "rank_geral": 21
    },
    {
-    "nome": "Douglas Calixto",
-    "kart": "30",
+    "nome": "Cadu",
+    "kart": "22",
     "por_tracado": {
-     "Traçado 13 — Curtinho Curva da Árvore (550m)": {
-      "tempo": "35.873",
-      "seg": 35.873,
-      "data": "09/05/2026",
-      "kart": "30",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     },
-     "Traçado 8 — Sentido Normal (890m)": {
-      "tempo": "55.896",
-      "seg": 55.896,
-      "data": "27/06/2026",
-      "kart": "14",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     },
      "Traçado 6 — Anti-Horário (835m)": {
-      "tempo": "48.145",
-      "seg": 48.145,
+      "tempo": "48.367",
+      "seg": 48.367,
       "data": "08/08/2026",
-      "kart": "13",
+      "kart": "24",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
      },
      "Traçado 9 — Anti-Horário (900m)": {
-      "tempo": "53.725",
-      "seg": 53.725,
+      "tempo": "54.629",
+      "seg": 54.629,
       "data": "12/09/2026",
-      "kart": "27",
+      "kart": "16",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "35.814",
+      "seg": 35.814,
+      "data": "03/10/2026",
+      "kart": "22",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
      }
     },
-    "aparicoes": 9,
-    "melhor_geral": "35.873",
-    "melhor_geral_seg": 35.873,
-    "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 21
+    "aparicoes": 8,
+    "melhor_geral": "35.814",
+    "melhor_geral_seg": 35.814,
+    "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+    "rank_geral": 22
    },
    {
     "nome": "Joao Carlos Carvalho",
@@ -6766,13 +7689,21 @@
       "kart": "13",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.082",
+      "seg": 36.082,
+      "data": "03/10/2026",
+      "kart": "27",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 9,
+    "aparicoes": 12,
     "melhor_geral": "35.924",
     "melhor_geral_seg": 35.924,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 22
+    "rank_geral": 23
    },
    {
     "nome": "Eduardo Paiva",
@@ -6815,7 +7746,7 @@
     "melhor_geral": "35.927",
     "melhor_geral_seg": 35.927,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 23
+    "rank_geral": 24
    },
    {
     "nome": "Roniel Moreira",
@@ -6844,13 +7775,21 @@
       "kart": "20",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.119",
+      "seg": 36.119,
+      "data": "03/10/2026",
+      "kart": "22",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 5,
+    "aparicoes": 8,
     "melhor_geral": "35.963",
     "melhor_geral_seg": 35.963,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 24
+    "rank_geral": 25
    },
    {
     "nome": "Caio Alexander",
@@ -6887,13 +7826,21 @@
       "kart": "23",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "37.236",
+      "seg": 37.236,
+      "data": "03/10/2026",
+      "kart": "24",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 7,
+    "aparicoes": 10,
     "melhor_geral": "35.985",
     "melhor_geral_seg": 35.985,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 25
+    "rank_geral": 26
    },
    {
     "nome": "Joao Vitor Moura",
@@ -6920,7 +7867,42 @@
     "melhor_geral": "36.034",
     "melhor_geral_seg": 36.034,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 26
+    "rank_geral": 27
+   },
+   {
+    "nome": "Pedro Kuhn",
+    "kart": "26",
+    "por_tracado": {
+     "Traçado 6 — Anti-Horário (835m)": {
+      "tempo": "48.150",
+      "seg": 48.15,
+      "data": "08/08/2026",
+      "kart": "27",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 9 — Anti-Horário (900m)": {
+      "tempo": "54.335",
+      "seg": 54.335,
+      "data": "12/09/2026",
+      "kart": "21",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.050",
+      "seg": 36.05,
+      "data": "03/10/2026",
+      "kart": "26",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     }
+    },
+    "aparicoes": 8,
+    "melhor_geral": "36.050",
+    "melhor_geral_seg": 36.05,
+    "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+    "rank_geral": 28
    },
    {
     "nome": "Antonio Lazaro",
@@ -6957,13 +7939,21 @@
       "kart": "15",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.312",
+      "seg": 36.312,
+      "data": "03/10/2026",
+      "kart": "29",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 8,
+    "aparicoes": 11,
     "melhor_geral": "36.085",
     "melhor_geral_seg": 36.085,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 27
+    "rank_geral": 29
    },
    {
     "nome": "Leonardo Fidelis",
@@ -6990,7 +7980,42 @@
     "melhor_geral": "36.168",
     "melhor_geral_seg": 36.168,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 28
+    "rank_geral": 30
+   },
+   {
+    "nome": "Antonio Neto",
+    "kart": "06",
+    "por_tracado": {
+     "Traçado 6 — Anti-Horário (835m)": {
+      "tempo": "48.222",
+      "seg": 48.222,
+      "data": "08/08/2026",
+      "kart": "18",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 9 — Anti-Horário (900m)": {
+      "tempo": "54.185",
+      "seg": 54.185,
+      "data": "12/09/2026",
+      "kart": "23",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.208",
+      "seg": 36.208,
+      "data": "03/10/2026",
+      "kart": "06",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     }
+    },
+    "aparicoes": 8,
+    "melhor_geral": "36.208",
+    "melhor_geral_seg": 36.208,
+    "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+    "rank_geral": 31
    },
    {
     "nome": "Agostinho Neto",
@@ -7017,7 +8042,7 @@
     "melhor_geral": "36.236",
     "melhor_geral_seg": 36.236,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 29
+    "rank_geral": 32
    },
    {
     "nome": "Agostinho Tozzo",
@@ -7054,13 +8079,21 @@
       "kart": "23",
       "evento": "Competikar Rental Kart",
       "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.818",
+      "seg": 36.818,
+      "data": "03/10/2026",
+      "kart": "27",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
      }
     },
-    "aparicoes": 9,
+    "aparicoes": 12,
     "melhor_geral": "36.239",
     "melhor_geral_seg": 36.239,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 30
+    "rank_geral": 33
    },
    {
     "nome": "Elias Hoffmann",
@@ -7087,7 +8120,7 @@
     "melhor_geral": "36.303",
     "melhor_geral_seg": 36.303,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 31
+    "rank_geral": 34
    },
    {
     "nome": "Francisco Silva",
@@ -7114,7 +8147,50 @@
     "melhor_geral": "36.410",
     "melhor_geral_seg": 36.41,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 32
+    "rank_geral": 35
+   },
+   {
+    "nome": "Carlos Alexandre",
+    "kart": "25",
+    "por_tracado": {
+     "Traçado 8 — Sentido Normal (890m)": {
+      "tempo": "54.785",
+      "seg": 54.785,
+      "data": "27/06/2026",
+      "kart": "23",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 6 — Anti-Horário (835m)": {
+      "tempo": "48.238",
+      "seg": 48.238,
+      "data": "08/08/2026",
+      "kart": "13",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 9 — Anti-Horário (900m)": {
+      "tempo": "54.190",
+      "seg": 54.19,
+      "data": "12/09/2026",
+      "kart": "13",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.489",
+      "seg": 36.489,
+      "data": "03/10/2026",
+      "kart": "25",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     }
+    },
+    "aparicoes": 9,
+    "melhor_geral": "36.489",
+    "melhor_geral_seg": 36.489,
+    "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+    "rank_geral": 36
    },
    {
     "nome": "Joao Pedro F. Alves",
@@ -7141,7 +8217,77 @@
     "melhor_geral": "36.599",
     "melhor_geral_seg": 36.599,
     "melhor_geral_tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
-    "rank_geral": 33
+    "rank_geral": 37
+   },
+   {
+    "nome": "Pedro Silveira",
+    "kart": "14",
+    "por_tracado": {
+     "Traçado 6 — Anti-Horário (835m)": {
+      "tempo": "47.959",
+      "seg": 47.959,
+      "data": "08/08/2026",
+      "kart": "26",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 9 — Anti-Horário (900m)": {
+      "tempo": "54.695",
+      "seg": 54.695,
+      "data": "12/09/2026",
+      "kart": "21",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "36.689",
+      "seg": 36.689,
+      "data": "03/10/2026",
+      "kart": "14",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     }
+    },
+    "aparicoes": 8,
+    "melhor_geral": "36.689",
+    "melhor_geral_seg": 36.689,
+    "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+    "rank_geral": 38
+   },
+   {
+    "nome": "Enezio",
+    "kart": "16",
+    "por_tracado": {
+     "Traçado 8 — Sentido Normal (890m)": {
+      "tempo": "54.845",
+      "seg": 54.845,
+      "data": "27/06/2026",
+      "kart": "16",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 9 — Anti-Horário (900m)": {
+      "tempo": "54.235",
+      "seg": 54.235,
+      "data": "12/09/2026",
+      "kart": "11",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     },
+     "Traçado 11 — Sentido Horário (615m)": {
+      "tempo": "37.239",
+      "seg": 37.239,
+      "data": "03/10/2026",
+      "kart": "16",
+      "evento": "Competikar Rental Kart",
+      "categoria": "Oficial"
+     }
+    },
+    "aparicoes": 9,
+    "melhor_geral": "37.239",
+    "melhor_geral_seg": 37.239,
+    "melhor_geral_tracado": "Traçado 11 — Sentido Horário (615m)",
+    "rank_geral": 39
    },
    {
     "nome": "Geraldo Ferreria",
@@ -7160,150 +8306,7 @@
     "melhor_geral": "47.707",
     "melhor_geral_seg": 47.707,
     "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-    "rank_geral": 34
-   },
-   {
-    "nome": "Pedro Silveira",
-    "kart": "26",
-    "por_tracado": {
-     "Traçado 6 — Anti-Horário (835m)": {
-      "tempo": "47.959",
-      "seg": 47.959,
-      "data": "08/08/2026",
-      "kart": "26",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     },
-     "Traçado 9 — Anti-Horário (900m)": {
-      "tempo": "54.695",
-      "seg": 54.695,
-      "data": "12/09/2026",
-      "kart": "21",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     }
-    },
-    "aparicoes": 5,
-    "melhor_geral": "47.959",
-    "melhor_geral_seg": 47.959,
-    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-    "rank_geral": 35
-   },
-   {
-    "nome": "Pedro Kuhn",
-    "kart": "27",
-    "por_tracado": {
-     "Traçado 6 — Anti-Horário (835m)": {
-      "tempo": "48.150",
-      "seg": 48.15,
-      "data": "08/08/2026",
-      "kart": "27",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     },
-     "Traçado 9 — Anti-Horário (900m)": {
-      "tempo": "54.335",
-      "seg": 54.335,
-      "data": "12/09/2026",
-      "kart": "21",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     }
-    },
-    "aparicoes": 5,
-    "melhor_geral": "48.150",
-    "melhor_geral_seg": 48.15,
-    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-    "rank_geral": 36
-   },
-   {
-    "nome": "Antonio Neto",
-    "kart": "18",
-    "por_tracado": {
-     "Traçado 6 — Anti-Horário (835m)": {
-      "tempo": "48.222",
-      "seg": 48.222,
-      "data": "08/08/2026",
-      "kart": "18",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     },
-     "Traçado 9 — Anti-Horário (900m)": {
-      "tempo": "54.185",
-      "seg": 54.185,
-      "data": "12/09/2026",
-      "kart": "23",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     }
-    },
-    "aparicoes": 5,
-    "melhor_geral": "48.222",
-    "melhor_geral_seg": 48.222,
-    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-    "rank_geral": 37
-   },
-   {
-    "nome": "Carlos Alexandre",
-    "kart": "13",
-    "por_tracado": {
-     "Traçado 8 — Sentido Normal (890m)": {
-      "tempo": "54.785",
-      "seg": 54.785,
-      "data": "27/06/2026",
-      "kart": "23",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     },
-     "Traçado 6 — Anti-Horário (835m)": {
-      "tempo": "48.238",
-      "seg": 48.238,
-      "data": "08/08/2026",
-      "kart": "13",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     },
-     "Traçado 9 — Anti-Horário (900m)": {
-      "tempo": "54.190",
-      "seg": 54.19,
-      "data": "12/09/2026",
-      "kart": "13",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     }
-    },
-    "aparicoes": 6,
-    "melhor_geral": "48.238",
-    "melhor_geral_seg": 48.238,
-    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-    "rank_geral": 38
-   },
-   {
-    "nome": "Cadu",
-    "kart": "24",
-    "por_tracado": {
-     "Traçado 6 — Anti-Horário (835m)": {
-      "tempo": "48.367",
-      "seg": 48.367,
-      "data": "08/08/2026",
-      "kart": "24",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     },
-     "Traçado 9 — Anti-Horário (900m)": {
-      "tempo": "54.629",
-      "seg": 54.629,
-      "data": "12/09/2026",
-      "kart": "16",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     }
-    },
-    "aparicoes": 5,
-    "melhor_geral": "48.367",
-    "melhor_geral_seg": 48.367,
-    "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-    "rank_geral": 39
+    "rank_geral": 40
    },
    {
     "nome": "Luciano Garcia",
@@ -7322,7 +8325,7 @@
     "melhor_geral": "48.476",
     "melhor_geral_seg": 48.476,
     "melhor_geral_tracado": "Traçado 6 — Anti-Horário (835m)",
-    "rank_geral": 40
+    "rank_geral": 41
    },
    {
     "nome": "P.h.",
@@ -7341,7 +8344,7 @@
     "melhor_geral": "53.799",
     "melhor_geral_seg": 53.799,
     "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-    "rank_geral": 41
+    "rank_geral": 42
    },
    {
     "nome": "Marcelo Abreu",
@@ -7360,7 +8363,7 @@
     "melhor_geral": "53.822",
     "melhor_geral_seg": 53.822,
     "melhor_geral_tracado": "Traçado 8 — Sentido Normal (890m)",
-    "rank_geral": 42
+    "rank_geral": 43
    },
    {
     "nome": "Rogerio T.",
@@ -7378,33 +8381,6 @@
     "aparicoes": 2,
     "melhor_geral": "54.071",
     "melhor_geral_seg": 54.071,
-    "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
-    "rank_geral": 43
-   },
-   {
-    "nome": "Enezio",
-    "kart": "11",
-    "por_tracado": {
-     "Traçado 8 — Sentido Normal (890m)": {
-      "tempo": "54.845",
-      "seg": 54.845,
-      "data": "27/06/2026",
-      "kart": "16",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     },
-     "Traçado 9 — Anti-Horário (900m)": {
-      "tempo": "54.235",
-      "seg": 54.235,
-      "data": "12/09/2026",
-      "kart": "11",
-      "evento": "Competikar Rental Kart",
-      "categoria": "Oficial"
-     }
-    },
-    "aparicoes": 6,
-    "melhor_geral": "54.235",
-    "melhor_geral_seg": 54.235,
     "melhor_geral_tracado": "Traçado 9 — Anti-Horário (900m)",
     "rank_geral": 44
    },
@@ -10757,6 +11733,528 @@
     }
    ],
    "categoria": "Treino"
+  },
+  {
+   "tracado": "Traçado 11 — Sentido Horário (615m)",
+   "evento": "Competikar Rental Kart",
+   "data": "03/10/2026",
+   "etapa": "7a Etapa (2o semestre)",
+   "bateria": "Grupo 1 - Tomada de Tempo",
+   "tipo": "Tomada de tempo",
+   "_melhor_volta_impressa": "Candelore 00:45.412",
+   "_nota": "7a etapa 03/10/2026, Kartodromo Jose Carlos Pace. Tracado = 11 (615m, sentido horario) pela ARTE OFICIAL da etapa postada pelo Magrao no grupo Competikar em 02/10 09h56 (copia em 4-ESTADO/kart/2026-10-03-etapa7/tracado-7a-etapa.jpg); rotulo 'Indoor' da folha ignorado. Pietro mandou por Telegram (10/10) lancar como etapa oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. Chuva moderada avisada pela organizacao 12h26. Tempos de 45-53 s = pista molhada (chuva). Gustavo Gondim (#24) sem volta valida (TV 0, 00:00.000): fora dos resultados.",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "26",
+     "nome": "Candelore",
+     "melhor_volta": "45.412"
+    },
+    {
+     "pos": "2",
+     "kart": "22",
+     "nome": "Paulo Braga",
+     "melhor_volta": "45.595"
+    },
+    {
+     "pos": "3",
+     "kart": "16",
+     "nome": "Carlos A.",
+     "melhor_volta": "46.257"
+    },
+    {
+     "pos": "4",
+     "kart": "21",
+     "nome": "Caio A.",
+     "melhor_volta": "46.293"
+    },
+    {
+     "pos": "5",
+     "kart": "4",
+     "nome": "Rafael Lira",
+     "melhor_volta": "46.868"
+    },
+    {
+     "pos": "6",
+     "kart": "01",
+     "nome": "Fernando Vilefort",
+     "melhor_volta": "47.883"
+    },
+    {
+     "pos": "7",
+     "kart": "30",
+     "nome": "Geraldo Neto",
+     "melhor_volta": "48.719"
+    },
+    {
+     "pos": "8",
+     "kart": "25",
+     "nome": "Enezio",
+     "melhor_volta": "48.991"
+    },
+    {
+     "pos": "9",
+     "kart": "27",
+     "nome": "Luiz Felipe",
+     "melhor_volta": "49.374"
+    },
+    {
+     "pos": "10",
+     "kart": "14",
+     "nome": "Agostinho Tozzo",
+     "melhor_volta": "50.100"
+    },
+    {
+     "pos": "11",
+     "kart": "06",
+     "nome": "Magrao",
+     "melhor_volta": "51.042"
+    },
+    {
+     "pos": "12",
+     "kart": "13",
+     "nome": "Rogerio B.",
+     "melhor_volta": "53.089"
+    },
+    {
+     "pos": "13",
+     "kart": "28",
+     "nome": "Luciano Ltm",
+     "melhor_volta": "53.214"
+    }
+   ],
+   "categoria": "Oficial"
+  },
+  {
+   "tracado": "Traçado 11 — Sentido Horário (615m)",
+   "evento": "Competikar Rental Kart",
+   "data": "03/10/2026",
+   "etapa": "7a Etapa (2o semestre)",
+   "bateria": "Grupo 1 - 1a Bateria",
+   "tipo": "Corrida",
+   "_melhor_volta_impressa": "Candelore 00:43.339",
+   "_nota": "7a etapa 03/10/2026, Kartodromo Jose Carlos Pace. Tracado = 11 (615m, sentido horario) pela ARTE OFICIAL da etapa postada pelo Magrao no grupo Competikar em 02/10 09h56 (copia em 4-ESTADO/kart/2026-10-03-etapa7/tracado-7a-etapa.jpg); rotulo 'Indoor' da folha ignorado. Pietro mandou por Telegram (10/10) lancar como etapa oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. Chuva moderada avisada pela organizacao 12h26. Tempos de 43-48 s = pista molhada (chuva).",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "22",
+     "nome": "Paulo Braga",
+     "melhor_volta": "43.643"
+    },
+    {
+     "pos": "2",
+     "kart": "26",
+     "nome": "Candelore",
+     "melhor_volta": "43.339"
+    },
+    {
+     "pos": "3",
+     "kart": "21",
+     "nome": "Caio A.",
+     "melhor_volta": "44.929"
+    },
+    {
+     "pos": "4",
+     "kart": "16",
+     "nome": "Carlos A.",
+     "melhor_volta": "43.918"
+    },
+    {
+     "pos": "5",
+     "kart": "01",
+     "nome": "Fernando Vilefort",
+     "melhor_volta": "44.054"
+    },
+    {
+     "pos": "6",
+     "kart": "30",
+     "nome": "Geraldo Neto",
+     "melhor_volta": "44.282"
+    },
+    {
+     "pos": "7",
+     "kart": "14",
+     "nome": "Agostinho Tozzo",
+     "melhor_volta": "45.412"
+    },
+    {
+     "pos": "8",
+     "kart": "27",
+     "nome": "Luiz Felipe",
+     "melhor_volta": "43.555"
+    },
+    {
+     "pos": "9",
+     "kart": "4",
+     "nome": "Rafael Lira",
+     "melhor_volta": "45.481"
+    },
+    {
+     "pos": "10",
+     "kart": "06",
+     "nome": "Magrao",
+     "melhor_volta": "45.019"
+    },
+    {
+     "pos": "11",
+     "kart": "25",
+     "nome": "Enezio",
+     "melhor_volta": "46.490"
+    },
+    {
+     "pos": "12",
+     "kart": "24",
+     "nome": "Gustavo Gondim",
+     "melhor_volta": "45.469"
+    },
+    {
+     "pos": "13",
+     "kart": "13",
+     "nome": "Rogerio B.",
+     "melhor_volta": "48.532"
+    },
+    {
+     "pos": "14",
+     "kart": "28",
+     "nome": "Luciano Ltm",
+     "melhor_volta": "47.894"
+    }
+   ],
+   "categoria": "Oficial"
+  },
+  {
+   "tracado": "Traçado 11 — Sentido Horário (615m)",
+   "evento": "Competikar Rental Kart",
+   "data": "03/10/2026",
+   "etapa": "7a Etapa (2o semestre)",
+   "bateria": "Grupo 1 - 2a Bateria",
+   "tipo": "Corrida",
+   "_melhor_volta_impressa": "Rafael Lira 00:36.355",
+   "_nota": "7a etapa 03/10/2026, Kartodromo Jose Carlos Pace. Tracado = 11 (615m, sentido horario) pela ARTE OFICIAL da etapa postada pelo Magrao no grupo Competikar em 02/10 09h56 (copia em 4-ESTADO/kart/2026-10-03-etapa7/tracado-7a-etapa.jpg); rotulo 'Indoor' da folha ignorado. Pietro mandou por Telegram (10/10) lancar como etapa oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. Chuva moderada avisada pela organizacao 12h26. Pista ja seca (36-37 s). 'Margao' na folha = Magrao (grafia).",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "1",
+     "nome": "Margao",
+     "melhor_volta": "36.817"
+    },
+    {
+     "pos": "2",
+     "kart": "30",
+     "nome": "Rafael Lira",
+     "melhor_volta": "36.355"
+    },
+    {
+     "pos": "3",
+     "kart": "25",
+     "nome": "Carlos A.",
+     "melhor_volta": "36.489"
+    },
+    {
+     "pos": "4",
+     "kart": "21",
+     "nome": "Gustavo Gondim",
+     "melhor_volta": "37.130"
+    },
+    {
+     "pos": "5",
+     "kart": "22",
+     "nome": "Luciano Ltm",
+     "melhor_volta": "37.084"
+    },
+    {
+     "pos": "6",
+     "kart": "6",
+     "nome": "Fernando Vilefort",
+     "melhor_volta": "36.968"
+    },
+    {
+     "pos": "7",
+     "kart": "14",
+     "nome": "Luiz Felipe",
+     "melhor_volta": "36.792"
+    },
+    {
+     "pos": "8",
+     "kart": "28",
+     "nome": "Paulo Braga",
+     "melhor_volta": "37.534"
+    },
+    {
+     "pos": "9",
+     "kart": "16",
+     "nome": "Enezio",
+     "melhor_volta": "37.239"
+    },
+    {
+     "pos": "10",
+     "kart": "24",
+     "nome": "Caio A.",
+     "melhor_volta": "37.236"
+    },
+    {
+     "pos": "11",
+     "kart": "4",
+     "nome": "Geraldo Neto",
+     "melhor_volta": "37.233"
+    },
+    {
+     "pos": "12",
+     "kart": "26",
+     "nome": "Rogerio B.",
+     "melhor_volta": "36.976"
+    },
+    {
+     "pos": "13",
+     "kart": "27",
+     "nome": "Agostinho Tozzo",
+     "melhor_volta": "36.818"
+    },
+    {
+     "pos": "14",
+     "kart": "13",
+     "nome": "Candelore",
+     "melhor_volta": "36.767"
+    }
+   ],
+   "categoria": "Oficial"
+  },
+  {
+   "tracado": "Traçado 11 — Sentido Horário (615m)",
+   "evento": "Competikar Rental Kart",
+   "data": "03/10/2026",
+   "etapa": "7a Etapa (2o semestre)",
+   "bateria": "Grupo 2 - Tomada de Tempo",
+   "tipo": "Tomada de tempo",
+   "_melhor_volta_impressa": "G. Filho 00:36.450",
+   "_nota": "7a etapa 03/10/2026, Kartodromo Jose Carlos Pace. Tracado = 11 (615m, sentido horario) pela ARTE OFICIAL da etapa postada pelo Magrao no grupo Competikar em 02/10 09h56 (copia em 4-ESTADO/kart/2026-10-03-etapa7/tracado-7a-etapa.jpg); rotulo 'Indoor' da folha ignorado. Pietro mandou por Telegram (10/10) lancar como etapa oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. Chuva moderada avisada pela organizacao 12h26. Coluna TMV impressa meia linha abaixo do nome; casada pela ordem e conferida pelo Gap.",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "16",
+     "nome": "G. Filho",
+     "melhor_volta": "36.450"
+    },
+    {
+     "pos": "2",
+     "kart": "14",
+     "nome": "Antonio Lazaro",
+     "melhor_volta": "36.632"
+    },
+    {
+     "pos": "3",
+     "kart": "22",
+     "nome": "Roniel",
+     "melhor_volta": "36.910"
+    },
+    {
+     "pos": "4",
+     "kart": "26",
+     "nome": "Fernando A.",
+     "melhor_volta": "37.016"
+    },
+    {
+     "pos": "5",
+     "kart": "29",
+     "nome": "Pedro Silveira",
+     "melhor_volta": "37.065"
+    },
+    {
+     "pos": "6",
+     "kart": "21",
+     "nome": "Cadu",
+     "melhor_volta": "37.094"
+    },
+    {
+     "pos": "7",
+     "kart": "25",
+     "nome": "Pedro Kuhn",
+     "melhor_volta": "37.284"
+    },
+    {
+     "pos": "8",
+     "kart": "4",
+     "nome": "Douglas C.",
+     "melhor_volta": "37.419"
+    },
+    {
+     "pos": "9",
+     "kart": "24",
+     "nome": "Pietro",
+     "melhor_volta": "37.469"
+    },
+    {
+     "pos": "10",
+     "kart": "27",
+     "nome": "Joao Carlos",
+     "melhor_volta": "37.490"
+    },
+    {
+     "pos": "11",
+     "kart": "06",
+     "nome": "Antonio Neto",
+     "melhor_volta": "37.541"
+    }
+   ],
+   "categoria": "Oficial"
+  },
+  {
+   "tracado": "Traçado 11 — Sentido Horário (615m)",
+   "evento": "Competikar Rental Kart",
+   "data": "03/10/2026",
+   "etapa": "7a Etapa (2o semestre)",
+   "bateria": "Grupo 2 - 1a Bateria",
+   "tipo": "Corrida",
+   "_melhor_volta_impressa": "G. Filho 00:35.907",
+   "_nota": "7a etapa 03/10/2026, Kartodromo Jose Carlos Pace. Tracado = 11 (615m, sentido horario) pela ARTE OFICIAL da etapa postada pelo Magrao no grupo Competikar em 02/10 09h56 (copia em 4-ESTADO/kart/2026-10-03-etapa7/tracado-7a-etapa.jpg); rotulo 'Indoor' da folha ignorado. Pietro mandou por Telegram (10/10) lancar como etapa oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. Chuva moderada avisada pela organizacao 12h26.",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "16",
+     "nome": "G. Filho",
+     "melhor_volta": "35.907"
+    },
+    {
+     "pos": "2",
+     "kart": "14",
+     "nome": "Antonio Lazaro",
+     "melhor_volta": "36.648"
+    },
+    {
+     "pos": "3",
+     "kart": "24",
+     "nome": "Pietro",
+     "melhor_volta": "36.402"
+    },
+    {
+     "pos": "4",
+     "kart": "26",
+     "nome": "Fernando A.",
+     "melhor_volta": "35.933"
+    },
+    {
+     "pos": "5",
+     "kart": "21",
+     "nome": "Cadu",
+     "melhor_volta": "36.287"
+    },
+    {
+     "pos": "6",
+     "kart": "27",
+     "nome": "Joao Carlos",
+     "melhor_volta": "36.082"
+    },
+    {
+     "pos": "7",
+     "kart": "22",
+     "nome": "Roniel",
+     "melhor_volta": "36.119"
+    },
+    {
+     "pos": "8",
+     "kart": "25",
+     "nome": "Pedro Kuhn",
+     "melhor_volta": "36.121"
+    },
+    {
+     "pos": "9",
+     "kart": "06",
+     "nome": "Antonio Neto",
+     "melhor_volta": "36.208"
+    },
+    {
+     "pos": "10",
+     "kart": "29",
+     "nome": "Pedro Silveira",
+     "melhor_volta": "36.778"
+    },
+    {
+     "pos": "11",
+     "kart": "4",
+     "nome": "Douglas C.",
+     "melhor_volta": "36.486"
+    }
+   ],
+   "categoria": "Oficial"
+  },
+  {
+   "tracado": "Traçado 11 — Sentido Horário (615m)",
+   "evento": "Competikar Rental Kart",
+   "data": "03/10/2026",
+   "etapa": "7a Etapa (2o semestre)",
+   "bateria": "Grupo 2 - 2a Bateria",
+   "tipo": "Corrida",
+   "_melhor_volta_impressa": "Joao Carlos 00:29.927 (ANOMALO, ver _nota)",
+   "_nota": "7a etapa 03/10/2026, Kartodromo Jose Carlos Pace. Tracado = 11 (615m, sentido horario) pela ARTE OFICIAL da etapa postada pelo Magrao no grupo Competikar em 02/10 09h56 (copia em 4-ESTADO/kart/2026-10-03-etapa7/tracado-7a-etapa.jpg); rotulo 'Indoor' da folha ignorado. Pietro mandou por Telegram (10/10) lancar como etapa oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. Chuva moderada avisada pela organizacao 12h26. Joao Carlos: TMV impresso 29.927 e impossivel na pista de 615m (~36 s) — erro de cronometragem; gravado o TMV2 dele (36.197, volta 8). Roniel NC com 2 voltas, tempo mantido como impresso.",
+   "resultados": [
+    {
+     "pos": "1",
+     "kart": "16",
+     "nome": "Douglas C.",
+     "melhor_volta": "35.517"
+    },
+    {
+     "pos": "2",
+     "kart": "6",
+     "nome": "Pietro",
+     "melhor_volta": "35.976"
+    },
+    {
+     "pos": "3",
+     "kart": "26",
+     "nome": "Pedro Kuhn",
+     "melhor_volta": "36.050"
+    },
+    {
+     "pos": "4",
+     "kart": "22",
+     "nome": "Cadu",
+     "melhor_volta": "35.814"
+    },
+    {
+     "pos": "5",
+     "kart": "25",
+     "nome": "Fernando A.",
+     "melhor_volta": "36.031"
+    },
+    {
+     "pos": "6",
+     "kart": "29",
+     "nome": "Antonio Lazaro",
+     "melhor_volta": "36.312"
+    },
+    {
+     "pos": "7",
+     "kart": "24",
+     "nome": "Antonio Neto",
+     "melhor_volta": "36.396"
+    },
+    {
+     "pos": "8",
+     "kart": "27",
+     "nome": "Joao Carlos",
+     "melhor_volta": "36.197"
+    },
+    {
+     "pos": "9",
+     "kart": "14",
+     "nome": "Pedro Silveira",
+     "melhor_volta": "36.689"
+    },
+    {
+     "pos": "10",
+     "kart": "04",
+     "nome": "G. Filho",
+     "melhor_volta": "36.588"
+    },
+    {
+     "pos": "NC",
+     "kart": "21",
+     "nome": "Roniel",
+     "melhor_volta": "40.688"
+    }
+   ],
+   "categoria": "Oficial"
   }
  ]
 }

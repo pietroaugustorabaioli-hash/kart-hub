@@ -93,6 +93,12 @@ ALIASES = {
     "Pedro Rabaioli": "Pietro",         # folha oficial imprime o nome de registro; e o Pietro
     "Ph": "P.h.",                       # unico P.h.* — grafia sem pontos na folha de 12/09
     "Kadu": "Cadu",                     # unico Cadu (08/08 kart 24); 12/09 grafa com K, mesmo som, mesmo grid Light
+    # das folhas de 03/10 (7a Etapa) — a inicial desambigua, como o "Antonio L.":
+    "Douglas C.": "Douglas Calixto",    # unico Douglas C*
+    "Fernando A.": "Fernando Adorno",   # o "A." separa de Fernando Vilefort
+    "Carlos A.": "Carlos Alexandre",    # unico Carlos A* (Magno/Silva/Senju sao outros)
+    "Caio A.": "Caio Alexander",        # unico Caio A*
+    "Margao": "Magrao",                 # erro de digitacao da folha Grupo 1 2a Bateria
 }
 
 # AMBIGUOS — NAO juntar sem o Pietro dizer. Dois candidatos completos cada:

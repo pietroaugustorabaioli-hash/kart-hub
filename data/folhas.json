@@ -3062,5 +3062,521 @@
         "melhor_volta": "1:17.953"
       }
     ]
+  },
+  {
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "evento": "Competikar Rental Kart",
+    "data": "03/10/2026",
+    "etapa": "7a Etapa (2o semestre)",
+    "bateria": "Grupo 1 - Tomada de Tempo",
+    "tipo": "Tomada de tempo",
+    "_melhor_volta_impressa": "Candelore 00:45.412",
+    "_nota": "7a etapa 03/10/2026, Kartodromo Jose Carlos Pace. Tracado = 11 (615m, sentido horario) pela ARTE OFICIAL da etapa postada pelo Magrao no grupo Competikar em 02/10 09h56 (copia em 4-ESTADO/kart/2026-10-03-etapa7/tracado-7a-etapa.jpg); rotulo 'Indoor' da folha ignorado. Pietro mandou por Telegram (10/10) lancar como etapa oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. Chuva moderada avisada pela organizacao 12h26. Tempos de 45-53 s = pista molhada (chuva). Gustavo Gondim (#24) sem volta valida (TV 0, 00:00.000): fora dos resultados.",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "26",
+        "nome": "Candelore",
+        "melhor_volta": "45.412"
+      },
+      {
+        "pos": "2",
+        "kart": "22",
+        "nome": "Paulo Braga",
+        "melhor_volta": "45.595"
+      },
+      {
+        "pos": "3",
+        "kart": "16",
+        "nome": "Carlos A.",
+        "melhor_volta": "46.257"
+      },
+      {
+        "pos": "4",
+        "kart": "21",
+        "nome": "Caio A.",
+        "melhor_volta": "46.293"
+      },
+      {
+        "pos": "5",
+        "kart": "4",
+        "nome": "Rafael Lira",
+        "melhor_volta": "46.868"
+      },
+      {
+        "pos": "6",
+        "kart": "01",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "47.883"
+      },
+      {
+        "pos": "7",
+        "kart": "30",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "48.719"
+      },
+      {
+        "pos": "8",
+        "kart": "25",
+        "nome": "Enezio",
+        "melhor_volta": "48.991"
+      },
+      {
+        "pos": "9",
+        "kart": "27",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "49.374"
+      },
+      {
+        "pos": "10",
+        "kart": "14",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "50.100"
+      },
+      {
+        "pos": "11",
+        "kart": "06",
+        "nome": "Magrao",
+        "melhor_volta": "51.042"
+      },
+      {
+        "pos": "12",
+        "kart": "13",
+        "nome": "Rogerio B.",
+        "melhor_volta": "53.089"
+      },
+      {
+        "pos": "13",
+        "kart": "28",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "53.214"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "evento": "Competikar Rental Kart",
+    "data": "03/10/2026",
+    "etapa": "7a Etapa (2o semestre)",
+    "bateria": "Grupo 1 - 1a Bateria",
+    "tipo": "Corrida",
+    "_melhor_volta_impressa": "Candelore 00:43.339",
+    "_nota": "7a etapa 03/10/2026, Kartodromo Jose Carlos Pace. Tracado = 11 (615m, sentido horario) pela ARTE OFICIAL da etapa postada pelo Magrao no grupo Competikar em 02/10 09h56 (copia em 4-ESTADO/kart/2026-10-03-etapa7/tracado-7a-etapa.jpg); rotulo 'Indoor' da folha ignorado. Pietro mandou por Telegram (10/10) lancar como etapa oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. Chuva moderada avisada pela organizacao 12h26. Tempos de 43-48 s = pista molhada (chuva).",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "22",
+        "nome": "Paulo Braga",
+        "melhor_volta": "43.643"
+      },
+      {
+        "pos": "2",
+        "kart": "26",
+        "nome": "Candelore",
+        "melhor_volta": "43.339"
+      },
+      {
+        "pos": "3",
+        "kart": "21",
+        "nome": "Caio A.",
+        "melhor_volta": "44.929"
+      },
+      {
+        "pos": "4",
+        "kart": "16",
+        "nome": "Carlos A.",
+        "melhor_volta": "43.918"
+      },
+      {
+        "pos": "5",
+        "kart": "01",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "44.054"
+      },
+      {
+        "pos": "6",
+        "kart": "30",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "44.282"
+      },
+      {
+        "pos": "7",
+        "kart": "14",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "45.412"
+      },
+      {
+        "pos": "8",
+        "kart": "27",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "43.555"
+      },
+      {
+        "pos": "9",
+        "kart": "4",
+        "nome": "Rafael Lira",
+        "melhor_volta": "45.481"
+      },
+      {
+        "pos": "10",
+        "kart": "06",
+        "nome": "Magrao",
+        "melhor_volta": "45.019"
+      },
+      {
+        "pos": "11",
+        "kart": "25",
+        "nome": "Enezio",
+        "melhor_volta": "46.490"
+      },
+      {
+        "pos": "12",
+        "kart": "24",
+        "nome": "Gustavo Gondim",
+        "melhor_volta": "45.469"
+      },
+      {
+        "pos": "13",
+        "kart": "13",
+        "nome": "Rogerio B.",
+        "melhor_volta": "48.532"
+      },
+      {
+        "pos": "14",
+        "kart": "28",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "47.894"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "evento": "Competikar Rental Kart",
+    "data": "03/10/2026",
+    "etapa": "7a Etapa (2o semestre)",
+    "bateria": "Grupo 1 - 2a Bateria",
+    "tipo": "Corrida",
+    "_melhor_volta_impressa": "Rafael Lira 00:36.355",
+    "_nota": "7a etapa 03/10/2026, Kartodromo Jose Carlos Pace. Tracado = 11 (615m, sentido horario) pela ARTE OFICIAL da etapa postada pelo Magrao no grupo Competikar em 02/10 09h56 (copia em 4-ESTADO/kart/2026-10-03-etapa7/tracado-7a-etapa.jpg); rotulo 'Indoor' da folha ignorado. Pietro mandou por Telegram (10/10) lancar como etapa oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. Chuva moderada avisada pela organizacao 12h26. Pista ja seca (36-37 s). 'Margao' na folha = Magrao (grafia).",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "1",
+        "nome": "Margao",
+        "melhor_volta": "36.817"
+      },
+      {
+        "pos": "2",
+        "kart": "30",
+        "nome": "Rafael Lira",
+        "melhor_volta": "36.355"
+      },
+      {
+        "pos": "3",
+        "kart": "25",
+        "nome": "Carlos A.",
+        "melhor_volta": "36.489"
+      },
+      {
+        "pos": "4",
+        "kart": "21",
+        "nome": "Gustavo Gondim",
+        "melhor_volta": "37.130"
+      },
+      {
+        "pos": "5",
+        "kart": "22",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "37.084"
+      },
+      {
+        "pos": "6",
+        "kart": "6",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "36.968"
+      },
+      {
+        "pos": "7",
+        "kart": "14",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "36.792"
+      },
+      {
+        "pos": "8",
+        "kart": "28",
+        "nome": "Paulo Braga",
+        "melhor_volta": "37.534"
+      },
+      {
+        "pos": "9",
+        "kart": "16",
+        "nome": "Enezio",
+        "melhor_volta": "37.239"
+      },
+      {
+        "pos": "10",
+        "kart": "24",
+        "nome": "Caio A.",
+        "melhor_volta": "37.236"
+      },
+      {
+        "pos": "11",
+        "kart": "4",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "37.233"
+      },
+      {
+        "pos": "12",
+        "kart": "26",
+        "nome": "Rogerio B.",
+        "melhor_volta": "36.976"
+      },
+      {
+        "pos": "13",
+        "kart": "27",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "36.818"
+      },
+      {
+        "pos": "14",
+        "kart": "13",
+        "nome": "Candelore",
+        "melhor_volta": "36.767"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "evento": "Competikar Rental Kart",
+    "data": "03/10/2026",
+    "etapa": "7a Etapa (2o semestre)",
+    "bateria": "Grupo 2 - Tomada de Tempo",
+    "tipo": "Tomada de tempo",
+    "_melhor_volta_impressa": "G. Filho 00:36.450",
+    "_nota": "7a etapa 03/10/2026, Kartodromo Jose Carlos Pace. Tracado = 11 (615m, sentido horario) pela ARTE OFICIAL da etapa postada pelo Magrao no grupo Competikar em 02/10 09h56 (copia em 4-ESTADO/kart/2026-10-03-etapa7/tracado-7a-etapa.jpg); rotulo 'Indoor' da folha ignorado. Pietro mandou por Telegram (10/10) lancar como etapa oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. Chuva moderada avisada pela organizacao 12h26. Coluna TMV impressa meia linha abaixo do nome; casada pela ordem e conferida pelo Gap.",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "16",
+        "nome": "G. Filho",
+        "melhor_volta": "36.450"
+      },
+      {
+        "pos": "2",
+        "kart": "14",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "36.632"
+      },
+      {
+        "pos": "3",
+        "kart": "22",
+        "nome": "Roniel",
+        "melhor_volta": "36.910"
+      },
+      {
+        "pos": "4",
+        "kart": "26",
+        "nome": "Fernando A.",
+        "melhor_volta": "37.016"
+      },
+      {
+        "pos": "5",
+        "kart": "29",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "37.065"
+      },
+      {
+        "pos": "6",
+        "kart": "21",
+        "nome": "Cadu",
+        "melhor_volta": "37.094"
+      },
+      {
+        "pos": "7",
+        "kart": "25",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "37.284"
+      },
+      {
+        "pos": "8",
+        "kart": "4",
+        "nome": "Douglas C.",
+        "melhor_volta": "37.419"
+      },
+      {
+        "pos": "9",
+        "kart": "24",
+        "nome": "Pietro",
+        "melhor_volta": "37.469"
+      },
+      {
+        "pos": "10",
+        "kart": "27",
+        "nome": "Joao Carlos",
+        "melhor_volta": "37.490"
+      },
+      {
+        "pos": "11",
+        "kart": "06",
+        "nome": "Antonio Neto",
+        "melhor_volta": "37.541"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "evento": "Competikar Rental Kart",
+    "data": "03/10/2026",
+    "etapa": "7a Etapa (2o semestre)",
+    "bateria": "Grupo 2 - 1a Bateria",
+    "tipo": "Corrida",
+    "_melhor_volta_impressa": "G. Filho 00:35.907",
+    "_nota": "7a etapa 03/10/2026, Kartodromo Jose Carlos Pace. Tracado = 11 (615m, sentido horario) pela ARTE OFICIAL da etapa postada pelo Magrao no grupo Competikar em 02/10 09h56 (copia em 4-ESTADO/kart/2026-10-03-etapa7/tracado-7a-etapa.jpg); rotulo 'Indoor' da folha ignorado. Pietro mandou por Telegram (10/10) lancar como etapa oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. Chuva moderada avisada pela organizacao 12h26.",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "16",
+        "nome": "G. Filho",
+        "melhor_volta": "35.907"
+      },
+      {
+        "pos": "2",
+        "kart": "14",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "36.648"
+      },
+      {
+        "pos": "3",
+        "kart": "24",
+        "nome": "Pietro",
+        "melhor_volta": "36.402"
+      },
+      {
+        "pos": "4",
+        "kart": "26",
+        "nome": "Fernando A.",
+        "melhor_volta": "35.933"
+      },
+      {
+        "pos": "5",
+        "kart": "21",
+        "nome": "Cadu",
+        "melhor_volta": "36.287"
+      },
+      {
+        "pos": "6",
+        "kart": "27",
+        "nome": "Joao Carlos",
+        "melhor_volta": "36.082"
+      },
+      {
+        "pos": "7",
+        "kart": "22",
+        "nome": "Roniel",
+        "melhor_volta": "36.119"
+      },
+      {
+        "pos": "8",
+        "kart": "25",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "36.121"
+      },
+      {
+        "pos": "9",
+        "kart": "06",
+        "nome": "Antonio Neto",
+        "melhor_volta": "36.208"
+      },
+      {
+        "pos": "10",
+        "kart": "29",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "36.778"
+      },
+      {
+        "pos": "11",
+        "kart": "4",
+        "nome": "Douglas C.",
+        "melhor_volta": "36.486"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 11 — Sentido Horário (615m)",
+    "evento": "Competikar Rental Kart",
+    "data": "03/10/2026",
+    "etapa": "7a Etapa (2o semestre)",
+    "bateria": "Grupo 2 - 2a Bateria",
+    "tipo": "Corrida",
+    "_melhor_volta_impressa": "Joao Carlos 00:29.927 (ANOMALO, ver _nota)",
+    "_nota": "7a etapa 03/10/2026, Kartodromo Jose Carlos Pace. Tracado = 11 (615m, sentido horario) pela ARTE OFICIAL da etapa postada pelo Magrao no grupo Competikar em 02/10 09h56 (copia em 4-ESTADO/kart/2026-10-03-etapa7/tracado-7a-etapa.jpg); rotulo 'Indoor' da folha ignorado. Pietro mandou por Telegram (10/10) lancar como etapa oficial. Grupo 2 = LIGHT (Pietro), Grupo 1 = GRADUADOS. Chuva moderada avisada pela organizacao 12h26. Joao Carlos: TMV impresso 29.927 e impossivel na pista de 615m (~36 s) — erro de cronometragem; gravado o TMV2 dele (36.197, volta 8). Roniel NC com 2 voltas, tempo mantido como impresso.",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "16",
+        "nome": "Douglas C.",
+        "melhor_volta": "35.517"
+      },
+      {
+        "pos": "2",
+        "kart": "6",
+        "nome": "Pietro",
+        "melhor_volta": "35.976"
+      },
+      {
+        "pos": "3",
+        "kart": "26",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "36.050"
+      },
+      {
+        "pos": "4",
+        "kart": "22",
+        "nome": "Cadu",
+        "melhor_volta": "35.814"
+      },
+      {
+        "pos": "5",
+        "kart": "25",
+        "nome": "Fernando A.",
+        "melhor_volta": "36.031"
+      },
+      {
+        "pos": "6",
+        "kart": "29",
+        "nome": "Antonio Lazaro",
+        "melhor_volta": "36.312"
+      },
+      {
+        "pos": "7",
+        "kart": "24",
+        "nome": "Antonio Neto",
+        "melhor_volta": "36.396"
+      },
+      {
+        "pos": "8",
+        "kart": "27",
+        "nome": "Joao Carlos",
+        "melhor_volta": "36.197"
+      },
+      {
+        "pos": "9",
+        "kart": "14",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "36.689"
+      },
+      {
+        "pos": "10",
+        "kart": "04",
+        "nome": "G. Filho",
+        "melhor_volta": "36.588"
+      },
+      {
+        "pos": "NC",
+        "kart": "21",
+        "nome": "Roniel",
+        "melhor_volta": "40.688"
+      }
+    ]
   }
 ]
