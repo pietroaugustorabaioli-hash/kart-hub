@@ -99,11 +99,14 @@ ALIASES = {
     "Carlos A.": "Carlos Alexandre",    # unico Carlos A* (Magno/Silva/Senju sao outros)
     "Caio A.": "Caio Alexander",        # unico Caio A*
     "Margao": "Magrao",                 # erro de digitacao da folha Grupo 1 2a Bateria
+    # das folhas de 14/11 (8a Etapa, finais):
+    "Pietro R.": "Pietro",              # Pietro Rabaioli, #16 na pole do Grupo 2 (Light); ele contou a etapa por voz em 16/11
 }
 
 # AMBIGUOS — NAO juntar sem o Pietro dizer. Dois candidatos completos cada:
 #   "Antonio"  (25/06 Bat.01) -> Antonio Lazaro OU Antonio Carvalho?
 #   "Fernando" (25/06 Bat.02) -> Fernando Adorno OU Fernando Vilefort?
+#   "Antonio C." (14/11, Grupo 2) -> Antonio Carvalho OU Antonio Costa?
 # Ficam como piloto proprio ate ele resolver. Chutar aqui corrompe o recorde de um
 # deles em silencio - exatamente o erro de rotulo que ele ja mandou nao repetir.
 AMBIGUOS = {"Antonio", "Fernando"}

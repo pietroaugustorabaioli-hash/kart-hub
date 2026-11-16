@@ -3578,5 +3578,587 @@
         "melhor_volta": "40.688"
       }
     ]
+  },
+  {
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
+    "evento": "Competikar Rental Kart",
+    "data": "14/11/2026",
+    "etapa": "8a Etapa (2o semestre, finais)",
+    "bateria": "Grupo 1 - Tomada de Tempo",
+    "tipo": "Tomada de tempo",
+    "_melhor_volta_impressa": "Caio Alexsander 00:35.147",
+    "_nota": "8a Etapa 14/11/2026 (FINAIS do Competikar Rental Kart 2026), Kartodromo Jose Carlos Pace, Uberlandia. Tracado = 13 (550m, sentido anti-horario) pela ARTE OFICIAL postada no grupo Torneio Competikar em 14/11 12h33; e o mesmo Tracado 13 de 09/05 (550m, ~35 s). Folhas LapTime postadas no grupo em 14/11 14h51 (Grupo 1) e 15h34 (Grupo 2); copias em 4-ESTADO/kart/2026-11-14-etapa8/. Programacao: Graduados 13h e 13h30, Light 14h e 14h30 -> Grupo 1 = GRADUADOS, Grupo 2 = LIGHT (Pietro). Pietro pediu em 16/11 (voz) para lancar. Coluna '#' = kart da bateria.",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "4",
+        "nome": "Caio Alexander",
+        "melhor_volta": "35.147"
+      },
+      {
+        "pos": "2",
+        "kart": "11",
+        "nome": "Magrao",
+        "melhor_volta": "35.345"
+      },
+      {
+        "pos": "3",
+        "kart": "30",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "35.361"
+      },
+      {
+        "pos": "4",
+        "kart": "15",
+        "nome": "Paulo Braga",
+        "melhor_volta": "35.484"
+      },
+      {
+        "pos": "5",
+        "kart": "29",
+        "nome": "Rogerio B.",
+        "melhor_volta": "35.530"
+      },
+      {
+        "pos": "6",
+        "kart": "16",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "35.606"
+      },
+      {
+        "pos": "7",
+        "kart": "24",
+        "nome": "Enezio",
+        "melhor_volta": "35.633"
+      },
+      {
+        "pos": "8",
+        "kart": "14",
+        "nome": "Rafael Lira",
+        "melhor_volta": "35.924"
+      },
+      {
+        "pos": "9",
+        "kart": "12",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "36.023"
+      },
+      {
+        "pos": "10",
+        "kart": "22",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "36.203"
+      },
+      {
+        "pos": "11",
+        "kart": "6",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "36.237"
+      },
+      {
+        "pos": "12",
+        "kart": "20",
+        "nome": "Candelore",
+        "melhor_volta": "41.891"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
+    "evento": "Competikar Rental Kart",
+    "data": "14/11/2026",
+    "etapa": "8a Etapa (2o semestre, finais)",
+    "bateria": "Grupo 1 - 1a Bateria",
+    "tipo": "Corrida",
+    "_melhor_volta_impressa": "Magrao 00:34.637",
+    "_nota": "8a Etapa 14/11/2026 (FINAIS do Competikar Rental Kart 2026), Kartodromo Jose Carlos Pace, Uberlandia. Tracado = 13 (550m, sentido anti-horario) pela ARTE OFICIAL postada no grupo Torneio Competikar em 14/11 12h33; e o mesmo Tracado 13 de 09/05 (550m, ~35 s). Folhas LapTime postadas no grupo em 14/11 14h51 (Grupo 1) e 15h34 (Grupo 2); copias em 4-ESTADO/kart/2026-11-14-etapa8/. Programacao: Graduados 13h e 13h30, Light 14h e 14h30 -> Grupo 1 = GRADUADOS, Grupo 2 = LIGHT (Pietro). Pietro pediu em 16/11 (voz) para lancar. Coluna '#' = kart da bateria.",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "4",
+        "nome": "Caio Alexander",
+        "melhor_volta": "34.853"
+      },
+      {
+        "pos": "2",
+        "kart": "11",
+        "nome": "Magrao",
+        "melhor_volta": "34.637"
+      },
+      {
+        "pos": "3",
+        "kart": "15",
+        "nome": "Paulo Braga",
+        "melhor_volta": "35.262"
+      },
+      {
+        "pos": "4",
+        "kart": "16",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "35.279"
+      },
+      {
+        "pos": "5",
+        "kart": "30",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "35.045"
+      },
+      {
+        "pos": "6",
+        "kart": "24",
+        "nome": "Enezio",
+        "melhor_volta": "35.307"
+      },
+      {
+        "pos": "7",
+        "kart": "29",
+        "nome": "Rogerio B.",
+        "melhor_volta": "35.035"
+      },
+      {
+        "pos": "8",
+        "kart": "27",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "35.174"
+      },
+      {
+        "pos": "9",
+        "kart": "14",
+        "nome": "Rafael Lira",
+        "melhor_volta": "35.474"
+      },
+      {
+        "pos": "10",
+        "kart": "22",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "35.491"
+      },
+      {
+        "pos": "11",
+        "kart": "12",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "35.695"
+      },
+      {
+        "pos": "12",
+        "kart": "21",
+        "nome": "Gustavo Gondim",
+        "melhor_volta": "35.711"
+      },
+      {
+        "pos": "13",
+        "kart": "6",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "35.735"
+      },
+      {
+        "pos": "14",
+        "kart": "20",
+        "nome": "Candelore",
+        "melhor_volta": "35.164"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
+    "evento": "Competikar Rental Kart",
+    "data": "14/11/2026",
+    "etapa": "8a Etapa (2o semestre, finais)",
+    "bateria": "Grupo 1 - 2a Bateria",
+    "tipo": "Corrida",
+    "_melhor_volta_impressa": "Caio Alexsander 00:34.840",
+    "_nota": "8a Etapa 14/11/2026 (FINAIS do Competikar Rental Kart 2026), Kartodromo Jose Carlos Pace, Uberlandia. Tracado = 13 (550m, sentido anti-horario) pela ARTE OFICIAL postada no grupo Torneio Competikar em 14/11 12h33; e o mesmo Tracado 13 de 09/05 (550m, ~35 s). Folhas LapTime postadas no grupo em 14/11 14h51 (Grupo 1) e 15h34 (Grupo 2); copias em 4-ESTADO/kart/2026-11-14-etapa8/. Programacao: Graduados 13h e 13h30, Light 14h e 14h30 -> Grupo 1 = GRADUADOS, Grupo 2 = LIGHT (Pietro). Pietro pediu em 16/11 (voz) para lancar. Coluna '#' = kart da bateria.",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "4",
+        "nome": "Candelore",
+        "melhor_volta": "34.895"
+      },
+      {
+        "pos": "2",
+        "kart": "20",
+        "nome": "Caio Alexander",
+        "melhor_volta": "34.840"
+      },
+      {
+        "pos": "3",
+        "kart": "24",
+        "nome": "Rafael Lira",
+        "melhor_volta": "34.897"
+      },
+      {
+        "pos": "4",
+        "kart": "27",
+        "nome": "Rogerio B.",
+        "melhor_volta": "35.123"
+      },
+      {
+        "pos": "5",
+        "kart": "29",
+        "nome": "Fernando Vilefort",
+        "melhor_volta": "35.122"
+      },
+      {
+        "pos": "6",
+        "kart": "6",
+        "nome": "Magrao",
+        "melhor_volta": "35.096"
+      },
+      {
+        "pos": "7",
+        "kart": "30",
+        "nome": "Luiz Felipe",
+        "melhor_volta": "35.137"
+      },
+      {
+        "pos": "8",
+        "kart": "15",
+        "nome": "Gustavo Gondim",
+        "melhor_volta": "35.298"
+      },
+      {
+        "pos": "9",
+        "kart": "12",
+        "nome": "Geraldo Neto",
+        "melhor_volta": "35.581"
+      },
+      {
+        "pos": "10",
+        "kart": "16",
+        "nome": "Carlos Alexandre",
+        "melhor_volta": "35.650"
+      },
+      {
+        "pos": "11",
+        "kart": "21",
+        "nome": "Paulo Braga",
+        "melhor_volta": "35.974"
+      },
+      {
+        "pos": "12",
+        "kart": "14",
+        "nome": "Enezio",
+        "melhor_volta": "35.912"
+      },
+      {
+        "pos": "13",
+        "kart": "22",
+        "nome": "Luciano Ltm",
+        "melhor_volta": "36.092"
+      },
+      {
+        "pos": "14",
+        "kart": "11",
+        "nome": "Agostinho Tozzo",
+        "melhor_volta": "35.828"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
+    "evento": "Competikar Rental Kart",
+    "data": "14/11/2026",
+    "etapa": "8a Etapa (2o semestre, finais)",
+    "bateria": "Grupo 2 - Tomada de Tempo",
+    "tipo": "Tomada de tempo",
+    "_melhor_volta_impressa": "Pietro R. 00:35.465",
+    "_nota": "8a Etapa 14/11/2026 (FINAIS do Competikar Rental Kart 2026), Kartodromo Jose Carlos Pace, Uberlandia. Tracado = 13 (550m, sentido anti-horario) pela ARTE OFICIAL postada no grupo Torneio Competikar em 14/11 12h33; e o mesmo Tracado 13 de 09/05 (550m, ~35 s). Folhas LapTime postadas no grupo em 14/11 14h51 (Grupo 1) e 15h34 (Grupo 2); copias em 4-ESTADO/kart/2026-11-14-etapa8/. Programacao: Graduados 13h e 13h30, Light 14h e 14h30 -> Grupo 1 = GRADUADOS, Grupo 2 = LIGHT (Pietro). Pietro pediu em 16/11 (voz) para lancar. Coluna '#' = kart da bateria.",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "16",
+        "nome": "Pietro R.",
+        "melhor_volta": "35.465"
+      },
+      {
+        "pos": "2",
+        "kart": "20",
+        "nome": "Joao Carlos",
+        "melhor_volta": "35.623"
+      },
+      {
+        "pos": "3",
+        "kart": "4",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "35.651"
+      },
+      {
+        "pos": "4",
+        "kart": "15",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "35.663"
+      },
+      {
+        "pos": "5",
+        "kart": "11",
+        "nome": "G. Filho",
+        "melhor_volta": "35.834"
+      },
+      {
+        "pos": "6",
+        "kart": "27",
+        "nome": "Gustavo Soma",
+        "melhor_volta": "35.849"
+      },
+      {
+        "pos": "7",
+        "kart": "22",
+        "nome": "Roniel",
+        "melhor_volta": "35.904"
+      },
+      {
+        "pos": "8",
+        "kart": "6",
+        "nome": "Antonio C.",
+        "melhor_volta": "36.299"
+      },
+      {
+        "pos": "9",
+        "kart": "30",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "36.375"
+      },
+      {
+        "pos": "10",
+        "kart": "12",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "36.528"
+      },
+      {
+        "pos": "11",
+        "kart": "29",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "36.554"
+      },
+      {
+        "pos": "12",
+        "kart": "25",
+        "nome": "Kadu",
+        "melhor_volta": "37.068"
+      },
+      {
+        "pos": "13",
+        "kart": "21",
+        "nome": "Antonio L.",
+        "melhor_volta": "37.167"
+      },
+      {
+        "pos": "14",
+        "kart": "14",
+        "nome": "Luck F.",
+        "melhor_volta": "37.486"
+      },
+      {
+        "pos": "15",
+        "kart": "24",
+        "nome": "Joao Miguel",
+        "melhor_volta": "39.448"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
+    "evento": "Competikar Rental Kart",
+    "data": "14/11/2026",
+    "etapa": "8a Etapa (2o semestre, finais)",
+    "bateria": "Grupo 2 - 1a Bateria",
+    "tipo": "Corrida",
+    "_melhor_volta_impressa": "G. Filho 00:35.071",
+    "_nota": "8a Etapa 14/11/2026 (FINAIS do Competikar Rental Kart 2026), Kartodromo Jose Carlos Pace, Uberlandia. Tracado = 13 (550m, sentido anti-horario) pela ARTE OFICIAL postada no grupo Torneio Competikar em 14/11 12h33; e o mesmo Tracado 13 de 09/05 (550m, ~35 s). Folhas LapTime postadas no grupo em 14/11 14h51 (Grupo 1) e 15h34 (Grupo 2); copias em 4-ESTADO/kart/2026-11-14-etapa8/. Programacao: Graduados 13h e 13h30, Light 14h e 14h30 -> Grupo 1 = GRADUADOS, Grupo 2 = LIGHT (Pietro). Pietro pediu em 16/11 (voz) para lancar. Coluna '#' = kart da bateria.",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "16",
+        "nome": "Pietro R.",
+        "melhor_volta": "35.073"
+      },
+      {
+        "pos": "2",
+        "kart": "15",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "35.525"
+      },
+      {
+        "pos": "3",
+        "kart": "6",
+        "nome": "Antonio C.",
+        "melhor_volta": "35.201"
+      },
+      {
+        "pos": "4",
+        "kart": "20",
+        "nome": "Joao Carlos",
+        "melhor_volta": "35.302"
+      },
+      {
+        "pos": "5",
+        "kart": "11",
+        "nome": "G. Filho",
+        "melhor_volta": "35.071"
+      },
+      {
+        "pos": "6",
+        "kart": "27",
+        "nome": "Gustavo Soma",
+        "melhor_volta": "35.328"
+      },
+      {
+        "pos": "7",
+        "kart": "25",
+        "nome": "Kadu",
+        "melhor_volta": "35.614"
+      },
+      {
+        "pos": "8",
+        "kart": "22",
+        "nome": "Roniel",
+        "melhor_volta": "35.657"
+      },
+      {
+        "pos": "9",
+        "kart": "21",
+        "nome": "Antonio L.",
+        "melhor_volta": "36.039"
+      },
+      {
+        "pos": "10",
+        "kart": "29",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "35.827"
+      },
+      {
+        "pos": "11",
+        "kart": "14",
+        "nome": "Luck F.",
+        "melhor_volta": "35.948"
+      },
+      {
+        "pos": "12",
+        "kart": "24",
+        "nome": "Joao Miguel",
+        "melhor_volta": "35.931"
+      },
+      {
+        "pos": "13",
+        "kart": "12",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "35.685"
+      },
+      {
+        "pos": "14",
+        "kart": "4",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "35.223"
+      },
+      {
+        "pos": "15",
+        "kart": "30",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "35.776"
+      }
+    ]
+  },
+  {
+    "tracado": "Traçado 13 — Curtinho Curva da Árvore (550m)",
+    "evento": "Competikar Rental Kart",
+    "data": "14/11/2026",
+    "etapa": "8a Etapa (2o semestre, finais)",
+    "bateria": "Grupo 2 - 2a Bateria",
+    "tipo": "Corrida",
+    "_melhor_volta_impressa": "Pietro R. 00:34.935",
+    "_nota": "8a Etapa 14/11/2026 (FINAIS do Competikar Rental Kart 2026), Kartodromo Jose Carlos Pace, Uberlandia. Tracado = 13 (550m, sentido anti-horario) pela ARTE OFICIAL postada no grupo Torneio Competikar em 14/11 12h33; e o mesmo Tracado 13 de 09/05 (550m, ~35 s). Folhas LapTime postadas no grupo em 14/11 14h51 (Grupo 1) e 15h34 (Grupo 2); copias em 4-ESTADO/kart/2026-11-14-etapa8/. Programacao: Graduados 13h e 13h30, Light 14h e 14h30 -> Grupo 1 = GRADUADOS, Grupo 2 = LIGHT (Pietro). Pietro pediu em 16/11 (voz) para lancar. Coluna '#' = kart da bateria.",
+    "resultados": [
+      {
+        "pos": "1",
+        "kart": "15",
+        "nome": "Douglas Calixto",
+        "melhor_volta": "35.604"
+      },
+      {
+        "pos": "2",
+        "kart": "6",
+        "nome": "Pedro Kuhn",
+        "melhor_volta": "35.358"
+      },
+      {
+        "pos": "3",
+        "kart": "16",
+        "nome": "Pedro Silveira",
+        "melhor_volta": "35.389"
+      },
+      {
+        "pos": "4",
+        "kart": "8",
+        "nome": "Antonio L.",
+        "melhor_volta": "35.532"
+      },
+      {
+        "pos": "5",
+        "kart": "24",
+        "nome": "Joao Carlos",
+        "melhor_volta": "35.562"
+      },
+      {
+        "pos": "6",
+        "kart": "20",
+        "nome": "Joao Miguel",
+        "melhor_volta": "35.263"
+      },
+      {
+        "pos": "7",
+        "kart": "14",
+        "nome": "G. Filho",
+        "melhor_volta": "35.808"
+      },
+      {
+        "pos": "8",
+        "kart": "22",
+        "nome": "Roniel",
+        "melhor_volta": "35.349"
+      },
+      {
+        "pos": "9",
+        "kart": "4",
+        "nome": "Fernando Adorno",
+        "melhor_volta": "35.297"
+      },
+      {
+        "pos": "10",
+        "kart": "30",
+        "nome": "Pietro R.",
+        "melhor_volta": "34.935"
+      },
+      {
+        "pos": "11",
+        "kart": "12",
+        "nome": "Antonio C.",
+        "melhor_volta": "35.720"
+      },
+      {
+        "pos": "12",
+        "kart": "11",
+        "nome": "Luck F.",
+        "melhor_volta": "35.448"
+      },
+      {
+        "pos": "13",
+        "kart": "29",
+        "nome": "Gustavo Soma",
+        "melhor_volta": "35.607"
+      },
+      {
+        "pos": "14",
+        "kart": "1",
+        "nome": "Kadu",
+        "melhor_volta": "35.241"
+      },
+      {
+        "pos": "NC",
+        "kart": "27",
+        "nome": "Eduardo Paiva",
+        "melhor_volta": "35.869"
+      }
+    ]
   }
 ]
